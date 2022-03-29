@@ -162,7 +162,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 527
+      "2022-03-29": 532
     }
   },
   {
@@ -315,11 +315,11 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg",
     "slug": "search-neet-works",
     "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.16%",
+    "uptime": "99.17%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.17%",
     "time": 205,
     "timeDay": 205,
     "timeWeek": 205,
@@ -382,7 +382,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 527
+      "2022-03-29": 532
     }
   },
   {
@@ -445,11 +445,11 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/CL.svg",
     "slug": "search-zzls-xyz",
     "status": "up",
-    "uptime": "81.98%",
-    "uptimeDay": "81.98%",
-    "uptimeWeek": "81.98%",
-    "uptimeMonth": "81.98%",
-    "uptimeYear": "81.98%",
+    "uptime": "82.14%",
+    "uptimeDay": "82.14%",
+    "uptimeWeek": "82.14%",
+    "uptimeMonth": "82.14%",
+    "uptimeYear": "82.14%",
     "time": 624,
     "timeDay": 624,
     "timeWeek": 624,
@@ -555,11 +555,11 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/CA.svg",
     "slug": "searx-esmailelbob-xyz",
     "status": "up",
-    "uptime": "97.17%",
-    "uptimeDay": "97.17%",
-    "uptimeWeek": "97.17%",
-    "uptimeMonth": "97.17%",
-    "uptimeYear": "97.17%",
+    "uptime": "97.19%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "97.19%",
+    "uptimeMonth": "97.19%",
+    "uptimeYear": "97.19%",
     "time": 1135,
     "timeDay": 1135,
     "timeWeek": 1135,
@@ -718,19 +718,19 @@
     "url": "https://searx.lavatech.top/",
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg",
     "slug": "searx-lavatech-top",
-    "status": "down",
-    "uptime": "62.19%",
-    "uptimeDay": "62.19%",
-    "uptimeWeek": "62.19%",
-    "uptimeMonth": "62.19%",
-    "uptimeYear": "62.19%",
-    "time": 390,
-    "timeDay": 390,
-    "timeWeek": 390,
-    "timeMonth": 390,
-    "timeYear": 390,
+    "status": "up",
+    "uptime": "61.92%",
+    "uptimeDay": "61.92%",
+    "uptimeWeek": "61.92%",
+    "uptimeMonth": "61.92%",
+    "uptimeYear": "61.92%",
+    "time": 388,
+    "timeDay": 388,
+    "timeWeek": 388,
+    "timeMonth": 388,
+    "timeYear": 388,
     "dailyMinutesDown": {
-      "2022-03-29": 202
+      "2022-03-29": 206
     }
   },
   {
@@ -930,7 +930,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 527
+      "2022-03-29": 531
     }
   },
   {
@@ -957,11 +957,11 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/FI.svg",
     "slug": "searx-prvcy-eu",
     "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "99.14%",
+    "uptime": "99.15%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
     "time": 2374,
     "timeDay": 2374,
     "timeWeek": 2374,
@@ -1228,19 +1228,19 @@
     "url": "https://searx.tk/",
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg",
     "slug": "searx-tk",
-    "status": "down",
-    "uptime": "83.71%",
-    "uptimeDay": "83.71%",
-    "uptimeWeek": "83.71%",
-    "uptimeMonth": "83.71%",
-    "uptimeYear": "83.71%",
-    "time": 3013,
-    "timeDay": 3013,
-    "timeWeek": 3013,
-    "timeMonth": 3013,
-    "timeYear": 3013,
+    "status": "up",
+    "uptime": "83.16%",
+    "uptimeDay": "83.16%",
+    "uptimeWeek": "83.16%",
+    "uptimeMonth": "83.16%",
+    "uptimeYear": "83.16%",
+    "time": 3110,
+    "timeDay": 3110,
+    "timeWeek": 3110,
+    "timeMonth": 3110,
+    "timeYear": 3110,
     "dailyMinutesDown": {
-      "2022-03-29": 87
+      "2022-03-29": 90
     }
   },
   {
@@ -1465,11 +1465,11 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg",
     "slug": "suche-tromdienste-de",
     "status": "up",
-    "uptime": "62.93%",
-    "uptimeDay": "62.93%",
-    "uptimeWeek": "62.93%",
-    "uptimeMonth": "62.93%",
-    "uptimeYear": "62.93%",
+    "uptime": "63.25%",
+    "uptimeDay": "63.25%",
+    "uptimeWeek": "63.25%",
+    "uptimeMonth": "63.25%",
+    "uptimeYear": "63.25%",
     "time": 671,
     "timeDay": 671,
     "timeWeek": 671,
