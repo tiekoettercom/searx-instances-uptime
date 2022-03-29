@@ -149,7 +149,7 @@ sites:
       - 429
   - name: search.zzls.xyz
     url: https://search.zzls.xyz/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/CL.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
     expectedStatusCodes:
       - 200
       - 429
@@ -408,7 +408,7 @@ sites:
       - 429
   - name: searx.tk
     url: https://searx.tk/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg
     expectedStatusCodes:
       - 200
       - 429
@@ -562,6 +562,14 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
 
 commitMessages:
   commitAuthorName: "Tiekoetter Bot"
