@@ -149,18 +149,18 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg",
     "slug": "procurx-pt",
     "status": "down",
-    "uptime": "1.57%",
-    "uptimeDay": "1.57%",
-    "uptimeWeek": "1.57%",
-    "uptimeMonth": "1.57%",
-    "uptimeYear": "1.57%",
+    "uptime": "0.73%",
+    "uptimeDay": "0.73%",
+    "uptimeWeek": "0.73%",
+    "uptimeMonth": "0.73%",
+    "uptimeYear": "0.73%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 1
+      "2022-03-29": 2
     }
   },
   {
@@ -367,18 +367,18 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg",
     "slug": "search-st8-at",
     "status": "down",
-    "uptime": "2.44%",
-    "uptimeDay": "2.44%",
-    "uptimeWeek": "2.44%",
-    "uptimeMonth": "2.44%",
-    "uptimeYear": "2.44%",
+    "uptime": "2.05%",
+    "uptimeDay": "2.05%",
+    "uptimeWeek": "2.05%",
+    "uptimeMonth": "2.05%",
+    "uptimeYear": "2.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 1
+      "2022-03-29": 2
     }
   },
   {
@@ -441,18 +441,18 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/CL.svg",
     "slug": "search-zzls-xyz",
     "status": "down",
-    "uptime": "0.91%",
-    "uptimeDay": "0.91%",
-    "uptimeWeek": "0.91%",
-    "uptimeMonth": "0.91%",
-    "uptimeYear": "0.91%",
+    "uptime": "0.78%",
+    "uptimeDay": "0.78%",
+    "uptimeWeek": "0.78%",
+    "uptimeMonth": "0.78%",
+    "uptimeYear": "0.78%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 1
+      "2022-03-29": 2
     }
   },
   {
@@ -911,11 +911,11 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg",
     "slug": "searx-operationtulip-com",
     "status": "down",
-    "uptime": "4.07%",
-    "uptimeDay": "4.07%",
-    "uptimeWeek": "4.07%",
-    "uptimeMonth": "4.07%",
-    "uptimeYear": "4.07%",
+    "uptime": "2.36%",
+    "uptimeDay": "2.36%",
+    "uptimeWeek": "2.36%",
+    "uptimeMonth": "2.36%",
+    "uptimeYear": "2.36%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
