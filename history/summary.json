@@ -160,7 +160,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 42
+      "2022-03-29": 47
     }
   },
   {
@@ -367,18 +367,18 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg",
     "slug": "search-st8-at",
     "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 42
+      "2022-03-29": 47
     }
   },
   {
@@ -452,7 +452,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 42
+      "2022-03-29": 46
     }
   },
   {
@@ -713,18 +713,18 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg",
     "slug": "searx-lavatech-top",
     "status": "down",
-    "uptime": "54.87%",
-    "uptimeDay": "54.87%",
-    "uptimeWeek": "54.87%",
-    "uptimeMonth": "54.87%",
-    "uptimeYear": "54.87%",
+    "uptime": "49.33%",
+    "uptimeDay": "49.33%",
+    "uptimeWeek": "49.33%",
+    "uptimeMonth": "49.33%",
+    "uptimeYear": "49.33%",
     "time": 371,
     "timeDay": 371,
     "timeWeek": 371,
     "timeMonth": 371,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2022-03-29": 19
+      "2022-03-29": 24
     }
   },
   {
@@ -924,7 +924,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 42
+      "2022-03-29": 46
     }
   },
   {
@@ -950,19 +950,19 @@
     "url": "https://searx.prvcy.eu/",
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/FI.svg",
     "slug": "searx-prvcy-eu",
-    "status": "down",
-    "uptime": "97.31%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "97.31%",
-    "uptimeYear": "97.31%",
-    "time": 3165,
-    "timeDay": 3165,
-    "timeWeek": 3165,
-    "timeMonth": 3165,
-    "timeYear": 3165,
+    "status": "up",
+    "uptime": "90.19%",
+    "uptimeDay": "90.19%",
+    "uptimeWeek": "90.19%",
+    "uptimeMonth": "90.19%",
+    "uptimeYear": "90.19%",
+    "time": 2706,
+    "timeDay": 2706,
+    "timeWeek": 2706,
+    "timeMonth": 2706,
+    "timeYear": 2706,
     "dailyMinutesDown": {
-      "2022-03-29": 1
+      "2022-03-29": 5
     }
   },
   {
