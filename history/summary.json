@@ -59,11 +59,11 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/CA.svg",
     "slug": "engo-mint-lgbt",
     "status": "up",
-    "uptime": "96.89%",
-    "uptimeDay": "96.89%",
-    "uptimeWeek": "96.89%",
-    "uptimeMonth": "96.89%",
-    "uptimeYear": "96.89%",
+    "uptime": "97.00%",
+    "uptimeDay": "97.00%",
+    "uptimeWeek": "97.00%",
+    "uptimeMonth": "97.00%",
+    "uptimeYear": "97.00%",
     "time": 422,
     "timeDay": 422,
     "timeWeek": 422,
@@ -162,7 +162,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 146
+      "2022-03-29": 151
     }
   },
   {
@@ -315,11 +315,11 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg",
     "slug": "search-neet-works",
     "status": "up",
-    "uptime": "96.97%",
-    "uptimeDay": "96.97%",
-    "uptimeWeek": "96.97%",
-    "uptimeMonth": "96.97%",
-    "uptimeYear": "96.97%",
+    "uptime": "97.07%",
+    "uptimeDay": "97.07%",
+    "uptimeWeek": "97.07%",
+    "uptimeMonth": "97.07%",
+    "uptimeYear": "97.07%",
     "time": 224,
     "timeDay": 224,
     "timeWeek": 224,
@@ -382,7 +382,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 146
+      "2022-03-29": 151
     }
   },
   {
@@ -445,11 +445,11 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg",
     "slug": "search-zzls-xyz",
     "status": "up",
-    "uptime": "35.05%",
-    "uptimeDay": "35.05%",
-    "uptimeWeek": "35.05%",
-    "uptimeMonth": "35.05%",
-    "uptimeYear": "35.05%",
+    "uptime": "37.25%",
+    "uptimeDay": "37.25%",
+    "uptimeWeek": "37.25%",
+    "uptimeMonth": "37.25%",
+    "uptimeYear": "37.25%",
     "time": 633,
     "timeDay": 633,
     "timeWeek": 633,
@@ -717,11 +717,11 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg",
     "slug": "searx-lavatech-top",
     "status": "up",
-    "uptime": "57.03%",
-    "uptimeDay": "57.03%",
-    "uptimeWeek": "57.03%",
-    "uptimeMonth": "57.03%",
-    "uptimeYear": "57.03%",
+    "uptime": "58.49%",
+    "uptimeDay": "58.49%",
+    "uptimeWeek": "58.49%",
+    "uptimeMonth": "58.49%",
+    "uptimeYear": "58.49%",
     "time": 328,
     "timeDay": 328,
     "timeWeek": 328,
@@ -928,7 +928,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 146
+      "2022-03-29": 151
     }
   },
   {
@@ -955,11 +955,11 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/FI.svg",
     "slug": "searx-prvcy-eu",
     "status": "up",
-    "uptime": "96.89%",
-    "uptimeDay": "96.89%",
-    "uptimeWeek": "96.89%",
-    "uptimeMonth": "96.89%",
-    "uptimeYear": "96.89%",
+    "uptime": "97.00%",
+    "uptimeDay": "97.00%",
+    "uptimeWeek": "97.00%",
+    "uptimeMonth": "97.00%",
+    "uptimeYear": "97.00%",
     "time": 2706,
     "timeDay": 2706,
     "timeWeek": 2706,
@@ -1226,19 +1226,19 @@
     "url": "https://searx.tk/",
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg",
     "slug": "searx-tk",
-    "status": "up",
-    "uptime": "79.35%",
-    "uptimeDay": "79.35%",
-    "uptimeWeek": "79.35%",
-    "uptimeMonth": "79.35%",
-    "uptimeYear": "79.35%",
-    "time": 1729,
-    "timeDay": 1729,
-    "timeWeek": 1729,
-    "timeMonth": 1729,
-    "timeYear": 1729,
+    "status": "down",
+    "uptime": "79.44%",
+    "uptimeDay": "79.44%",
+    "uptimeWeek": "79.44%",
+    "uptimeMonth": "79.44%",
+    "uptimeYear": "79.44%",
+    "time": 2490,
+    "timeDay": 2490,
+    "timeWeek": 2490,
+    "timeMonth": 2490,
+    "timeYear": 2490,
     "dailyMinutesDown": {
-      "2022-03-29": 30
+      "2022-03-29": 31
     }
   },
   {
@@ -1462,18 +1462,20 @@
     "url": "https://suche.tromdienste.de/",
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/DE.svg",
     "slug": "suche-tromdienste-de",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
     "time": 600,
     "timeDay": 600,
     "timeWeek": 600,
     "timeMonth": 600,
     "timeYear": 600,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-29": 1
+    }
   },
   {
     "name": "suche.uferwerk.org",
