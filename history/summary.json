@@ -149,18 +149,18 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg",
     "slug": "procurx-pt",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 36
+      "2022-03-29": 42
     }
   },
   {
@@ -367,18 +367,18 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg",
     "slug": "search-st8-at",
     "status": "down",
-    "uptime": "0.09%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "0.09%",
-    "uptimeMonth": "0.09%",
-    "uptimeYear": "0.09%",
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 36
+      "2022-03-29": 42
     }
   },
   {
@@ -452,7 +452,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 36
+      "2022-03-29": 42
     }
   },
   {
@@ -712,19 +712,19 @@
     "url": "https://searx.lavatech.top/",
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg",
     "slug": "searx-lavatech-top",
-    "status": "up",
-    "uptime": "51.93%",
-    "uptimeDay": "51.93%",
-    "uptimeWeek": "51.93%",
-    "uptimeMonth": "51.93%",
-    "uptimeYear": "51.93%",
+    "status": "down",
+    "uptime": "54.87%",
+    "uptimeDay": "54.87%",
+    "uptimeWeek": "54.87%",
+    "uptimeMonth": "54.87%",
+    "uptimeYear": "54.87%",
     "time": 371,
     "timeDay": 371,
     "timeWeek": 371,
     "timeMonth": 371,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2022-03-29": 18
+      "2022-03-29": 19
     }
   },
   {
@@ -913,18 +913,18 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg",
     "slug": "searx-operationtulip-com",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 36
+      "2022-03-29": 42
     }
   },
   {
@@ -950,18 +950,20 @@
     "url": "https://searx.prvcy.eu/",
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/FI.svg",
     "slug": "searx-prvcy-eu",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 759,
-    "timeDay": 759,
-    "timeWeek": 759,
-    "timeMonth": 759,
-    "timeYear": 759,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "97.31%",
+    "uptimeDay": "97.31%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "97.31%",
+    "uptimeYear": "97.31%",
+    "time": 3165,
+    "timeDay": 3165,
+    "timeWeek": 3165,
+    "timeMonth": 3165,
+    "timeYear": 3165,
+    "dailyMinutesDown": {
+      "2022-03-29": 1
+    }
   },
   {
     "name": "searx.pwoss.org",
