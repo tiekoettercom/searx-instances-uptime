@@ -162,7 +162,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 552
+      "2022-03-29": 557
     }
   },
   {
@@ -382,7 +382,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 552
+      "2022-03-29": 557
     }
   },
   {
@@ -427,11 +427,11 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/CZ.svg",
     "slug": "search-zdechov-net",
     "status": "up",
-    "uptime": "98.21%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "98.21%",
+    "uptime": "98.22%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "98.22%",
+    "uptimeYear": "98.22%",
     "time": 465,
     "timeDay": 465,
     "timeWeek": 465,
@@ -447,11 +447,11 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/CL.svg",
     "slug": "search-zzls-xyz",
     "status": "up",
-    "uptime": "82.79%",
-    "uptimeDay": "82.79%",
-    "uptimeWeek": "82.79%",
-    "uptimeMonth": "82.79%",
-    "uptimeYear": "82.79%",
+    "uptime": "82.94%",
+    "uptimeDay": "82.94%",
+    "uptimeWeek": "82.94%",
+    "uptimeMonth": "82.94%",
+    "uptimeYear": "82.94%",
     "time": 624,
     "timeDay": 624,
     "timeWeek": 624,
@@ -557,11 +557,11 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/CA.svg",
     "slug": "searx-esmailelbob-xyz",
     "status": "up",
-    "uptime": "97.30%",
-    "uptimeDay": "97.30%",
-    "uptimeWeek": "97.30%",
-    "uptimeMonth": "97.30%",
-    "uptimeYear": "97.30%",
+    "uptime": "97.32%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "97.32%",
+    "uptimeYear": "97.32%",
     "time": 1135,
     "timeDay": 1135,
     "timeWeek": 1135,
@@ -720,19 +720,19 @@
     "url": "https://searx.lavatech.top/",
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg",
     "slug": "searx-lavatech-top",
-    "status": "up",
-    "uptime": "61.57%",
-    "uptimeDay": "61.57%",
-    "uptimeWeek": "61.57%",
-    "uptimeMonth": "61.57%",
-    "uptimeYear": "61.57%",
+    "status": "down",
+    "uptime": "61.67%",
+    "uptimeDay": "61.67%",
+    "uptimeWeek": "61.67%",
+    "uptimeMonth": "61.67%",
+    "uptimeYear": "61.67%",
     "time": 383,
     "timeDay": 383,
     "timeWeek": 383,
     "timeMonth": 383,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2022-03-29": 216
+      "2022-03-29": 217
     }
   },
   {
@@ -932,7 +932,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 552
+      "2022-03-29": 556
     }
   },
   {
@@ -959,11 +959,11 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/FI.svg",
     "slug": "searx-prvcy-eu",
     "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.18%",
+    "uptime": "99.19%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
     "time": 2374,
     "timeDay": 2374,
     "timeWeek": 2374,
@@ -1231,18 +1231,18 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg",
     "slug": "searx-tk",
     "status": "down",
-    "uptime": "82.74%",
-    "uptimeDay": "82.74%",
-    "uptimeWeek": "82.74%",
-    "uptimeMonth": "82.74%",
-    "uptimeYear": "82.74%",
+    "uptime": "82.02%",
+    "uptimeDay": "82.02%",
+    "uptimeWeek": "82.02%",
+    "uptimeMonth": "82.02%",
+    "uptimeYear": "82.02%",
     "time": 3046,
     "timeDay": 3046,
     "timeWeek": 3046,
     "timeMonth": 3046,
     "timeYear": 3046,
     "dailyMinutesDown": {
-      "2022-03-29": 96
+      "2022-03-29": 101
     }
   },
   {
@@ -1467,11 +1467,11 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg",
     "slug": "suche-tromdienste-de",
     "status": "up",
-    "uptime": "64.60%",
-    "uptimeDay": "64.60%",
-    "uptimeWeek": "64.60%",
-    "uptimeMonth": "64.60%",
-    "uptimeYear": "64.60%",
+    "uptime": "64.91%",
+    "uptimeDay": "64.91%",
+    "uptimeWeek": "64.91%",
+    "uptimeMonth": "64.91%",
+    "uptimeYear": "64.91%",
     "time": 671,
     "timeDay": 671,
     "timeWeek": 671,
