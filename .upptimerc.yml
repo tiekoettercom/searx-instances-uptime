@@ -390,7 +390,7 @@ sites:
       - 429
   - name: searx.stuehieyr.com
     url: https://searx.stuehieyr.com/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/FI.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
     expectedStatusCodes:
       - 200
       - 429
