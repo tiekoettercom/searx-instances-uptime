@@ -252,7 +252,7 @@ sites:
       - 429
   - name: searx.mha.fi
     url: https://searx.mha.fi/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/TR.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/FI.svg
     expectedStatusCodes:
       - 200
       - 429
