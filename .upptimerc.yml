@@ -721,9 +721,13 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  introTitle: "SearXNG and SearX status and uptime monitoring"
+  introMessage: This status page lists all SearXNG and SearX instances from searx.space and checks their uptime every 5 minutes.
   cname: searx-instances.tiekoetter.com
   baseUrl: /
-  logoUrl: https://docs.searxng.org/_static/searxng-wordmark.svg
+  favicon: https://tiekoettercom-cdn.tiekoetter.cloud/wp-content/uploads/2022/04/searxng-wordmark.png
+  faviconSvg: https://tiekoettercom-cdn.tiekoetter.cloud/wp-content/uploads/2022/04/searxng-wordmark.svg
+  logoUrl: https://tiekoettercom-cdn.tiekoetter.cloud/wp-content/uploads/2022/04/searxng-wordmark.svg
   name: SearXNG and SearX instances status and uptime
   navbar:
     - title: Status
