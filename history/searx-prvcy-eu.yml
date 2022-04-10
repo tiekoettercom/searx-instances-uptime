@@ -1,7 +1,7 @@
 url: https://searx.prvcy.eu/
-status: up
-code: 200
-responseTime: 718
-lastUpdated: 2022-04-10T01:16:56.994Z
+status: down
+code: 502
+responseTime: 797
+lastUpdated: 2022-04-10T03:12:14.239Z
 startTime: Tue Mar 29 2022 13:31:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
