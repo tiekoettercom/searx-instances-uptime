@@ -286,7 +286,7 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.gnous.eu
     url: https://searx.gnous.eu/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/FR.svg
     expectedStatusCodes:
       - 200
       - 429
