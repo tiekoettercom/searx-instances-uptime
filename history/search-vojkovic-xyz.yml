@@ -1,7 +1,7 @@
 url: https://search.vojkovic.xyz/
-status: up
-code: 200
-responseTime: 611
-lastUpdated: 2022-04-22T23:10:32.192Z
+status: down
+code: 502
+responseTime: 591
+lastUpdated: 2022-04-23T00:30:42.832Z
 startTime: Sun Apr 10 2022 10:00:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
