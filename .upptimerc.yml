@@ -717,14 +717,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: wtf.roflcopter.fr/searx
-    url: https://wtf.roflcopter.fr/searx/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: www.gruble.de
     url: https://www.gruble.de/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/DE.svg
@@ -744,6 +736,14 @@ sites:
   - name: xzx.ro
     url: https://xzx.ro/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: searx.roflcopter.fr
+    url: https://searx.roflcopter.fr/
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/DE.svg
     expectedStatusCodes:
       - 200
       - 429
