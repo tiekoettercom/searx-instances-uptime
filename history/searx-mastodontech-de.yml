@@ -1,7 +1,7 @@
 url: https://searx.mastodontech.de/
-status: up
-code: 200
-responseTime: 563
-lastUpdated: 2022-04-29T04:01:06.845Z
+status: down
+code: 502
+responseTime: 662
+lastUpdated: 2022-04-29T09:41:10.096Z
 startTime: Tue Mar 29 2022 13:31:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
