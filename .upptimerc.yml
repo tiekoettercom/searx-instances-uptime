@@ -188,14 +188,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.st8.at
-    url: https://search.st8.at/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.stinpriza.org
     url: https://search.stinpriza.org/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/DE.svg
@@ -215,14 +207,6 @@ sites:
   - name: search.vojkovic.xyz
     url: https://search.vojkovic.xyz/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/SG.svg
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.zdechov.net
-    url: https://search.zdechov.net/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/CZ.svg
     expectedStatusCodes:
       - 200
       - 429
@@ -284,14 +268,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.everdot.org
-    url: https://searx.everdot.org/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/SE.svg
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.fmac.xyz
     url: https://searx.fmac.xyz/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/CH.svg
@@ -324,14 +300,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.hardwired.link
-    url: https://searx.hardwired.link/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/DE.svg
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.jaska.cc
     url: https://searx.jaska.cc/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/FI.svg
@@ -352,6 +320,14 @@ sites:
   - name: searx.kujonello.cf
     url: https://searx.kujonello.cf/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/CA.svg
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: searx.loafland.xyz
+    url: https://searx.loafland.xyz/
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg
     expectedStatusCodes:
       - 200
       - 429
@@ -429,14 +405,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.operationtulip.com
-    url: https://searx.operationtulip.com/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.org
     url: https://searx.org/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg
@@ -464,14 +432,6 @@ sites:
   - name: searx.rasp.fr
     url: https://searx.rasp.fr/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/FR.svg
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.roughs.ru
-    url: https://searx.roughs.ru/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
     expectedStatusCodes:
       - 200
       - 429
@@ -511,14 +471,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.sethforprivacy.com
     url: https://searx.sethforprivacy.com/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/DE.svg
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.slash-dev.de
-    url: https://searx.slash-dev.de/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/DE.svg
     expectedStatusCodes:
       - 200
@@ -704,14 +656,6 @@ sites:
   - name: timdor.noip.me/searx
     url: https://timdor.noip.me/searx/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: trovu.komun.org
-    url: https://trovu.komun.org/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/DE.svg
     expectedStatusCodes:
       - 200
       - 429
