@@ -150,7 +150,7 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.neet.works
     url: https://search.neet.works/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
     expectedStatusCodes:
       - 200
       - 429
