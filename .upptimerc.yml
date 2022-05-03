@@ -4,6 +4,14 @@ repo: searx-instances-uptime # The name of this repository
 user-agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime
 
 sites:
+  - name: searx.tiekoetter.com
+    url: https://searx.tiekoetter.com/
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/DE.svg
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: anon.sx
     url: https://anon.sx/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/GB.svg
@@ -503,14 +511,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.theanonymouse.xyz
     url: https://searx.theanonymouse.xyz/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/DE.svg
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.tiekoetter.com
-    url: https://searx.tiekoetter.com/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/DE.svg
     expectedStatusCodes:
       - 200
