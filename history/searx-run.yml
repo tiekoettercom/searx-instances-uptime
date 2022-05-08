@@ -1,7 +1,7 @@
 url: https://searx.run/
-status: up
-code: 200
-responseTime: 673
-lastUpdated: 2022-05-07T23:11:08.310Z
+status: down
+code: 500
+responseTime: 344
+lastUpdated: 2022-05-08T20:01:47.364Z
 startTime: Tue Mar 29 2022 13:31:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
