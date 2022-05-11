@@ -676,7 +676,7 @@
     "timeMonth": 127,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2022-05-11": 142
+      "2022-05-11": 148
     }
   },
   {
@@ -1020,7 +1020,7 @@
     "slug": "searx-mha-fi",
     "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "73.05%",
+    "uptimeDay": "73.53%",
     "uptimeWeek": "92.22%",
     "uptimeMonth": "98.17%",
     "uptimeYear": "98.68%",
@@ -1520,19 +1520,19 @@
     "url": "https://searx.tk/",
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/CA.svg",
     "slug": "searx-tk",
-    "status": "up",
-    "uptime": "97.78%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "98.97%",
+    "status": "down",
+    "uptime": "97.79%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "98.95%",
     "uptimeMonth": "98.34%",
-    "uptimeYear": "97.78%",
+    "uptimeYear": "97.79%",
     "time": 2416,
     "timeDay": 7145,
     "timeWeek": 1957,
     "timeMonth": 1664,
     "timeYear": 2416,
     "dailyMinutesDown": {
-      "2022-05-11": 10,
+      "2022-05-11": 12,
       "2022-05-10": 9,
       "2022-05-09": 10,
       "2022-05-07": 40,
@@ -1561,8 +1561,7 @@
       "2022-04-08": 7,
       "2022-04-07": 29,
       "2022-04-06": 179,
-      "2022-04-05": 380,
-      "2022-04-04": 4
+      "2022-04-05": 380
     }
   },
   {
@@ -1615,7 +1614,7 @@
     "uptime": "93.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.73%",
+    "uptimeMonth": "96.75%",
     "uptimeYear": "93.17%",
     "time": 1318,
     "timeDay": 1388,
