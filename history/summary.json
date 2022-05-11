@@ -13,7 +13,7 @@
     "time": 803,
     "timeDay": 761,
     "timeWeek": 575,
-    "timeMonth": 763,
+    "timeMonth": 758,
     "timeYear": 803,
     "dailyMinutesDown": {
       "2022-05-07": 1,
@@ -38,7 +38,7 @@
     "time": 859,
     "timeDay": 664,
     "timeWeek": 652,
-    "timeMonth": 866,
+    "timeMonth": 862,
     "timeYear": 859,
     "dailyMinutesDown": {}
   },
@@ -98,7 +98,7 @@
     "time": 606,
     "timeDay": 583,
     "timeWeek": 551,
-    "timeMonth": 570,
+    "timeMonth": 569,
     "timeYear": 606,
     "dailyMinutesDown": {
       "2022-03-29": 4
@@ -118,7 +118,7 @@
     "time": 638,
     "timeDay": 360,
     "timeWeek": 986,
-    "timeMonth": 677,
+    "timeMonth": 679,
     "timeYear": 638,
     "dailyMinutesDown": {
       "2022-04-01": 5
@@ -138,7 +138,7 @@
     "time": 673,
     "timeDay": 693,
     "timeWeek": 642,
-    "timeMonth": 724,
+    "timeMonth": 725,
     "timeYear": 673,
     "dailyMinutesDown": {
       "2022-05-10": 5,
@@ -194,7 +194,7 @@
     "time": 263,
     "timeDay": 217,
     "timeWeek": 242,
-    "timeMonth": 266,
+    "timeMonth": 267,
     "timeYear": 263,
     "dailyMinutesDown": {}
   },
@@ -212,7 +212,7 @@
     "time": 623,
     "timeDay": 676,
     "timeWeek": 536,
-    "timeMonth": 617,
+    "timeMonth": 616,
     "timeYear": 623,
     "dailyMinutesDown": {
       "2022-05-01": 305,
@@ -254,7 +254,7 @@
     "time": 702,
     "timeDay": 808,
     "timeWeek": 721,
-    "timeMonth": 707,
+    "timeMonth": 708,
     "timeYear": 702,
     "dailyMinutesDown": {
       "2022-05-06": 179,
@@ -307,7 +307,7 @@
     "time": 903,
     "timeDay": 652,
     "timeWeek": 602,
-    "timeMonth": 906,
+    "timeMonth": 901,
     "timeYear": 903,
     "dailyMinutesDown": {
       "2022-04-15": 591,
@@ -352,7 +352,7 @@
     "time": 356,
     "timeDay": 390,
     "timeWeek": 261,
-    "timeMonth": 367,
+    "timeMonth": 366,
     "timeYear": 356,
     "dailyMinutesDown": {
       "2022-04-11": 5,
@@ -373,7 +373,7 @@
     "time": 1071,
     "timeDay": 1145,
     "timeWeek": 882,
-    "timeMonth": 1109,
+    "timeMonth": 1110,
     "timeYear": 1071,
     "dailyMinutesDown": {
       "2022-04-30": 8,
@@ -442,7 +442,7 @@
     "time": 706,
     "timeDay": 676,
     "timeWeek": 553,
-    "timeMonth": 691,
+    "timeMonth": 690,
     "timeYear": 706,
     "dailyMinutesDown": {}
   },
@@ -469,32 +469,6 @@
       "2022-04-09": 24,
       "2022-03-31": 70,
       "2022-03-29": 8
-    }
-  },
-  {
-    "name": "search.ononoki.org",
-    "url": "https://search.ononoki.org/",
-    "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg",
-    "slug": "search-ononoki-org",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.79%",
-    "time": 618,
-    "timeDay": 345,
-    "timeWeek": 489,
-    "timeMonth": 535,
-    "timeYear": 618,
-    "dailyMinutesDown": {
-      "2022-05-01": 65,
-      "2022-04-09": 40,
-      "2022-04-05": 4,
-      "2022-04-04": 4,
-      "2022-04-03": 5,
-      "2022-04-01": 5,
-      "2022-03-30": 5
     }
   },
   {
@@ -539,11 +513,11 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg",
     "slug": "search-roombob-cat",
     "status": "up",
-    "uptime": "98.15%",
+    "uptime": "98.16%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "98.15%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "98.16%",
+    "uptimeYear": "98.16%",
     "time": 541,
     "timeDay": 420,
     "timeWeek": 541,
@@ -569,7 +543,7 @@
     "time": 868,
     "timeDay": 672,
     "timeWeek": 804,
-    "timeMonth": 881,
+    "timeMonth": 880,
     "timeYear": 868,
     "dailyMinutesDown": {}
   },
@@ -587,7 +561,7 @@
     "time": 1150,
     "timeDay": 856,
     "timeWeek": 1184,
-    "timeMonth": 1205,
+    "timeMonth": 1207,
     "timeYear": 1150,
     "dailyMinutesDown": {
       "2022-05-04": 655,
@@ -630,7 +604,7 @@
     "time": 645,
     "timeDay": 628,
     "timeWeek": 676,
-    "timeMonth": 646,
+    "timeMonth": 647,
     "timeYear": 645,
     "dailyMinutesDown": {
       "2022-05-10": 35,
@@ -666,7 +640,7 @@
     "time": 909,
     "timeDay": 906,
     "timeWeek": 766,
-    "timeMonth": 990,
+    "timeMonth": 992,
     "timeYear": 909,
     "dailyMinutesDown": {
       "2022-05-07": 112,
@@ -683,6 +657,26 @@
       "2022-04-05": 9,
       "2022-03-30": 25,
       "2022-03-29": 95
+    }
+  },
+  {
+    "name": "searx.albony.xyz",
+    "url": "https://searx.albony.xyz/",
+    "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg",
+    "slug": "searx-albony-xyz",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 127,
+    "timeDay": 127,
+    "timeWeek": 127,
+    "timeMonth": 127,
+    "timeYear": 127,
+    "dailyMinutesDown": {
+      "2022-05-11": 2
     }
   },
   {
@@ -755,7 +749,7 @@
     "time": 860,
     "timeDay": 876,
     "timeWeek": 781,
-    "timeMonth": 865,
+    "timeMonth": 866,
     "timeYear": 860,
     "dailyMinutesDown": {
       "2022-04-05": 5
@@ -822,7 +816,7 @@
     "time": 785,
     "timeDay": 591,
     "timeWeek": 671,
-    "timeMonth": 801,
+    "timeMonth": 802,
     "timeYear": 785,
     "dailyMinutesDown": {
       "2022-05-09": 5,
@@ -862,7 +856,7 @@
     "time": 806,
     "timeDay": 969,
     "timeWeek": 752,
-    "timeMonth": 818,
+    "timeMonth": 817,
     "timeYear": 806,
     "dailyMinutesDown": {
       "2022-05-07": 5,
@@ -888,7 +882,7 @@
     "time": 972,
     "timeDay": 1028,
     "timeWeek": 801,
-    "timeMonth": 932,
+    "timeMonth": 931,
     "timeYear": 972,
     "dailyMinutesDown": {
       "2022-04-14": 691,
@@ -910,7 +904,7 @@
     "time": 787,
     "timeDay": 879,
     "timeWeek": 714,
-    "timeMonth": 789,
+    "timeMonth": 790,
     "timeYear": 787,
     "dailyMinutesDown": {
       "2022-05-04": 10,
@@ -922,18 +916,19 @@
     "url": "https://searx.jaska.cc/",
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/FI.svg",
     "slug": "searx-jaska-cc",
-    "status": "up",
+    "status": "down",
     "uptime": "93.12%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.88%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "93.12%",
     "uptimeYear": "93.12%",
-    "time": 846,
-    "timeDay": 682,
-    "timeWeek": 567,
-    "timeMonth": 846,
-    "timeYear": 846,
+    "time": 845,
+    "timeDay": 658,
+    "timeWeek": 570,
+    "timeMonth": 845,
+    "timeYear": 845,
     "dailyMinutesDown": {
+      "2022-05-11": 2,
       "2022-05-08": 5,
       "2022-05-07": 5,
       "2022-05-05": 9,
@@ -975,15 +970,15 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/CA.svg",
     "slug": "searx-kujonello-cf",
     "status": "up",
-    "uptime": "97.09%",
+    "uptime": "97.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "95.94%",
-    "uptimeYear": "97.09%",
+    "uptimeYear": "97.10%",
     "time": 984,
     "timeDay": 698,
     "timeWeek": 701,
-    "timeMonth": 1062,
+    "timeMonth": 1063,
     "timeYear": 984,
     "dailyMinutesDown": {
       "2022-05-08": 9,
@@ -1025,14 +1020,14 @@
     "slug": "searx-mha-fi",
     "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "62.69%",
+    "uptimeDay": "63.37%",
     "uptimeWeek": "92.22%",
     "uptimeMonth": "98.17%",
     "uptimeYear": "98.68%",
     "time": 827,
     "timeDay": 794,
     "timeWeek": 770,
-    "timeMonth": 824,
+    "timeMonth": 823,
     "timeYear": 827,
     "dailyMinutesDown": {
       "2022-05-10": 591,
@@ -1058,7 +1053,7 @@
     "time": 780,
     "timeDay": 919,
     "timeWeek": 704,
-    "timeMonth": 802,
+    "timeMonth": 801,
     "timeYear": 780,
     "dailyMinutesDown": {
       "2022-04-27": 5
@@ -1078,7 +1073,7 @@
     "time": 978,
     "timeDay": 1215,
     "timeWeek": 931,
-    "timeMonth": 983,
+    "timeMonth": 981,
     "timeYear": 978,
     "dailyMinutesDown": {
       "2022-04-11": 24,
@@ -1191,7 +1186,7 @@
     "time": 864,
     "timeDay": 912,
     "timeWeek": 771,
-    "timeMonth": 884,
+    "timeMonth": 883,
     "timeYear": 864,
     "dailyMinutesDown": {
       "2022-04-27": 190
@@ -1211,7 +1206,7 @@
     "time": 1050,
     "timeDay": 1166,
     "timeWeek": 912,
-    "timeMonth": 998,
+    "timeMonth": 997,
     "timeYear": 1050,
     "dailyMinutesDown": {
       "2022-05-10": 10,
@@ -1255,7 +1250,7 @@
     "time": 1460,
     "timeDay": 1008,
     "timeWeek": 1049,
-    "timeMonth": 1447,
+    "timeMonth": 1450,
     "timeYear": 1460,
     "dailyMinutesDown": {
       "2022-05-06": 4,
@@ -1300,7 +1295,7 @@
     "time": 646,
     "timeDay": 658,
     "timeWeek": 571,
-    "timeMonth": 654,
+    "timeMonth": 653,
     "timeYear": 646,
     "dailyMinutesDown": {
       "2022-04-02": 4
@@ -1362,7 +1357,7 @@
     "time": 670,
     "timeDay": 987,
     "timeWeek": 676,
-    "timeMonth": 669,
+    "timeMonth": 668,
     "timeYear": 670,
     "dailyMinutesDown": {
       "2022-05-08": 4
@@ -1382,7 +1377,7 @@
     "time": 726,
     "timeDay": 818,
     "timeWeek": 810,
-    "timeMonth": 726,
+    "timeMonth": 725,
     "timeYear": 726,
     "dailyMinutesDown": {
       "2022-05-05": 10,
@@ -1468,7 +1463,7 @@
     "time": 1267,
     "timeDay": 1364,
     "timeWeek": 1079,
-    "timeMonth": 1207,
+    "timeMonth": 1206,
     "timeYear": 1267,
     "dailyMinutesDown": {
       "2022-04-30": 5
@@ -1488,7 +1483,7 @@
     "time": 817,
     "timeDay": 896,
     "timeWeek": 658,
-    "timeMonth": 751,
+    "timeMonth": 750,
     "timeYear": 817,
     "dailyMinutesDown": {
       "2022-05-03": 4,
@@ -1509,7 +1504,7 @@
     "time": 803,
     "timeDay": 761,
     "timeWeek": 575,
-    "timeMonth": 763,
+    "timeMonth": 758,
     "timeYear": 803,
     "dailyMinutesDown": {
       "2022-05-07": 1,
@@ -1534,7 +1529,7 @@
     "time": 2385,
     "timeDay": 449,
     "timeWeek": 1426,
-    "timeMonth": 1593,
+    "timeMonth": 1597,
     "timeYear": 2385,
     "dailyMinutesDown": {
       "2022-05-10": 9,
@@ -1606,7 +1601,7 @@
     "time": 955,
     "timeDay": 925,
     "timeWeek": 898,
-    "timeMonth": 987,
+    "timeMonth": 988,
     "timeYear": 955,
     "dailyMinutesDown": {}
   },
@@ -1619,7 +1614,7 @@
     "uptime": "93.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.39%",
+    "uptimeMonth": "96.41%",
     "uptimeYear": "93.15%",
     "time": 1318,
     "timeDay": 1388,
@@ -1659,7 +1654,7 @@
     "time": 868,
     "timeDay": 800,
     "timeWeek": 809,
-    "timeMonth": 879,
+    "timeMonth": 877,
     "timeYear": 868,
     "dailyMinutesDown": {
       "2022-05-06": 5,
@@ -1681,7 +1676,7 @@
     "time": 1065,
     "timeDay": 1181,
     "timeWeek": 873,
-    "timeMonth": 1077,
+    "timeMonth": 1078,
     "timeYear": 1065,
     "dailyMinutesDown": {}
   },
@@ -1699,7 +1694,7 @@
     "time": 646,
     "timeDay": 247,
     "timeWeek": 915,
-    "timeMonth": 720,
+    "timeMonth": 721,
     "timeYear": 646,
     "dailyMinutesDown": {
       "2022-05-07": 9,
@@ -1724,7 +1719,7 @@
     "time": 799,
     "timeDay": 871,
     "timeWeek": 760,
-    "timeMonth": 768,
+    "timeMonth": 766,
     "timeYear": 799,
     "dailyMinutesDown": {
       "2022-05-10": 5,
@@ -1733,27 +1728,6 @@
       "2022-04-25": 5,
       "2022-04-21": 5,
       "2022-04-06": 43
-    }
-  },
-  {
-    "name": "searx.zecircle.xyz",
-    "url": "https://searx.zecircle.xyz/",
-    "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/FI.svg",
-    "slug": "searx-zecircle-xyz",
-    "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "78.01%",
-    "uptimeWeek": "96.34%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "99.39%",
-    "time": 955,
-    "timeDay": 1298,
-    "timeWeek": 806,
-    "timeMonth": 947,
-    "timeYear": 955,
-    "dailyMinutesDown": {
-      "2022-05-10": 369,
-      "2022-04-17": 5
     }
   },
   {
@@ -1782,7 +1756,7 @@
   {
     "name": "spot.ecloud.global",
     "url": "https://spot.ecloud.global/",
-    "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg",
+    "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/DE.svg",
     "slug": "spot-ecloud-global",
     "status": "up",
     "uptime": "99.66%",
@@ -1793,7 +1767,7 @@
     "time": 1248,
     "timeDay": 682,
     "timeWeek": 2316,
-    "timeMonth": 1409,
+    "timeMonth": 1413,
     "timeYear": 1248,
     "dailyMinutesDown": {
       "2022-05-09": 8,
@@ -1839,7 +1813,7 @@
     "time": 917,
     "timeDay": 846,
     "timeWeek": 884,
-    "timeMonth": 821,
+    "timeMonth": 822,
     "timeYear": 917,
     "dailyMinutesDown": {
       "2022-04-26": 10,
@@ -1867,7 +1841,7 @@
     "time": 700,
     "timeDay": 885,
     "timeWeek": 660,
-    "timeMonth": 711,
+    "timeMonth": 710,
     "timeYear": 700,
     "dailyMinutesDown": {
       "2022-04-25": 5,
@@ -1888,7 +1862,7 @@
     "time": 258,
     "timeDay": 268,
     "timeWeek": 234,
-    "timeMonth": 259,
+    "timeMonth": 258,
     "timeYear": 258,
     "dailyMinutesDown": {}
   },
@@ -1974,6 +1948,24 @@
     "timeWeek": 230,
     "timeMonth": 237,
     "timeYear": 238,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "yuno.zecircle.xyz/yunohost/sso/?r=aHR0cHM6Ly9zZWFyeC56ZWNpcmNsZS54eXov",
+    "url": "https://yuno.zecircle.xyz/yunohost/sso/?r=aHR0cHM6Ly9zZWFyeC56ZWNpcmNsZS54eXov/",
+    "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg",
+    "slug": "yuno-zecircle-xyz-yunohost-sso-r-a-hr-0c-hm-6-ly9z-zw-fye-c56-zw-npcm-ns-zs-54e-xov",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 787,
+    "timeDay": 787,
+    "timeWeek": 787,
+    "timeMonth": 787,
+    "timeYear": 787,
     "dailyMinutesDown": {}
   },
   {
