@@ -1,7 +1,7 @@
 url: https://suche.dasnetzundich.de/
-status: up
-code: 200
-responseTime: 701
-lastUpdated: 2022-05-15T10:01:52.473Z
+status: down
+code: 502
+responseTime: 8063
+lastUpdated: 2022-05-15T12:42:43.649Z
 startTime: Tue Mar 29 2022 13:32:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
