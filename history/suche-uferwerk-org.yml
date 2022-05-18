@@ -1,7 +1,7 @@
 url: https://suche.uferwerk.org/
-status: up
-code: 200
-responseTime: 4411
-lastUpdated: 2022-05-18T13:01:57.926Z
+status: down
+code: 502
+responseTime: 453
+lastUpdated: 2022-05-18T22:21:24.065Z
 startTime: Tue Mar 29 2022 13:32:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
