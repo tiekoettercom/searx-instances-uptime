@@ -1,7 +1,7 @@
 url: https://searx.ninja/
-status: up
-code: 200
-responseTime: 31
-lastUpdated: 2022-05-31T11:11:17.079Z
+status: down
+code: 500
+responseTime: 96
+lastUpdated: 2022-05-31T11:21:19.513Z
 startTime: Tue Mar 29 2022 13:31:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
