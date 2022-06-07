@@ -1,7 +1,7 @@
 url: https://searx.ebnar.xyz/
-status: up
-code: 200
-responseTime: 591
-lastUpdated: 2022-06-07T01:01:04.371Z
+status: down
+code: 502
+responseTime: 788
+lastUpdated: 2022-06-07T09:21:32.881Z
 startTime: Tue Mar 29 2022 13:31:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
