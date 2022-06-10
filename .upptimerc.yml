@@ -463,7 +463,7 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.rasp.fr
     url: https://searx.rasp.fr/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/FR.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
     expectedStatusCodes:
       - 200
       - 429
