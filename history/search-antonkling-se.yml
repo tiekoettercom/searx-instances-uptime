@@ -1,7 +1,7 @@
 url: https://search.antonkling.se/
-status: up
-code: 200
-responseTime: 2295
-lastUpdated: 2022-06-12T23:09:40.545Z
+status: down
+code: 502
+responseTime: 293
+lastUpdated: 2022-06-13T08:11:00.774Z
 startTime: Tue Mar 29 2022 13:31:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
