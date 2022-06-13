@@ -246,7 +246,7 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.zzls.xyz
     url: https://search.zzls.xyz/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/CL.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
     expectedStatusCodes:
       - 200
       - 429
@@ -599,7 +599,7 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.zapashcanon.fr
     url: https://searx.zapashcanon.fr/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/FR.svg
     expectedStatusCodes:
       - 200
       - 429
@@ -608,6 +608,14 @@ sites:
   - name: searxng.ir
     url: https://searxng.ir/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/IE.svg
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: searxng.tordenskjold.de
+    url: https://searxng.tordenskjold.de/
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/DE.svg
     expectedStatusCodes:
       - 200
       - 429
@@ -696,6 +704,14 @@ sites:
   - name: www.webrats.xyz
     url: https://www.webrats.xyz/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: xcxc.ml
+    url: https://xcxc.ml/
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/LT.svg
     expectedStatusCodes:
       - 200
       - 429
