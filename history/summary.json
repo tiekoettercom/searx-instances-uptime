@@ -327,8 +327,8 @@
     "status": "down",
     "uptime": "95.77%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "66.70%",
-    "uptimeMonth": "92.21%",
+    "uptimeWeek": "66.66%",
+    "uptimeMonth": "92.20%",
     "uptimeYear": "95.77%",
     "time": 880,
     "timeDay": 776,
@@ -336,7 +336,7 @@
     "timeMonth": 862,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2022-06-15": 963,
+      "2022-06-15": 967,
       "2022-06-14": 1440,
       "2022-06-13": 954,
       "2022-06-06": 3,
@@ -699,11 +699,11 @@
     "icon": "https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/SG.svg",
     "slug": "search-vojkovic-xyz",
     "status": "up",
-    "uptime": "89.62%",
+    "uptime": "89.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.15%",
     "uptimeMonth": "96.73%",
-    "uptimeYear": "89.62%",
+    "uptimeYear": "89.63%",
     "time": 798,
     "timeDay": 683,
     "timeWeek": 1541,
@@ -800,9 +800,9 @@
     "slug": "searx-albony-xyz",
     "status": "up",
     "uptime": "97.60%",
-    "uptimeDay": "55.93%",
+    "uptimeDay": "55.89%",
     "uptimeWeek": "93.60%",
-    "uptimeMonth": "97.18%",
+    "uptimeMonth": "97.19%",
     "uptimeYear": "97.60%",
     "time": 918,
     "timeDay": 1358,
@@ -810,11 +810,11 @@
     "timeMonth": 976,
     "timeYear": 918,
     "dailyMinutesDown": {
-      "2022-06-15": 409,
+      "2022-06-15": 410,
       "2022-06-14": 233,
       "2022-06-10": 5,
       "2022-06-05": 447,
-      "2022-06-04": 142
+      "2022-06-04": 138
     }
   },
   {
@@ -1664,9 +1664,9 @@
     "slug": "searx-solusar-de",
     "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "85.92%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "85.66%",
+    "uptimeWeek": "97.95%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "99.82%",
     "time": 906,
     "timeDay": 754,
@@ -1674,7 +1674,7 @@
     "timeMonth": 863,
     "timeYear": 906,
     "dailyMinutesDown": {
-      "2022-06-15": 203
+      "2022-06-15": 206
     }
   },
   {
@@ -1854,8 +1854,8 @@
     "status": "down",
     "uptime": "91.73%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "7.70%",
-    "uptimeMonth": "78.76%",
+    "uptimeWeek": "7.66%",
+    "uptimeMonth": "78.75%",
     "uptimeYear": "91.73%",
     "time": 1067,
     "timeDay": 0,
@@ -1863,7 +1863,7 @@
     "timeMonth": 1081,
     "timeYear": 1067,
     "dailyMinutesDown": {
-      "2022-06-15": 966,
+      "2022-06-15": 969,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
@@ -2141,7 +2141,7 @@
     "uptime": "92.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.73%",
+    "uptimeMonth": "91.74%",
     "uptimeYear": "92.94%",
     "time": 241,
     "timeDay": 202,
