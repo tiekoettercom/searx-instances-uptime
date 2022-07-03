@@ -140,6 +140,14 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.bingowaves.xyz
+    url: https://search.bingowaves.xyz/
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.bus-hit.me
     url: https://search.bus-hit.me/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/CA.svg
@@ -688,6 +696,14 @@ sites:
   - name: spot.ecloud.global
     url: https://spot.ecloud.global/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/DE.svg
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: srx.cosmohub.io
+    url: https://srx.cosmohub.io/
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/AU.svg
     expectedStatusCodes:
       - 200
       - 429
