@@ -44,14 +44,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: asowneryt.cloudns.nz
-    url: https://asowneryt.cloudns.nz/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: de.xcxc.ml
     url: https://de.xcxc.ml/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/DE.svg
