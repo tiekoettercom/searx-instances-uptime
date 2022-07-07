@@ -38,7 +38,7 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: anon.sx
     url: https://anon.sx/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/GB.svg
     expectedStatusCodes:
       - 200
       - 429
@@ -639,7 +639,7 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.youshitsune.me
     url: https://searx.youshitsune.me/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
     expectedStatusCodes:
       - 200
       - 429
