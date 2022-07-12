@@ -84,14 +84,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: nibblehole.com
-    url: https://nibblehole.com/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/DE.svg
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: northboot.xyz
     url: https://northboot.xyz/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/DE.svg
