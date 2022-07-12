@@ -68,6 +68,14 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: icanfindit.online
+    url: https://icanfindit.online/
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: jsearch.pw
     url: https://jsearch.pw/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg
