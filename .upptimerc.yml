@@ -108,6 +108,14 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: privatus.live
+    url: https://privatus.live/
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/AU.svg
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: s.frlt.one
     url: https://s.frlt.one/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/SG.svg
@@ -582,7 +590,7 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.stuehieyr.com
     url: https://searx.stuehieyr.com/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/FI.svg
     expectedStatusCodes:
       - 200
       - 429
