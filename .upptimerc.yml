@@ -180,6 +180,14 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.gcomm.ch
+    url: https://search.gcomm.ch/
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/CH.svg
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.kiwitalk.de
     url: https://search.kiwitalk.de/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/DE.svg
