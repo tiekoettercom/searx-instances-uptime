@@ -326,7 +326,7 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.chocoflan.net
     url: https://searx.chocoflan.net/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg
     expectedStatusCodes:
       - 200
       - 429
@@ -414,7 +414,7 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.kujonello.cf
     url: https://searx.kujonello.cf/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/CA.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
     expectedStatusCodes:
       - 200
       - 429
