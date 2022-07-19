@@ -108,9 +108,17 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: priv.au
+    url: https://priv.au/
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/SG.svg
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: private-searx.ml
     url: https://private-searx.ml/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg
     expectedStatusCodes:
       - 200
       - 429
@@ -295,14 +303,6 @@ sites:
   - name: search.unlocked.link
     url: https://search.unlocked.link/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/FI.svg
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.vojkovic.xyz
-    url: https://search.vojkovic.xyz/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/SG.svg
     expectedStatusCodes:
       - 200
       - 429
