@@ -102,7 +102,7 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: opnxng.com
     url: https://opnxng.com/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/JP.svg
     expectedStatusCodes:
       - 200
       - 429
@@ -254,7 +254,7 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.projectsegfau.lt
     url: https://search.projectsegfau.lt/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/FR.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
     expectedStatusCodes:
       - 200
       - 429
@@ -734,7 +734,7 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: spot.ecloud.global
     url: https://spot.ecloud.global/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/DE.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
     expectedStatusCodes:
       - 200
       - 429
