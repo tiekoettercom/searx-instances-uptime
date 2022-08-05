@@ -804,6 +804,14 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: www.higgssearch.com
+    url: https://www.higgssearch.com/
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: www.webrats.xyz
     url: https://www.webrats.xyz/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg
