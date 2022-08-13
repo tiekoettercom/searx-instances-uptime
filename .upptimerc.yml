@@ -316,6 +316,14 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: searx.baczek.me
+    url: https://searx.baczek.me/
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/PL.svg
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.becomesovran.com
     url: https://searx.becomesovran.com/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg
