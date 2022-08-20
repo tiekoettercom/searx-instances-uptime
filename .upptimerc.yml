@@ -244,6 +244,14 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.rhscze.cf
+    url: https://search.rhscze.cf/
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/NL.svg
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.sapti.me
     url: https://search.sapti.me/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/DE.svg
