@@ -390,7 +390,7 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.esmailelbob.xyz
     url: https://searx.esmailelbob.xyz/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/CA.svg
     expectedStatusCodes:
       - 200
       - 429
@@ -791,6 +791,14 @@ sites:
   - name: timdor.noip.me/searx
     url: https://timdor.noip.me/searx/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: trydex.tk/searxng
+    url: https://trydex.tk/searxng/
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/RU.svg
     expectedStatusCodes:
       - 200
       - 429
