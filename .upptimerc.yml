@@ -644,14 +644,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.vimproved.me
-    url: https://searx.vimproved.me/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.webheberg.info
     url: https://searx.webheberg.info/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/FR.svg
@@ -815,14 +807,6 @@ sites:
   - name: www.gruble.de
     url: https://www.gruble.de/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/DE.svg
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: www.higgssearch.com
-    url: https://www.higgssearch.com/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/US.svg
     expectedStatusCodes:
       - 200
       - 429
