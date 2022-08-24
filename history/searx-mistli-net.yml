@@ -1,7 +1,7 @@
 url: https://searx.mistli.net/
-status: up
-code: 200
-responseTime: 404
-lastUpdated: 2022-08-24T23:11:34.643Z
+status: down
+code: 500
+responseTime: 304
+lastUpdated: 2022-08-24T23:41:08.020Z
 startTime: Wed Jun 22 2022 19:01:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
