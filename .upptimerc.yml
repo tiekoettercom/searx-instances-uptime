@@ -46,7 +46,7 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: dynabyte.ca
     url: https://dynabyte.ca/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/CA.svg
     expectedStatusCodes:
       - 200
       - 429
@@ -143,6 +143,14 @@ sites:
   - name: saber.tk
     url: https://saber.tk/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/DE.svg
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: sear.r-ay.co
+    url: https://sear.r-ay.co/
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/HK.svg
     expectedStatusCodes:
       - 200
       - 429
@@ -646,7 +654,7 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.tyil.nl
     url: https://searx.tyil.nl/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/NL.svg
     expectedStatusCodes:
       - 200
       - 429
