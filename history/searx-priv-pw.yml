@@ -1,7 +1,7 @@
 url: https://searx.priv.pw/
-status: up
-code: 200
-responseTime: 623
-lastUpdated: 2022-09-08T23:13:42.692Z
+status: down
+code: 502
+responseTime: 691
+lastUpdated: 2022-09-09T03:21:52.186Z
 startTime: Sun May 29 2022 22:01:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
