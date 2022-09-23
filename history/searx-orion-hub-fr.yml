@@ -1,7 +1,7 @@
 url: https://searx.orion-hub.fr/
-status: down
-code: 500
-responseTime: 610
-lastUpdated: 2022-09-23T05:51:07.262Z
+status: up
+code: 200
+responseTime: 487
+lastUpdated: 2022-09-23T06:01:21.348Z
 startTime: Thu May 12 2022 19:01:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
