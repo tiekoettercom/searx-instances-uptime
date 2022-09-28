@@ -182,7 +182,7 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.chemicals-in-the-water.eu
     url: https://search.chemicals-in-the-water.eu/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/IS.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/NL.svg
     expectedStatusCodes:
       - 200
       - 429
@@ -740,8 +740,8 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searxng.nicfab.it
-    url: https://searxng.nicfab.it/
+  - name: searxng.nicfab.eu
+    url: https://searxng.nicfab.eu/
     icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/IT.svg
     expectedStatusCodes:
       - 200
