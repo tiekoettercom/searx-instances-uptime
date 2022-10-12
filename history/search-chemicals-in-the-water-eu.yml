@@ -1,7 +1,7 @@
 url: https://search.chemicals-in-the-water.eu/
-status: up
-code: 200
-responseTime: 708
-lastUpdated: 2022-10-12T06:21:24.806Z
+status: down
+code: 502
+responseTime: 682
+lastUpdated: 2022-10-12T06:41:49.175Z
 startTime: Thu Jun 30 2022 22:01:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
