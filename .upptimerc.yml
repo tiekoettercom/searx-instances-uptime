@@ -206,7 +206,7 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.drivet.xyz
     url: https://search.drivet.xyz/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/FR.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/SE.svg
     expectedStatusCodes:
       - 200
       - 429
@@ -278,7 +278,7 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.projectsegfau.lt
     url: https://search.projectsegfau.lt/
-    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/FR.svg
+    icon: https://tiekoettercom-cdn.tiekoetter.cloud/flags/3x2/UNKNOWN.svg
     expectedStatusCodes:
       - 200
       - 429
