@@ -1,7 +1,7 @@
 url: https://timdor.noip.me/searx/
-status: up
-code: 200
-responseTime: 209
-lastUpdated: 2022-10-21T23:15:35.672Z
+status: down
+code: 502
+responseTime: 101
+lastUpdated: 2022-10-22T16:52:12.904Z
 startTime: Tue Mar 29 2022 13:32:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
