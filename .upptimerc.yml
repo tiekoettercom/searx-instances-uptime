@@ -627,13 +627,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.tuxcloud.net
-    url: https://searx.tuxcloud.net/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.tyil.nl
     url: https://searx.tyil.nl/
     expectedStatusCodes:
@@ -790,13 +783,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: www.webrats.xyz
     url: https://www.webrats.xyz/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: xcxc.ml
-    url: https://xcxc.ml/
     expectedStatusCodes:
       - 200
       - 429
