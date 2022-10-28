@@ -676,13 +676,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.zimro.xyz
-    url: https://searx.zimro.xyz/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searxng.dupa.edu.pl
     url: https://searxng.dupa.edu.pl/
     expectedStatusCodes:
