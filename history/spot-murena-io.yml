@@ -1,7 +1,7 @@
 url: https://spot.murena.io/
-status: up
-code: 200
-responseTime: 560
-lastUpdated: 2022-10-29T14:02:40.762Z
+status: down
+code: 503
+responseTime: 1196
+lastUpdated: 2022-10-29T15:11:52.585Z
 startTime: Mon Oct 24 2022 10:01:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
