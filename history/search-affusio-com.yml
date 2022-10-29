@@ -1,7 +1,7 @@
 url: https://search.affusio.com/
-status: up
-code: 200
-responseTime: 677
-lastUpdated: 2022-10-29T14:01:06.670Z
+status: down
+code: 502
+responseTime: 590
+lastUpdated: 2022-10-29T20:50:47.512Z
 startTime: Thu Jul 21 2022 07:01:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
