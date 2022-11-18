@@ -109,6 +109,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: privatesearch.dev
+    url: https://privatesearch.dev/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: privatus.live
     url: https://privatus.live/
     expectedStatusCodes:
@@ -657,6 +664,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.zapashcanon.fr
     url: https://searx.zapashcanon.fr/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: searxng.au
+    url: https://searxng.au/
     expectedStatusCodes:
       - 200
       - 429
