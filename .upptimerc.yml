@@ -53,6 +53,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: intelwinds.com
+    url: https://intelwinds.com/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: jackgoss.xyz
     url: https://jackgoss.xyz/
     expectedStatusCodes:
@@ -552,6 +559,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.prvcy.eu
     url: https://searx.prvcy.eu/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: searx.rasp.fr
+    url: https://searx.rasp.fr/
     expectedStatusCodes:
       - 200
       - 429
