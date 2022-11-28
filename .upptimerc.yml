@@ -32,13 +32,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: de.xcxc.ml
-    url: https://de.xcxc.ml/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: dynabyte.ca
     url: https://dynabyte.ca/
     expectedStatusCodes:
@@ -139,13 +132,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: s.zhaocloud.net
     url: https://s.zhaocloud.net/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: saber.tk
-    url: https://saber.tk/
     expectedStatusCodes:
       - 200
       - 429
@@ -755,20 +741,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: timdor.noip.me/searx
-    url: https://timdor.noip.me/searx/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: trydex.tk/searxng
-    url: https://trydex.tk/searxng/
     expectedStatusCodes:
       - 200
       - 429
