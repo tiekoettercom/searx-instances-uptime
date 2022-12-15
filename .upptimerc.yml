@@ -214,13 +214,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.ethibox.fr
-    url: https://search.ethibox.fr/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.gcomm.ch
     url: https://search.gcomm.ch/
     expectedStatusCodes:
@@ -580,13 +573,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.rasp.fr
     url: https://searx.rasp.fr/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.rimkus.it
-    url: https://searx.rimkus.it/
     expectedStatusCodes:
       - 200
       - 429
