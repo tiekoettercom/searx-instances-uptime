@@ -585,6 +585,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: searx.rimkus.it
+    url: https://searx.rimkus.it/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.roflcopter.fr
     url: https://searx.roflcopter.fr/
     expectedStatusCodes:
