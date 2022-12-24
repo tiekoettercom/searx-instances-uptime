@@ -39,6 +39,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: coppedge.info
+    url: https://coppedge.info/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: dynabyte.ca
     url: https://dynabyte.ca/
     expectedStatusCodes:
@@ -167,13 +174,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.affusio.com
     url: https://search.affusio.com/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.bloodygang.com
-    url: https://search.bloodygang.com/
     expectedStatusCodes:
       - 200
       - 429
@@ -608,13 +608,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.semipvt.com
     url: https://searx.semipvt.com/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.sethforprivacy.com
-    url: https://searx.sethforprivacy.com/
     expectedStatusCodes:
       - 200
       - 429
