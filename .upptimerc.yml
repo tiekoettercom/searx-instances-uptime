@@ -515,13 +515,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.mistli.net
-    url: https://searx.mistli.net/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.mxchange.org
     url: https://searx.mxchange.org/
     expectedStatusCodes:
@@ -662,13 +655,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.vanwa.tech
-    url: https://searx.vanwa.tech/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.webheberg.info
     url: https://searx.webheberg.info/
     expectedStatusCodes:
@@ -769,6 +755,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: sx.fukt.lol
+    url: https://sx.fukt.lol/
     expectedStatusCodes:
       - 200
       - 429
