@@ -1,7 +1,7 @@
 url: https://search.rabbit-company.com/
-status: down
-code: 502
-responseTime: 7776
-lastUpdated: 2023-01-04T09:42:14.110Z
+status: up
+code: 200
+responseTime: 484
+lastUpdated: 2023-01-04T10:11:47.589Z
 startTime: Thu Apr 21 2022 16:00:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
