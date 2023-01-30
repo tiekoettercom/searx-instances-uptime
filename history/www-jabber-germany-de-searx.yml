@@ -1,7 +1,7 @@
 url: https://www.jabber-germany.de/searx/
-status: up
-code: 200
-responseTime: 1274
-lastUpdated: 2023-01-30T04:22:04.803Z
+status: down
+code: 500
+responseTime: 1205
+lastUpdated: 2023-01-30T06:01:48.434Z
 startTime: Fri Jan 06 2023 11:02:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
