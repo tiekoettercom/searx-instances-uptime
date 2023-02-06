@@ -704,6 +704,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: stalk.antelope.day
+    url: https://stalk.antelope.day/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: suche.tromdienste.de
     url: https://suche.tromdienste.de/
     expectedStatusCodes:
