@@ -1,7 +1,7 @@
 url: https://searx.cthd.icu/
-status: up
-code: 200
-responseTime: 441
-lastUpdated: 2023-02-07T11:01:09.790Z
+status: down
+code: 502
+responseTime: 15910
+lastUpdated: 2023-02-07T18:31:40.728Z
 startTime: Wed Nov 30 2022 11:01:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
