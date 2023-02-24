@@ -431,13 +431,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.fi
-    url: https://searx.fi/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.fmac.xyz
     url: https://searx.fmac.xyz/
     expectedStatusCodes:
@@ -664,13 +657,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searxng.diadz.de
     url: https://searxng.diadz.de/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searxng.fingerbib.xyz
-    url: https://searxng.fingerbib.xyz/
     expectedStatusCodes:
       - 200
       - 429
