@@ -109,13 +109,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: privatesearch.dev
-    url: https://privatesearch.dev/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: privatus.live
     url: https://privatus.live/
     expectedStatusCodes:
@@ -188,13 +181,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.chemicals-in-the-water.eu
     url: https://search.chemicals-in-the-water.eu/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.cosyinternet.cafe
-    url: https://search.cosyinternet.cafe/
     expectedStatusCodes:
       - 200
       - 429
@@ -664,13 +650,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searxng.nicfab.eu
     url: https://searxng.nicfab.eu/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searxng.tordenskjold.de
-    url: https://searxng.tordenskjold.de/
     expectedStatusCodes:
       - 200
       - 429
