@@ -67,13 +67,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: intelwinds.com
-    url: https://intelwinds.com/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: jsearch.pw
     url: https://jsearch.pw/
     expectedStatusCodes:
@@ -146,13 +139,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: s.zhaocloud.net
     url: https://s.zhaocloud.net/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.0relay.com
-    url: https://search.0relay.com/
     expectedStatusCodes:
       - 200
       - 429
@@ -335,13 +321,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.trom.tf
     url: https://search.trom.tf/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.unlocked.link
-    url: https://search.unlocked.link/
     expectedStatusCodes:
       - 200
       - 429
