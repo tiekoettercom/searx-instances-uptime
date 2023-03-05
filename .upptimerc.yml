@@ -200,6 +200,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.dojoro.de
+    url: https://search.dojoro.de/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.gcomm.ch
     url: https://search.gcomm.ch/
     expectedStatusCodes:
