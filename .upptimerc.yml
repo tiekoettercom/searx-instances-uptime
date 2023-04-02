@@ -571,13 +571,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.slipfox.xyz/searx
-    url: https://searx.slipfox.xyz/searx/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.sp-codes.de
     url: https://searx.sp-codes.de/
     expectedStatusCodes:
