@@ -1,7 +1,7 @@
 url: https://searx.roflcopter.fr/
-status: up
-code: 200
-responseTime: 696
-lastUpdated: 2023-04-05T23:07:35.285Z
+status: down
+code: 502
+responseTime: 8847
+lastUpdated: 2023-04-06T00:01:11.624Z
 startTime: Wed Jun 29 2022 19:01:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
