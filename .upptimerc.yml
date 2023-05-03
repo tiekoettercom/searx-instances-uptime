@@ -207,8 +207,22 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.fascinated.cc
+    url: https://search.fascinated.cc/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.gcomm.ch
     url: https://search.gcomm.ch/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.houba.rocks
+    url: https://search.houba.rocks/
     expectedStatusCodes:
       - 200
       - 429
@@ -664,6 +678,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searxng.nicfab.eu
     url: https://searxng.nicfab.eu/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: searxng.no-logs.com
+    url: https://searxng.no-logs.com/
     expectedStatusCodes:
       - 200
       - 429
