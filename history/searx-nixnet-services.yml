@@ -1,7 +1,7 @@
 url: https://searx.nixnet.services/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-05-17T01:01:10.995Z
+status: up
+code: 200
+responseTime: 902
+lastUpdated: 2023-05-17T01:21:20.308Z
 startTime: Tue Mar 29 2022 13:31:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
