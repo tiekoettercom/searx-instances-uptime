@@ -1,7 +1,7 @@
 url: https://searxng.diadz.de/
-status: down
-code: 404
-responseTime: 387
-lastUpdated: 2023-05-21T06:31:57.225Z
+status: up
+code: 200
+responseTime: 449
+lastUpdated: 2023-05-21T06:41:47.817Z
 startTime: Wed Jan 18 2023 15:02:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
