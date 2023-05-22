@@ -1,7 +1,7 @@
 url: https://searx.esmailelbob.xyz/
-status: up
-code: 200
-responseTime: 412
-lastUpdated: 2023-05-21T23:08:55.671Z
+status: down
+code: 502
+responseTime: 350
+lastUpdated: 2023-05-22T03:31:26.167Z
 startTime: Tue Mar 29 2022 13:31:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
