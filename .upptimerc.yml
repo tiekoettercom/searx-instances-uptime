@@ -137,8 +137,8 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.chemicals-in-the-water.eu
-    url: https://search.chemicals-in-the-water.eu/
+  - name: search.citw.lgbt
+    url: https://search.citw.lgbt/
     expectedStatusCodes:
       - 200
       - 429
