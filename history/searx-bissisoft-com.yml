@@ -1,7 +1,7 @@
 url: https://searx.bissisoft.com/
-status: up
-code: 200
-responseTime: 316
-lastUpdated: 2023-06-14T01:51:27.637Z
+status: down
+code: 502
+responseTime: 435
+lastUpdated: 2023-06-14T09:51:24.388Z
 startTime: Tue Mar 29 2022 13:31:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
