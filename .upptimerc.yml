@@ -144,6 +144,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.demoniak.ch
+    url: https://search.demoniak.ch/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.disroot.org
     url: https://search.disroot.org/
     expectedStatusCodes:
@@ -209,6 +216,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.leptons.xyz
     url: https://search.leptons.xyz/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.lightinthedark.space
+    url: https://search.lightinthedark.space/
     expectedStatusCodes:
       - 200
       - 429
