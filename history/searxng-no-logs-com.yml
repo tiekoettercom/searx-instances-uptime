@@ -1,7 +1,7 @@
 url: https://searxng.no-logs.com/
-status: down
-code: 502
-responseTime: 7496
-lastUpdated: 2023-07-06T01:00:50.259Z
+status: up
+code: 200
+responseTime: 418
+lastUpdated: 2023-07-06T01:11:30.176Z
 startTime: Wed May 03 2023 18:03:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
