@@ -67,13 +67,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: notsearch.uk
-    url: https://notsearch.uk/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: offtheradar.info
     url: https://offtheradar.info/
     expectedStatusCodes:
@@ -431,13 +424,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.gnous.eu
-    url: https://searx.gnous.eu/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.juancord.xyz
     url: https://searx.juancord.xyz/
     expectedStatusCodes:
@@ -496,13 +482,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.oakleycord.dev
     url: https://searx.oakleycord.dev/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.orion-hub.fr
-    url: https://searx.orion-hub.fr/
     expectedStatusCodes:
       - 200
       - 429
