@@ -1,7 +1,7 @@
 url: https://searx.sp-codes.de/
-status: up
-code: 200
-responseTime: 850
-lastUpdated: 2023-07-22T07:41:36.106Z
+status: down
+code: 502
+responseTime: 1135
+lastUpdated: 2023-07-22T13:31:58.831Z
 startTime: Tue Mar 29 2022 13:32:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
