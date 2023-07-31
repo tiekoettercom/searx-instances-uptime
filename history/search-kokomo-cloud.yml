@@ -1,7 +1,7 @@
 url: https://search.kokomo.cloud/
-status: up
-code: 200
-responseTime: 7955
-lastUpdated: 2023-07-31T11:31:02.951Z
+status: down
+code: 502
+responseTime: 25
+lastUpdated: 2023-07-31T11:40:40.900Z
 startTime: Fri Jul 28 2023 14:00:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
