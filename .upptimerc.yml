@@ -95,13 +95,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.0xgingi.com
-    url: https://search.0xgingi.com/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.bowlman.org
     url: https://search.bowlman.org/
     expectedStatusCodes:
@@ -536,6 +529,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: searx.techsaviours.org
+    url: https://searx.techsaviours.org/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.thefloatinglab.world
     url: https://searx.thefloatinglab.world/
     expectedStatusCodes:
@@ -559,6 +559,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.zapashcanon.fr
     url: https://searx.zapashcanon.fr/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: searx.zhenyapav.com
+    url: https://searx.zhenyapav.com/
     expectedStatusCodes:
       - 200
       - 429
