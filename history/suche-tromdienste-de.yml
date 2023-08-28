@@ -1,7 +1,7 @@
 url: https://suche.tromdienste.de/
-status: down
-code: 500
-responseTime: 585
-lastUpdated: 2023-08-28T00:12:24.209Z
+status: up
+code: 200
+responseTime: 411
+lastUpdated: 2023-08-28T00:22:09.576Z
 startTime: 2022-03-29T13:32:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
