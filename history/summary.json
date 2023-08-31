@@ -220,11 +220,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/copp.gg.ico",
     "slug": "copp-gg",
     "status": "up",
-    "uptime": "56.66%",
+    "uptime": "56.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "41.86%",
-    "uptimeYear": "56.66%",
+    "uptimeMonth": "41.88%",
+    "uptimeYear": "56.67%",
     "time": 466,
     "timeDay": 303,
     "timeWeek": 253,
@@ -340,7 +340,7 @@
     "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "35.09%",
+    "uptimeWeek": "35.34%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 437,
@@ -644,12 +644,12 @@
     "status": "up",
     "uptime": "98.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.93%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.58%",
     "uptimeYear": "98.69%",
     "time": 756,
     "timeDay": 625,
-    "timeWeek": 719,
+    "timeWeek": 704,
     "timeMonth": 770,
     "timeYear": 743,
     "dailyMinutesDown": {
@@ -822,7 +822,7 @@
     "slug": "search-citw-lgbt",
     "status": "up",
     "uptime": "98.37%",
-    "uptimeDay": "64.77%",
+    "uptimeDay": "65.44%",
     "uptimeWeek": "87.81%",
     "uptimeMonth": "97.19%",
     "uptimeYear": "98.37%",
@@ -1305,7 +1305,8 @@
     "timeMonth": 417,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2023-08-30": 1434,
+      "2023-08-31": 3,
+      "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
@@ -2243,8 +2244,7 @@
       "2022-09-29": 10,
       "2022-09-28": 10,
       "2022-09-27": 10,
-      "2022-09-19": 10,
-      "2022-08-31": 19
+      "2022-09-19": 10
     }
   },
   {
@@ -2356,8 +2356,7 @@
       "2022-09-09": 10,
       "2022-09-08": 162,
       "2022-09-07": 50,
-      "2022-09-05": 70,
-      "2022-08-31": 20
+      "2022-09-05": 70
     }
   },
   {
@@ -4074,19 +4073,20 @@
     "url": "https://suche.tromdienste.de/",
     "icon": "https://icons.duckduckgo.com/ip3/suche.tromdienste.de.ico",
     "slug": "suche-tromdienste-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.83%",
-    "time": 731,
-    "timeDay": 557,
-    "timeWeek": 553,
-    "timeMonth": 547,
-    "timeYear": 711,
+    "time": 730,
+    "timeDay": 579,
+    "timeWeek": 556,
+    "timeMonth": 548,
+    "timeYear": 710,
     "dailyMinutesDown": {
-      "2023-08-30": 26,
+      "2023-08-31": 2,
+      "2023-08-30": 28,
       "2023-08-28": 50,
       "2023-08-27": 36,
       "2023-08-22": 9,
@@ -4223,8 +4223,7 @@
       "2022-09-04": 10,
       "2022-09-03": 39,
       "2022-09-02": 1333,
-      "2022-09-01": 1440,
-      "2022-08-31": 1440
+      "2022-09-01": 1440
     }
   },
   {
@@ -4276,7 +4275,7 @@
     "uptime": "93.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "59.63%",
+    "uptimeMonth": "59.61%",
     "uptimeYear": "94.96%",
     "time": 406,
     "timeDay": 360,
@@ -4284,7 +4283,8 @@
     "timeMonth": 406,
     "timeYear": 425,
     "dailyMinutesDown": {
-      "2023-08-30": 1438,
+      "2023-08-31": 8,
+      "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
