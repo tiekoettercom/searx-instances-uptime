@@ -1,7 +1,7 @@
 url: https://search.whateveritworks.org/
-status: up
-code: 200
-responseTime: 519
-lastUpdated: 2023-09-18T23:08:53.460Z
+status: down
+code: 502
+responseTime: 530
+lastUpdated: 2023-09-19T18:22:03.908Z
 startTime: 2023-05-24T22:01:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
