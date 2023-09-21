@@ -1,7 +1,7 @@
 url: https://search.mdosch.de/
-status: up
-code: 200
-responseTime: 677
-lastUpdated: 2023-09-19T23:08:33.365Z
+status: down
+code: 502
+responseTime: 699
+lastUpdated: 2023-09-21T15:33:06.021Z
 startTime: 2022-03-29T13:31:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
