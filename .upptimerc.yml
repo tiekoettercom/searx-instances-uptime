@@ -200,13 +200,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.kiwitalk.de
-    url: https://search.kiwitalk.de/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.kokomo.cloud
     url: https://search.kokomo.cloud/
     expectedStatusCodes:
