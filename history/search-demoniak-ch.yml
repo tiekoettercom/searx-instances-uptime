@@ -1,7 +1,7 @@
 url: https://search.demoniak.ch/
-status: up
-code: 200
-responseTime: 428
-lastUpdated: 2023-09-24T23:07:35.253Z
+status: down
+code: 502
+responseTime: 674
+lastUpdated: 2023-09-25T09:41:21.228Z
 startTime: 2023-06-22T10:00:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
