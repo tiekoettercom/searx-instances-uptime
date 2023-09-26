@@ -298,13 +298,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.us.projectsegfau.lt
-    url: https://search.us.projectsegfau.lt/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.whateveritworks.org
     url: https://search.whateveritworks.org/
     expectedStatusCodes:
