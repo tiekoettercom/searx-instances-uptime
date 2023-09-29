@@ -1,7 +1,7 @@
 url: https://searx.doofpot.nl/
-status: up
-code: 200
-responseTime: 712
-lastUpdated: 2023-09-28T23:09:07.012Z
+status: down
+code: 503
+responseTime: 550
+lastUpdated: 2023-09-29T07:31:06.979Z
 startTime: 2023-05-01T10:01:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
