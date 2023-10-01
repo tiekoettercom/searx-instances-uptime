@@ -186,6 +186,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.hbubli.cc
+    url: https://search.hbubli.cc/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.im-in.space
     url: https://search.im-in.space/
     expectedStatusCodes:
@@ -531,13 +538,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: spot.murena.io
     url: https://spot.murena.io/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: stalk.antelope.day
-    url: https://stalk.antelope.day/
     expectedStatusCodes:
       - 200
       - 429
