@@ -1,7 +1,7 @@
 url: https://searxng.nicfab.eu/
-status: down
-code: 502
-responseTime: 559
-lastUpdated: 2023-10-02T17:12:46.590Z
+status: up
+code: 200
+responseTime: 638
+lastUpdated: 2023-10-02T17:22:39.993Z
 startTime: 2022-09-28T14:02:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
