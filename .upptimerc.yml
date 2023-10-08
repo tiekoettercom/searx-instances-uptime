@@ -417,13 +417,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.netzspielplatz.de
-    url: https://searx.netzspielplatz.de/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.oakleycord.dev
     url: https://searx.oakleycord.dev/
     expectedStatusCodes:
@@ -508,13 +501,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searxng.nicfab.eu
-    url: https://searxng.nicfab.eu/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searxng.no-logs.com
     url: https://searxng.no-logs.com/
     expectedStatusCodes:
@@ -531,13 +517,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searxng.xcxc.eu
     url: https://searxng.xcxc.eu/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: spot.murena.io
-    url: https://spot.murena.io/
     expectedStatusCodes:
       - 200
       - 429
