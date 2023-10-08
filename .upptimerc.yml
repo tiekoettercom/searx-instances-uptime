@@ -578,8 +578,8 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: server.trom.tf/yunohost/sso/?r=aHR0cHM6Ly9zZWFyY2gudHJvbS50Zi8=
-    url: https://server.trom.tf/yunohost/sso/?r=aHR0cHM6Ly9zZWFyY2gudHJvbS50Zi8=/
+  - name: searx.neocities.org
+    url: https://searx.neocities.org/
     expectedStatusCodes:
       - 200
       - 429
