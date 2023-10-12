@@ -67,6 +67,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: find.m3wz.su
+    url: https://find.m3wz.su/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: freesearch.club
     url: https://freesearch.club/
     expectedStatusCodes:
@@ -167,13 +174,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.dojoro.de
     url: https://search.dojoro.de/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.fascinated.cc
-    url: https://search.fascinated.cc/
     expectedStatusCodes:
       - 200
       - 429
@@ -356,13 +356,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.divided-by-zero.eu
     url: https://searx.divided-by-zero.eu/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.doofpot.nl
-    url: https://searx.doofpot.nl/
     expectedStatusCodes:
       - 200
       - 429
