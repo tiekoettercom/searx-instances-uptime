@@ -123,6 +123,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: s.mble.dk
+    url: https://s.mble.dk/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: s.trung.fun
     url: https://s.trung.fun/
     expectedStatusCodes:
@@ -496,6 +503,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searxng.xcxc.eu
     url: https://searxng.xcxc.eu/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: sex.finaltek.net
+    url: https://sex.finaltek.net/
     expectedStatusCodes:
       - 200
       - 429
