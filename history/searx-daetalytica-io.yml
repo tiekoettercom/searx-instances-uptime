@@ -1,7 +1,7 @@
 url: https://searx.daetalytica.io/
-status: up
-code: 200
-responseTime: 260
-lastUpdated: 2023-11-18T23:08:29.628Z
+status: down
+code: 500
+responseTime: 122
+lastUpdated: 2023-11-19T04:01:30.876Z
 startTime: 2023-06-27T14:01:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
