@@ -60,13 +60,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: fgiggle.com
-    url: https://fgiggle.com/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: find.m3wz.su
     url: https://find.m3wz.su/
     expectedStatusCodes:
@@ -90,13 +83,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: nyc1.sx.ggtyler.dev
     url: https://nyc1.sx.ggtyler.dev/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: offtheradar.info
-    url: https://offtheradar.info/
     expectedStatusCodes:
       - 200
       - 429
@@ -382,13 +368,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.mha.fi
-    url: https://searx.mha.fi/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.namejeff.xyz
     url: https://searx.namejeff.xyz/
     expectedStatusCodes:
@@ -447,13 +426,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.techsaviours.org
     url: https://searx.techsaviours.org/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.thefloatinglab.world
-    url: https://searx.thefloatinglab.world/
     expectedStatusCodes:
       - 200
       - 429
@@ -524,6 +496,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: sx.t-1.org
+    url: https://sx.t-1.org/
     expectedStatusCodes:
       - 200
       - 429
