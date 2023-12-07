@@ -130,13 +130,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.citw.lgbt
-    url: https://search.citw.lgbt/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.demoniak.ch
     url: https://search.demoniak.ch/
     expectedStatusCodes:
@@ -363,6 +356,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.kutay.dev
     url: https://searx.kutay.dev/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: searx.lunar.icu
+    url: https://searx.lunar.icu/
     expectedStatusCodes:
       - 200
       - 429
