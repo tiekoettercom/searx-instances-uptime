@@ -1,7 +1,7 @@
 url: https://search.smnz.de/
-status: up
-code: 200
-responseTime: 924
-lastUpdated: 2023-12-16T00:31:02.231Z
+status: down
+code: 503
+responseTime: 785
+lastUpdated: 2023-12-16T00:41:01.795Z
 startTime: 2022-09-27T14:56:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
