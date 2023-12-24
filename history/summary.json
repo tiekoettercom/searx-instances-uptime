@@ -235,11 +235,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/copp.gg.ico",
     "slug": "copp-gg",
     "status": "up",
-    "uptime": "86.62%",
+    "uptime": "86.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.62%",
+    "uptimeYear": "86.63%",
     "time": 442,
     "timeDay": 259,
     "timeWeek": 199,
@@ -978,7 +978,7 @@
     "status": "up",
     "uptime": "95.12%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.42%",
+    "uptimeWeek": "87.93%",
     "uptimeMonth": "72.95%",
     "uptimeYear": "95.12%",
     "time": 1525,
@@ -1709,8 +1709,7 @@
       "2023-01-05": 470,
       "2023-01-04": 50,
       "2023-01-02": 10,
-      "2022-12-26": 60,
-      "2022-12-24": 340
+      "2022-12-26": 60
     }
   },
   {
@@ -1896,7 +1895,7 @@
     "status": "up",
     "uptime": "96.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.91%",
+    "uptimeWeek": "90.42%",
     "uptimeMonth": "94.69%",
     "uptimeYear": "94.68%",
     "time": 799,
@@ -2079,7 +2078,7 @@
     "uptime": "91.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.08%",
+    "uptimeMonth": "75.20%",
     "uptimeYear": "90.88%",
     "time": 654,
     "timeDay": 1068,
@@ -2180,8 +2179,7 @@
       "2022-12-28": 60,
       "2022-12-27": 89,
       "2022-12-26": 1312,
-      "2022-12-25": 946,
-      "2022-12-24": 30
+      "2022-12-25": 946
     }
   },
   {
@@ -2461,10 +2459,10 @@
     "url": "https://searx.nobulart.com/",
     "icon": "https://icons.duckduckgo.com/ip3/searx.nobulart.com.ico",
     "slug": "searx-nobulart-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "96.64%",
     "uptimeYear": "98.31%",
     "time": 490,
@@ -2473,6 +2471,7 @@
     "timeMonth": 480,
     "timeYear": 490,
     "dailyMinutesDown": {
+      "2023-12-24": 3,
       "2023-12-06": 60,
       "2023-11-27": 402,
       "2023-11-26": 1009,
