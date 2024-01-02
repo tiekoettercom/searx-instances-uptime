@@ -234,11 +234,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/copp.gg.ico",
     "slug": "copp-gg",
     "status": "up",
-    "uptime": "87.31%",
+    "uptime": "87.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.31%",
+    "uptimeYear": "87.32%",
     "time": 431,
     "timeDay": 233,
     "timeWeek": 208,
@@ -367,11 +367,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/freesearch.club.ico",
     "slug": "freesearch-club",
     "status": "up",
-    "uptime": "6.02%",
+    "uptime": "6.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "6.02%",
+    "uptimeYear": "6.11%",
     "time": 423,
     "timeDay": 507,
     "timeWeek": 369,
@@ -676,8 +676,7 @@
       "2023-01-26": 1440,
       "2023-01-25": 918,
       "2023-01-19": 41,
-      "2023-01-18": 409,
-      "2023-01-02": 9
+      "2023-01-18": 409
     }
   },
   {
@@ -978,11 +977,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.in.projectsegfau.lt.ico",
     "slug": "search-in-projectsegfau-lt",
     "status": "up",
-    "uptime": "95.44%",
+    "uptime": "95.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.86%",
     "uptimeMonth": "73.45%",
-    "uptimeYear": "95.44%",
+    "uptimeYear": "95.45%",
     "time": 1521,
     "timeDay": 782,
     "timeWeek": 1591,
@@ -1140,7 +1139,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.leptons.xyz.ico",
     "slug": "search-leptons-xyz",
     "status": "up",
-    "uptime": "27.74%",
+    "uptime": "27.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1425,8 +1424,7 @@
       "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 915,
-      "2023-01-03": 8,
-      "2023-01-02": 8
+      "2023-01-03": 8
     }
   },
   {
@@ -1732,8 +1730,7 @@
       "2023-01-07": 550,
       "2023-01-06": 470,
       "2023-01-05": 470,
-      "2023-01-04": 50,
-      "2023-01-02": 10
+      "2023-01-04": 50
     }
   },
   {
@@ -2010,8 +2007,7 @@
       "2023-01-25": 914,
       "2023-01-17": 89,
       "2023-01-06": 19,
-      "2023-01-05": 9,
-      "2023-01-02": 9
+      "2023-01-05": 9
     }
   },
   {
@@ -2213,8 +2209,7 @@
       "2023-01-06": 20,
       "2023-01-05": 10,
       "2023-01-04": 49,
-      "2023-01-03": 40,
-      "2023-01-02": 10
+      "2023-01-03": 40
     }
   },
   {
@@ -2294,11 +2289,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.headpat.exchange.ico",
     "slug": "searx-headpat-exchange",
     "status": "up",
-    "uptime": "97.47%",
+    "uptime": "97.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.08%",
-    "uptimeYear": "97.47%",
+    "uptimeYear": "97.48%",
     "time": 745,
     "timeDay": 731,
     "timeWeek": 785,
@@ -2340,7 +2335,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.30%",
+    "uptimeYear": "89.34%",
     "time": 487,
     "timeDay": 499,
     "timeWeek": 499,
@@ -2393,8 +2388,7 @@
       "2023-01-06": 1440,
       "2023-01-05": 1440,
       "2023-01-04": 1440,
-      "2023-01-03": 1440,
-      "2023-01-02": 1440
+      "2023-01-03": 1440
     }
   },
   {
@@ -2429,18 +2423,19 @@
     "url": "https://searx.lunar.icu/",
     "icon": "https://icons.duckduckgo.com/ip3/searx.lunar.icu.ico",
     "slug": "searx-lunar-icu",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.24%",
+    "status": "down",
+    "uptime": "99.23%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.23%",
     "time": 632,
     "timeDay": 416,
-    "timeWeek": 580,
+    "timeWeek": 594,
     "timeMonth": 632,
     "timeYear": 632,
     "dailyMinutesDown": {
+      "2024-01-02": 3,
       "2024-01-01": 10,
       "2023-12-30": 30,
       "2023-12-29": 10,
@@ -2541,7 +2536,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.oakleycord.dev.ico",
     "slug": "searx-oakleycord-dev",
     "status": "up",
-    "uptime": "97.44%",
+    "uptime": "97.45%",
     "uptimeDay": "97.91%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "96.11%",
@@ -2712,7 +2707,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.si.ico",
     "slug": "searx-si",
     "status": "up",
-    "uptime": "77.98%",
+    "uptime": "77.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
