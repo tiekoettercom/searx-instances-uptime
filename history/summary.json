@@ -1492,7 +1492,7 @@
     "status": "up",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.71%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.72%",
     "time": 795,
@@ -3062,18 +3062,20 @@
     "url": "https://searxng.site/",
     "icon": "https://icons.duckduckgo.com/ip3/searxng.site.ico",
     "slug": "searxng-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 389,
     "timeDay": 355,
     "timeWeek": 392,
     "timeMonth": 389,
     "timeYear": 389,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-02": 4
+    }
   },
   {
     "name": "sex.finaltek.net",
