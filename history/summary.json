@@ -234,11 +234,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/copp.gg.ico",
     "slug": "copp-gg",
     "status": "up",
-    "uptime": "87.45%",
+    "uptime": "87.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.45%",
+    "uptimeYear": "87.46%",
     "time": 441,
     "timeDay": 2691,
     "timeWeek": 572,
@@ -367,11 +367,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/freesearch.club.ico",
     "slug": "freesearch-club",
     "status": "up",
-    "uptime": "7.47%",
+    "uptime": "7.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "7.47%",
+    "uptimeYear": "7.49%",
     "time": 423,
     "timeDay": 308,
     "timeWeek": 397,
@@ -616,7 +616,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.29%",
+    "uptimeYear": "98.30%",
     "time": 1397,
     "timeDay": 804,
     "timeWeek": 705,
@@ -1729,8 +1729,7 @@
       "2023-01-08": 61,
       "2023-01-07": 550,
       "2023-01-06": 470,
-      "2023-01-05": 470,
-      "2023-01-04": 50
+      "2023-01-05": 470
     }
   },
   {
@@ -1755,8 +1754,7 @@
       "2023-09-12": 9,
       "2023-06-22": 20,
       "2023-06-20": 20,
-      "2023-01-25": 19,
-      "2023-01-04": 30
+      "2023-01-25": 19
     }
   },
   {
@@ -2208,8 +2206,7 @@
       "2023-01-08": 730,
       "2023-01-07": 10,
       "2023-01-06": 20,
-      "2023-01-05": 10,
-      "2023-01-04": 49
+      "2023-01-05": 10
     }
   },
   {
@@ -2289,11 +2286,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.headpat.exchange.ico",
     "slug": "searx-headpat-exchange",
     "status": "up",
-    "uptime": "97.51%",
+    "uptime": "97.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.42%",
-    "uptimeYear": "97.51%",
+    "uptimeYear": "97.52%",
     "time": 745,
     "timeDay": 482,
     "timeWeek": 825,
@@ -2335,7 +2332,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.85%",
+    "uptimeYear": "89.86%",
     "time": 487,
     "timeDay": 520,
     "timeWeek": 473,
@@ -2386,8 +2383,7 @@
       "2023-01-08": 1440,
       "2023-01-07": 1440,
       "2023-01-06": 1440,
-      "2023-01-05": 1440,
-      "2023-01-04": 1440
+      "2023-01-05": 1440
     }
   },
   {
@@ -2422,18 +2418,19 @@
     "url": "https://searx.lunar.icu/",
     "icon": "https://icons.duckduckgo.com/ip3/searx.lunar.icu.ico",
     "slug": "searx-lunar-icu",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "99.19%",
+    "status": "down",
+    "uptime": "99.18%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.18%",
     "time": 615,
     "timeDay": 372,
     "timeWeek": 400,
     "timeMonth": 615,
     "timeYear": 615,
     "dailyMinutesDown": {
+      "2024-01-04": 3,
       "2024-01-03": 11,
       "2024-01-02": 30,
       "2024-01-01": 10,
@@ -2610,8 +2607,7 @@
       "2023-01-24": 60,
       "2023-01-21": 60,
       "2023-01-11": 10,
-      "2023-01-10": 9,
-      "2023-01-04": 90
+      "2023-01-10": 9
     }
   },
   {
