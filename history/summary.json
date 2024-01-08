@@ -81,7 +81,7 @@
     "slug": "darmarit-org-searx",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "61.76%",
+    "uptimeDay": "66.04%",
     "uptimeWeek": "79.65%",
     "uptimeMonth": "94.24%",
     "uptimeYear": "99.51%",
@@ -373,11 +373,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/freesearch.club.ico",
     "slug": "freesearch-club",
     "status": "up",
-    "uptime": "10.22%",
+    "uptime": "10.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "10.22%",
+    "uptimeYear": "10.25%",
     "time": 422,
     "timeDay": 292,
     "timeWeek": 403,
@@ -740,8 +740,7 @@
       "2023-01-26": 1440,
       "2023-01-25": 939,
       "2023-01-10": 9,
-      "2023-01-09": 288,
-      "2023-01-08": 9
+      "2023-01-09": 288
     }
   },
   {
@@ -1149,7 +1148,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.leptons.xyz.ico",
     "slug": "search-leptons-xyz",
     "status": "up",
-    "uptime": "28.87%",
+    "uptime": "28.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1442,11 +1441,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.lvkaszus.pl.ico",
     "slug": "search-lvkaszus-pl",
     "status": "up",
-    "uptime": "98.07%",
+    "uptime": "98.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "93.35%",
-    "uptimeYear": "98.07%",
+    "uptimeYear": "98.08%",
     "time": 1018,
     "timeDay": 768,
     "timeWeek": 730,
@@ -1740,8 +1739,7 @@
       "2023-01-14": 30,
       "2023-01-13": 469,
       "2023-01-11": 979,
-      "2023-01-09": 530,
-      "2023-01-08": 61
+      "2023-01-09": 530
     }
   },
   {
@@ -2214,8 +2212,7 @@
       "2023-01-12": 10,
       "2023-01-11": 10,
       "2023-01-10": 152,
-      "2023-01-09": 1298,
-      "2023-01-08": 730
+      "2023-01-09": 1298
     }
   },
   {
@@ -2248,18 +2245,19 @@
     "url": "https://searx.fmac.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/searx.fmac.xyz.ico",
     "slug": "searx-fmac-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.84%",
-    "uptimeYear": "99.29%",
-    "time": 2969,
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "91.98%",
+    "uptimeYear": "99.30%",
+    "time": 2972,
     "timeDay": 469,
     "timeWeek": 560,
     "timeMonth": 8997,
     "timeYear": 3631,
     "dailyMinutesDown": {
+      "2024-01-08": 2,
       "2023-12-18": 9,
       "2023-12-16": 10,
       "2023-12-13": 17,
@@ -2268,7 +2266,7 @@
       "2023-12-10": 1088,
       "2023-12-09": 388,
       "2023-12-08": 930,
-      "2023-12-07": 225
+      "2023-12-07": 176
     }
   },
   {
@@ -2341,7 +2339,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.95%",
+    "uptimeYear": "90.96%",
     "time": 487,
     "timeDay": 511,
     "timeWeek": 473,
@@ -2388,8 +2386,7 @@
       "2023-01-12": 1440,
       "2023-01-11": 1440,
       "2023-01-10": 1440,
-      "2023-01-09": 1440,
-      "2023-01-08": 1440
+      "2023-01-09": 1440
     }
   },
   {
@@ -2426,12 +2423,12 @@
     "slug": "searx-lunar-icu",
     "status": "up",
     "uptime": "98.73%",
-    "uptimeDay": "97.99%",
+    "uptimeDay": "98.66%",
     "uptimeWeek": "96.95%",
     "uptimeMonth": "98.72%",
     "uptimeYear": "98.73%",
     "time": 593,
-    "timeDay": 567,
+    "timeDay": 580,
     "timeWeek": 440,
     "timeMonth": 542,
     "timeYear": 593,
@@ -2715,7 +2712,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.si.ico",
     "slug": "searx-si",
     "status": "up",
-    "uptime": "78.33%",
+    "uptime": "78.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.77%",
