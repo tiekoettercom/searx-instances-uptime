@@ -1,7 +1,7 @@
 url: https://searx.baczek.me/
-status: up
-code: 200
-responseTime: 1410
-lastUpdated: 2024-01-11T17:30:46.716Z
+status: down
+code: 502
+responseTime: 3436
+lastUpdated: 2024-01-11T17:40:44.916Z
 startTime: 2022-08-13T22:01:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
