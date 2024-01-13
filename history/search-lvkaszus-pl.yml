@@ -1,7 +1,7 @@
 url: https://search.lvkaszus.pl/
-status: up
-code: 200
-responseTime: 750
-lastUpdated: 2024-01-12T23:08:55.126Z
+status: down
+code: 502
+responseTime: 1790
+lastUpdated: 2024-01-13T04:02:14.955Z
 startTime: 2023-07-15T10:00:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
