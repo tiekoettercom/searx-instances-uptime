@@ -1,7 +1,7 @@
 url: https://searx.lunar.icu/
-status: up
-code: 200
-responseTime: 545
-lastUpdated: 2024-01-15T20:50:53.775Z
+status: down
+code: 502
+responseTime: 287
+lastUpdated: 2024-01-15T21:00:50.356Z
 startTime: 2023-12-07T07:01:02.229Z
 generator: Upptime <https://github.com/upptime/upptime>
