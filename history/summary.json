@@ -371,11 +371,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/freesearch.club.ico",
     "slug": "freesearch-club",
     "status": "up",
-    "uptime": "18.16%",
+    "uptime": "18.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "18.16%",
+    "uptimeYear": "18.18%",
     "time": 444,
     "timeDay": 301,
     "timeWeek": 495,
@@ -817,11 +817,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.broker.ico",
     "slug": "search-broker",
     "status": "up",
-    "uptime": "93.72%",
+    "uptime": "93.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.72%",
-    "uptimeMonth": "93.72%",
-    "uptimeYear": "93.72%",
+    "uptimeWeek": "93.76%",
+    "uptimeMonth": "93.76%",
+    "uptimeYear": "93.76%",
     "time": 637,
     "timeDay": 593,
     "timeWeek": 637,
@@ -1140,7 +1140,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.leptons.xyz.ico",
     "slug": "search-leptons-xyz",
     "status": "up",
-    "uptime": "31.14%",
+    "uptime": "31.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.06%",
@@ -1515,8 +1515,7 @@
       "2023-07-22": 10,
       "2023-06-09": 40,
       "2023-05-13": 10,
-      "2023-01-25": 10,
-      "2023-01-21": 10
+      "2023-01-25": 10
     }
   },
   {
@@ -1586,8 +1585,7 @@
       "2023-05-08": 9,
       "2023-04-22": 10,
       "2023-04-10": 10,
-      "2023-01-27": 10,
-      "2023-01-21": 10
+      "2023-01-27": 10
     }
   },
   {
@@ -2020,8 +2018,7 @@
       "2023-01-27": 10,
       "2023-01-25": 18,
       "2023-01-23": 329,
-      "2023-01-22": 100,
-      "2023-01-21": 10
+      "2023-01-22": 100
     }
   },
   {
@@ -2154,8 +2151,7 @@
       "2023-01-25": 1440,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
-      "2023-01-22": 1440,
-      "2023-01-21": 1440
+      "2023-01-22": 1440
     }
   },
   {
@@ -2192,11 +2188,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.lunar.icu.ico",
     "slug": "searx-lunar-icu",
     "status": "up",
-    "uptime": "97.96%",
+    "uptime": "97.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.80%",
     "uptimeMonth": "97.03%",
-    "uptimeYear": "97.96%",
+    "uptimeYear": "97.97%",
     "time": 1155,
     "timeDay": 375,
     "timeWeek": 1378,
@@ -2385,8 +2381,7 @@
       "2023-02-01": 10,
       "2023-01-30": 554,
       "2023-01-27": 49,
-      "2023-01-24": 60,
-      "2023-01-21": 60
+      "2023-01-24": 60
     }
   },
   {
@@ -2508,7 +2503,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "78.50%",
+    "uptimeYear": "78.51%",
     "time": 526,
     "timeDay": 315,
     "timeWeek": 638,
@@ -2605,8 +2600,7 @@
       "2023-01-25": 1440,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
-      "2023-01-22": 1440,
-      "2023-01-21": 1440
+      "2023-01-22": 1440
     }
   },
   {
@@ -2617,12 +2611,12 @@
     "status": "up",
     "uptime": "99.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.66%",
     "time": 958,
     "timeDay": 759,
-    "timeWeek": 757,
+    "timeWeek": 763,
     "timeMonth": 784,
     "timeYear": 958,
     "dailyMinutesDown": {
@@ -2810,19 +2804,20 @@
     "url": "https://searx.zhenyapav.com/",
     "icon": "https://icons.duckduckgo.com/ip3/searx.zhenyapav.com.ico",
     "slug": "searx-zhenyapav-com",
-    "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "98.60%",
-    "uptimeYear": "99.61%",
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "99.59%",
     "time": 1063,
-    "timeDay": 1031,
-    "timeWeek": 1086,
-    "timeMonth": 983,
+    "timeDay": 1036,
+    "timeWeek": 1082,
+    "timeMonth": 984,
     "timeYear": 1063,
     "dailyMinutesDown": {
-      "2024-01-20": 4,
+      "2024-01-21": 31,
+      "2024-01-20": 9,
       "2024-01-09": 29,
       "2024-01-03": 510,
       "2024-01-01": 60,
