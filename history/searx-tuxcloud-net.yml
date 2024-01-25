@@ -1,7 +1,7 @@
 url: https://searx.tuxcloud.net/
-status: up
-code: 200
-responseTime: 595
-lastUpdated: 2024-01-25T19:01:07.934Z
+status: down
+code: 502
+responseTime: 541
+lastUpdated: 2024-01-25T23:01:06.326Z
 startTime: 2022-11-06T11:01:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
