@@ -494,13 +494,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.noob.quest/dashboard
-    url: https://search.noob.quest/dashboard/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
