@@ -1,7 +1,7 @@
 url: https://search.broker/
-status: down
-code: 502
-responseTime: 672
-lastUpdated: 2024-03-05T07:20:38.420Z
+status: up
+code: 200
+responseTime: 724
+lastUpdated: 2024-03-05T07:30:37.910Z
 startTime: 2024-01-15T19:00:36.456Z
 generator: Upptime <https://github.com/upptime/upptime>
