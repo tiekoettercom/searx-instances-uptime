@@ -1,7 +1,7 @@
 url: https://searx.ari.lt/
-status: down
-code: 502
-responseTime: 361
-lastUpdated: 2024-03-07T20:21:45.675Z
+status: up
+code: 200
+responseTime: 445
+lastUpdated: 2024-03-07T20:31:36.426Z
 startTime: 2024-02-12T11:00:48.711Z
 generator: Upptime <https://github.com/upptime/upptime>
