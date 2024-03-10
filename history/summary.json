@@ -373,11 +373,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/freesearch.club.ico",
     "slug": "freesearch-club",
     "status": "up",
-    "uptime": "37.88%",
+    "uptime": "37.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "37.88%",
+    "uptimeYear": "37.89%",
     "time": 445,
     "timeDay": 523,
     "timeWeek": 448,
@@ -545,8 +545,7 @@
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 538,
-      "2023-04-05": 10,
-      "2023-03-11": 10
+      "2023-04-05": 10
     }
   },
   {
@@ -618,7 +617,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/opnxng.com.ico",
     "slug": "opnxng-com",
     "status": "up",
-    "uptime": "95.90%",
+    "uptime": "95.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -673,8 +672,7 @@
       "2023-04-11": 30,
       "2023-04-10": 50,
       "2023-04-09": 20,
-      "2023-03-23": 9,
-      "2023-03-11": 10
+      "2023-03-23": 9
     }
   },
   {
@@ -868,12 +866,12 @@
     "status": "up",
     "uptime": "99.36%",
     "uptimeDay": "99.34%",
-    "uptimeWeek": "99.22%",
+    "uptimeWeek": "99.31%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.36%",
     "time": 1242,
     "timeDay": 2723,
-    "timeWeek": 1415,
+    "timeWeek": 1519,
     "timeMonth": 1242,
     "timeYear": 1242,
     "dailyMinutesDown": {
@@ -1043,7 +1041,7 @@
     "status": "up",
     "uptime": "95.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.39%",
+    "uptimeWeek": "92.69%",
     "uptimeMonth": "93.57%",
     "uptimeYear": "95.75%",
     "time": 1457,
@@ -1175,7 +1173,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "37.23%",
+    "uptimeYear": "37.24%",
     "time": 408,
     "timeDay": 465,
     "timeWeek": 428,
@@ -1415,8 +1413,7 @@
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
-      "2023-03-12": 1440,
-      "2023-03-11": 1440
+      "2023-03-12": 1440
     }
   },
   {
@@ -2418,8 +2415,7 @@
       "2023-03-16": 10,
       "2023-03-14": 80,
       "2023-03-13": 540,
-      "2023-03-12": 20,
-      "2023-03-11": 1432
+      "2023-03-12": 20
     }
   },
   {
@@ -2553,7 +2549,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.64%",
+    "uptimeYear": "91.65%",
     "time": 523,
     "timeDay": 499,
     "timeWeek": 491,
@@ -2602,8 +2598,7 @@
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
-      "2023-03-12": 1440,
-      "2023-03-11": 1440
+      "2023-03-12": 1440
     }
   },
   {
@@ -3095,19 +3090,20 @@
     "url": "https://www.jabber-germany.de/searx/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jabber-germany.de.ico",
     "slug": "www-jabber-germany-de-searx",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.82%",
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.81%",
     "time": 727,
-    "timeDay": 761,
+    "timeDay": 756,
     "timeWeek": 747,
-    "timeMonth": 697,
+    "timeMonth": 699,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2024-03-09": 3,
+      "2024-03-10": 1,
+      "2024-03-09": 29,
       "2024-02-11": 10,
       "2024-01-03": 10,
       "2023-12-17": 10,
