@@ -1,7 +1,7 @@
 url: https://search.bus-hit.me/
-status: up
-code: 200
-responseTime: 311
-lastUpdated: 2024-03-12T23:09:35.867Z
+status: down
+code: 502
+responseTime: 448
+lastUpdated: 2024-03-13T21:01:08.092Z
 startTime: 2022-03-29T13:31:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
