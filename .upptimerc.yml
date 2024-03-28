@@ -137,6 +137,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.einfachzocken.eu
+    url: https://search.einfachzocken.eu/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.gcomm.ch
     url: https://search.gcomm.ch/
     expectedStatusCodes:
@@ -188,6 +195,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.nadeko.net
     url: https://search.nadeko.net/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.ngn.tf
+    url: https://search.ngn.tf/
     expectedStatusCodes:
       - 200
       - 429
@@ -286,6 +300,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.daetalytica.io
     url: https://searx.daetalytica.io/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: searx.dresden.network
+    url: https://searx.dresden.network/
     expectedStatusCodes:
       - 200
       - 429
@@ -466,8 +487,22 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: sxng.violets-purgatory.dev
+    url: https://sxng.violets-purgatory.dev/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: twinkpad.pl
     url: https://twinkpad.pl/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: vanderwilhelm.me
+    url: https://vanderwilhelm.me/
     expectedStatusCodes:
       - 200
       - 429
