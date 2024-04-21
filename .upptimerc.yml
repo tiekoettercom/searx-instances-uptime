@@ -186,6 +186,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.incogniweb.net
+    url: https://search.incogniweb.net/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.inetol.net
     url: https://search.inetol.net/
     expectedStatusCodes:
@@ -209,6 +216,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.nadeko.net
     url: https://search.nadeko.net/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.nerdvpn.de
+    url: https://search.nerdvpn.de/
     expectedStatusCodes:
       - 200
       - 429
@@ -319,6 +333,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: searx.colbster937.dev
+    url: https://searx.colbster937.dev/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.daetalytica.io
     url: https://searx.daetalytica.io/
     expectedStatusCodes:
@@ -328,13 +349,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.dresden.network
     url: https://searx.dresden.network/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.ee
-    url: https://searx.ee/
     expectedStatusCodes:
       - 200
       - 429
