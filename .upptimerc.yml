@@ -459,13 +459,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.si
-    url: https://searx.si/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.techsaviours.org
     url: https://searx.techsaviours.org/
     expectedStatusCodes:
@@ -559,13 +552,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: sxng.violets-purgatory.dev
     url: https://sxng.violets-purgatory.dev/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: twinkpad.pl
-    url: https://twinkpad.pl/
     expectedStatusCodes:
       - 200
       - 429
