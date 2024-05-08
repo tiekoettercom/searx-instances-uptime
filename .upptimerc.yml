@@ -123,6 +123,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.charliewhiskey.net
+    url: https://search.charliewhiskey.net/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.citw.lgbt
     url: https://search.citw.lgbt/
     expectedStatusCodes:
@@ -188,6 +195,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.incogniweb.net
     url: https://search.incogniweb.net/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.indst.eu
+    url: https://search.indst.eu/
     expectedStatusCodes:
       - 200
       - 429
@@ -510,6 +524,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: sex.finaltek.net
     url: https://sex.finaltek.net/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: skyrimhater.com
+    url: https://skyrimhater.com/
     expectedStatusCodes:
       - 200
       - 429
