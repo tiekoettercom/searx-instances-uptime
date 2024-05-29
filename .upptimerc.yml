@@ -60,13 +60,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: freesearch.club
-    url: https://freesearch.club/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: northboot.xyz
     url: https://northboot.xyz/
     expectedStatusCodes:
@@ -216,13 +209,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.inetol.net
     url: https://search.inetol.net/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.ldne.xyz
-    url: https://search.ldne.xyz/
     expectedStatusCodes:
       - 200
       - 429
@@ -503,13 +489,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searxng.ch
     url: https://searxng.ch/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searxng.cryptocalcu.top
-    url: https://searxng.cryptocalcu.top/
     expectedStatusCodes:
       - 200
       - 429
