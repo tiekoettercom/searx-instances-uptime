@@ -270,13 +270,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.reallyaweso.me
-    url: https://search.reallyaweso.me/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.rhscz.eu
     url: https://search.rhscz.eu/
     expectedStatusCodes:
@@ -503,13 +496,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searxng.site
     url: https://searxng.site/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: sex.finaltek.net
-    url: https://sex.finaltek.net/
     expectedStatusCodes:
       - 200
       - 429
