@@ -440,7 +440,7 @@
     "uptime": "79.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "24.44%",
+    "uptimeMonth": "24.46%",
     "uptimeYear": "76.55%",
     "time": 1312,
     "timeDay": 595,
@@ -708,11 +708,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.citw.lgbt.ico",
     "slug": "search-citw-lgbt",
     "status": "up",
-    "uptime": "4.69%",
+    "uptime": "4.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "4.69%",
+    "uptimeYear": "4.78%",
     "time": 721,
     "timeDay": 723,
     "timeWeek": 832,
@@ -742,11 +742,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.darkness.services.ico",
     "slug": "search-darkness-services",
     "status": "up",
-    "uptime": "99.13%",
+    "uptime": "99.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "99.13%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.14%",
     "time": 271,
     "timeDay": 322,
     "timeWeek": 278,
@@ -767,7 +767,7 @@
     "uptime": "22.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "24.44%",
+    "uptimeMonth": "24.46%",
     "uptimeYear": "22.06%",
     "time": 1269,
     "timeDay": 719,
@@ -1179,7 +1179,7 @@
     "uptime": "63.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "24.44%",
+    "uptimeMonth": "24.46%",
     "uptimeYear": "63.07%",
     "time": 503,
     "timeDay": 914,
@@ -1469,8 +1469,7 @@
       "2023-06-23": 1440,
       "2023-06-22": 1440,
       "2023-06-21": 1440,
-      "2023-06-20": 1440,
-      "2023-06-19": 1440
+      "2023-06-20": 1440
     }
   },
   {
@@ -1880,7 +1879,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.us.projectsegfau.lt.ico",
     "slug": "search-us-projectsegfau-lt",
     "status": "up",
-    "uptime": "59.57%",
+    "uptime": "59.61%",
     "uptimeDay": "97.31%",
     "uptimeWeek": "98.57%",
     "uptimeMonth": "98.76%",
@@ -1939,7 +1938,7 @@
     "uptime": "62.26%",
     "uptimeDay": "99.30%",
     "uptimeWeek": "99.50%",
-    "uptimeMonth": "24.35%",
+    "uptimeMonth": "24.37%",
     "uptimeYear": "62.26%",
     "time": 639,
     "timeDay": 649,
@@ -2082,8 +2081,8 @@
     "status": "down",
     "uptime": "99.20%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "56.44%",
-    "uptimeMonth": "89.98%",
+    "uptimeWeek": "56.33%",
+    "uptimeMonth": "89.95%",
     "uptimeYear": "98.63%",
     "time": 700,
     "timeDay": 730,
@@ -2091,7 +2090,8 @@
     "timeMonth": 663,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2024-06-17": 1433,
+      "2024-06-18": 4,
+      "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 79,
@@ -2283,8 +2283,7 @@
       "2023-09-04": 204,
       "2023-09-03": 180,
       "2023-08-17": 50,
-      "2023-07-08": 20,
-      "2023-06-19": 130
+      "2023-07-08": 20
     }
   },
   {
@@ -2748,8 +2747,7 @@
       "2023-08-15": 13,
       "2023-07-03": 112,
       "2023-07-02": 778,
-      "2023-06-22": 100,
-      "2023-06-19": 11
+      "2023-06-22": 100
     }
   },
   {
@@ -2822,18 +2820,19 @@
     "url": "https://searx.zhenyapav.com/",
     "icon": "https://icons.duckduckgo.com/ip3/searx.zhenyapav.com.ico",
     "slug": "searx-zhenyapav-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.72%",
     "time": 1022,
-    "timeDay": 1237,
-    "timeWeek": 889,
-    "timeMonth": 860,
+    "timeDay": 1145,
+    "timeWeek": 910,
+    "timeMonth": 878,
     "timeYear": 1022,
     "dailyMinutesDown": {
+      "2024-06-18": 3,
       "2024-03-24": 11,
       "2024-02-19": 10,
       "2024-02-17": 9,
@@ -3178,8 +3177,7 @@
       "2023-08-29": 10,
       "2023-07-31": 10,
       "2023-07-11": 10,
-      "2023-06-30": 10,
-      "2023-06-19": 9
+      "2023-06-30": 10
     }
   },
   {
