@@ -1,7 +1,7 @@
 url: https://searx.techsaviours.org/
-status: up
-code: 200
-responseTime: 879
-lastUpdated: 2024-06-19T23:10:50.015Z
+status: down
+code: 502
+responseTime: 1004
+lastUpdated: 2024-06-21T01:11:49.401Z
 startTime: 2023-08-14T10:02:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
