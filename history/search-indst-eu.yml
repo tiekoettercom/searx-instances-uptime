@@ -1,7 +1,7 @@
 url: https://search.indst.eu/
-status: up
-code: 200
-responseTime: 429
-lastUpdated: 2024-06-19T23:10:23.489Z
+status: down
+code: 503
+responseTime: 338
+lastUpdated: 2024-06-21T19:21:23.813Z
 startTime: 2024-06-09T23:21:44.066Z
 generator: Upptime <https://github.com/upptime/upptime>
