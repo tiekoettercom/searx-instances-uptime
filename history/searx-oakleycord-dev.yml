@@ -1,7 +1,7 @@
 url: https://searx.oakleycord.dev/
-status: up
-code: 200
-responseTime: 125
-lastUpdated: 2024-06-22T05:01:38.156Z
+status: down
+code: 502
+responseTime: 336
+lastUpdated: 2024-06-22T05:31:45.583Z
 startTime: 2022-10-14T18:57:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
