@@ -167,26 +167,26 @@
     "url": "https://copp.gg/",
     "icon": "https://icons.duckduckgo.com/ip3/copp.gg.ico",
     "slug": "copp-gg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "60.73%",
-    "uptimeWeek": "79.51%",
+    "uptimeDay": "61.38%",
+    "uptimeWeek": "79.49%",
     "uptimeMonth": "93.55%",
     "uptimeYear": "99.43%",
-    "time": 1129,
-    "timeDay": 2414,
-    "timeWeek": 2261,
-    "timeMonth": 2197,
-    "timeYear": 1129,
+    "time": 1133,
+    "timeDay": 2426,
+    "timeWeek": 2267,
+    "timeMonth": 2202,
+    "timeYear": 1133,
     "dailyMinutesDown": {
+      "2024-06-23": 1,
       "2024-06-22": 559,
       "2024-06-21": 633,
       "2024-06-20": 529,
       "2024-06-18": 340,
       "2024-06-16": 10,
       "2024-06-11": 760,
-      "2024-04-02": 10,
-      "2024-03-21": 10
+      "2024-04-02": 10
     }
   },
   {
@@ -408,7 +408,7 @@
     "uptime": "79.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "40.88%",
+    "uptimeMonth": "40.90%",
     "uptimeYear": "76.55%",
     "time": 1193,
     "timeDay": 722,
@@ -678,11 +678,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.citw.lgbt.ico",
     "slug": "search-citw-lgbt",
     "status": "up",
-    "uptime": "41.24%",
+    "uptime": "41.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "41.24%",
+    "uptimeYear": "41.27%",
     "time": 718,
     "timeDay": 757,
     "timeWeek": 588,
@@ -740,7 +740,7 @@
     "uptime": "25.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "40.88%",
+    "uptimeMonth": "40.90%",
     "uptimeYear": "25.49%",
     "time": 1437,
     "timeDay": 4934,
@@ -1155,11 +1155,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.inetol.net.ico",
     "slug": "search-inetol-net",
     "status": "up",
-    "uptime": "63.85%",
+    "uptime": "63.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "40.88%",
-    "uptimeYear": "63.85%",
+    "uptimeMonth": "40.90%",
+    "uptimeYear": "63.86%",
     "time": 502,
     "timeDay": 413,
     "timeWeek": 477,
@@ -1443,8 +1443,7 @@
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
-      "2023-06-25": 1440,
-      "2023-06-24": 1440
+      "2023-06-25": 1440
     }
   },
   {
@@ -1755,8 +1754,7 @@
       "2023-07-09": 179,
       "2023-07-01": 10,
       "2023-06-28": 10,
-      "2023-06-25": 1,
-      "2023-06-24": 59
+      "2023-06-25": 1
     }
   },
   {
@@ -1811,8 +1809,7 @@
       "2023-09-25": 279,
       "2023-08-12": 10,
       "2023-08-06": 9,
-      "2023-07-20": 10,
-      "2023-06-24": 10
+      "2023-07-20": 10
     }
   },
   {
@@ -1847,8 +1844,7 @@
       "2023-07-10": 20,
       "2023-07-08": 10,
       "2023-07-06": 60,
-      "2023-07-02": 530,
-      "2023-06-24": 471
+      "2023-07-02": 530
     }
   },
   {
@@ -1857,7 +1853,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.us.projectsegfau.lt.ico",
     "slug": "search-us-projectsegfau-lt",
     "status": "up",
-    "uptime": "74.79%",
+    "uptime": "74.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.94%",
     "uptimeMonth": "98.92%",
@@ -1914,11 +1910,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.ankha.ac.ico",
     "slug": "searx-ankha-ac",
     "status": "up",
-    "uptime": "63.23%",
+    "uptime": "63.24%",
     "uptimeDay": "99.31%",
     "uptimeWeek": "99.40%",
-    "uptimeMonth": "40.69%",
-    "uptimeYear": "63.23%",
+    "uptimeMonth": "40.72%",
+    "uptimeYear": "63.24%",
     "time": 665,
     "timeDay": 1619,
     "timeWeek": 891,
@@ -2064,7 +2060,7 @@
     "status": "up",
     "uptime": "99.09%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "60.93%",
+    "uptimeWeek": "61.04%",
     "uptimeMonth": "87.56%",
     "uptimeYear": "98.43%",
     "time": 711,
@@ -2140,8 +2136,7 @@
       "2023-08-17": 110,
       "2023-08-15": 20,
       "2023-06-28": 10,
-      "2023-06-27": 10,
-      "2023-06-24": 10
+      "2023-06-27": 10
     }
   },
   {
@@ -3063,18 +3058,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sx.thatxtreme.dev.ico",
     "slug": "sx-thatxtreme-dev",
     "status": "down",
-    "uptime": "99.20%",
+    "uptime": "99.19%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "85.10%",
-    "uptimeMonth": "96.57%",
-    "uptimeYear": "99.20%",
+    "uptimeWeek": "84.99%",
+    "uptimeMonth": "96.55%",
+    "uptimeYear": "99.19%",
     "time": 241,
     "timeDay": 483,
     "timeWeek": 464,
     "timeMonth": 477,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-06-22": 1434,
+      "2024-06-23": 5,
+      "2024-06-22": 1440,
       "2024-06-21": 68,
       "2024-02-12": 21
     }
