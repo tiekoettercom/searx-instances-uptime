@@ -109,6 +109,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.blitzw.in
+    url: https://search.blitzw.in/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.bus-hit.me
     url: https://search.bus-hit.me/
     expectedStatusCodes:
@@ -214,13 +221,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.ldne.xyz
-    url: https://search.ldne.xyz/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.leptons.xyz
     url: https://search.leptons.xyz/
     expectedStatusCodes:
@@ -305,6 +305,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.tommy-tran.com
+    url: https://search.tommy-tran.com/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.us.projectsegfau.lt
     url: https://search.us.projectsegfau.lt/
     expectedStatusCodes:
@@ -321,13 +328,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.ankha.ac
     url: https://searx.ankha.ac/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.ari.lt
-    url: https://searx.ari.lt/
     expectedStatusCodes:
       - 200
       - 429
@@ -552,6 +552,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: sx.thatxtreme.dev
     url: https://sx.thatxtreme.dev/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: sx.zorby.top
+    url: https://sx.zorby.top/
     expectedStatusCodes:
       - 200
       - 429
