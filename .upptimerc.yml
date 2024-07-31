@@ -193,13 +193,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.in.projectsegfau.lt
-    url: https://search.in.projectsegfau.lt/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.incogniweb.net
     url: https://search.incogniweb.net/
     expectedStatusCodes:
@@ -312,13 +305,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.us.projectsegfau.lt
-    url: https://search.us.projectsegfau.lt/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.aleteoryx.me
     url: https://searx.aleteoryx.me/
     expectedStatusCodes:
@@ -403,6 +389,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: searx.mxchange.org
+    url: https://searx.mxchange.org/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.namejeff.xyz
     url: https://searx.namejeff.xyz/
     expectedStatusCodes:
@@ -461,6 +454,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.sev.monster
     url: https://searx.sev.monster/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: searx.thefloatinglab.world
+    url: https://searx.thefloatinglab.world/
     expectedStatusCodes:
       - 200
       - 429
@@ -559,20 +559,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: sx.zorby.top
     url: https://sx.zorby.top/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: sxng.violets-purgatory.dev
-    url: https://sxng.violets-purgatory.dev/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: vanderwilhelm.me
-    url: https://vanderwilhelm.me/
     expectedStatusCodes:
       - 200
       - 429
