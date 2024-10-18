@@ -13,7 +13,7 @@
     "time": 831,
     "timeDay": 0,
     "timeWeek": 830,
-    "timeMonth": 673,
+    "timeMonth": 677,
     "timeYear": 755,
     "dailyMinutesDown": {
       "2024-09-16": 10,
@@ -194,14 +194,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "84.29%",
+    "uptimeYear": "84.27%",
     "time": 392,
     "timeDay": 0,
     "timeWeek": 386,
     "timeMonth": 327,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2024-10-17": 1392,
+      "2024-10-18": 52,
+      "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -622,8 +623,7 @@
       "2023-11-03": 10,
       "2023-11-02": 59,
       "2023-10-31": 20,
-      "2023-10-20": 20,
-      "2023-10-19": 39
+      "2023-10-20": 20
     }
   },
   {
@@ -974,7 +974,7 @@
     "time": 670,
     "timeDay": 471,
     "timeWeek": 643,
-    "timeMonth": 592,
+    "timeMonth": 595,
     "timeYear": 670,
     "dailyMinutesDown": {
       "2024-10-17": 19,
@@ -1014,11 +1014,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.inetol.net.ico",
     "slug": "search-inetol-net",
     "status": "up",
-    "uptime": "75.84%",
+    "uptime": "75.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.85%",
+    "uptimeYear": "75.86%",
     "time": 515,
     "timeDay": 0,
     "timeWeek": 1483,
@@ -1134,11 +1134,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.leptons.xyz.ico",
     "slug": "search-leptons-xyz",
     "status": "up",
-    "uptime": "59.08%",
+    "uptime": "59.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.08%",
+    "uptimeYear": "95.10%",
     "time": 412,
     "timeDay": 0,
     "timeWeek": 445,
@@ -1168,8 +1168,7 @@
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
-      "2023-10-20": 1440,
-      "2023-10-19": 1440
+      "2023-10-20": 1440
     }
   },
   {
@@ -1876,11 +1875,11 @@
     "url": "https://searx.electroncash.de/",
     "icon": "https://icons.duckduckgo.com/ip3/searx.electroncash.de.ico",
     "slug": "searx-electroncash-de",
-    "status": "up",
+    "status": "down",
     "uptime": "96.00%",
-    "uptimeDay": "86.12%",
-    "uptimeWeek": "87.72%",
-    "uptimeMonth": "96.95%",
+    "uptimeDay": "85.99%",
+    "uptimeWeek": "87.70%",
+    "uptimeMonth": "96.94%",
     "uptimeYear": "96.00%",
     "time": 1171,
     "timeDay": 915,
@@ -1888,6 +1887,7 @@
     "timeMonth": 831,
     "timeYear": 1171,
     "dailyMinutesDown": {
+      "2024-10-18": 2,
       "2024-10-17": 200,
       "2024-10-16": 248,
       "2024-10-15": 270,
@@ -1959,7 +1959,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.juancord.xyz.ico",
     "slug": "searx-juancord-xyz",
     "status": "up",
-    "uptime": "93.87%",
+    "uptime": "93.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.86%",
@@ -2067,8 +2067,8 @@
     "uptime": "95.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
-    "uptimeMonth": "96.75%",
-    "uptimeYear": "96.77%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "96.78%",
     "time": 815,
     "timeDay": 0,
     "timeWeek": 937,
@@ -2631,8 +2631,7 @@
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
-      "2023-10-20": 1440,
-      "2023-10-19": 1440
+      "2023-10-20": 1440
     }
   },
   {
@@ -2731,8 +2730,7 @@
       "2023-10-29": 10,
       "2023-10-24": 10,
       "2023-10-22": 10,
-      "2023-10-20": 20,
-      "2023-10-19": 10
+      "2023-10-20": 20
     }
   },
   {
@@ -2801,12 +2799,12 @@
     "slug": "searx-zhenyapav-com",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "98.67%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.26%",
     "uptimeMonth": "95.31%",
     "uptimeYear": "99.39%",
     "time": 1009,
-    "timeDay": 922,
+    "timeDay": 0,
     "timeWeek": 1297,
     "timeMonth": 1129,
     "timeYear": 1006,
@@ -3076,7 +3074,7 @@
     "uptime": "93.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "43.66%",
-    "uptimeMonth": "63.81%",
+    "uptimeMonth": "64.04%",
     "uptimeYear": "93.18%",
     "time": 1091,
     "timeDay": 0,
@@ -3126,12 +3124,12 @@
     "uptime": "96.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.30%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "97.29%",
     "time": 695,
     "timeDay": 0,
     "timeWeek": 605,
-    "timeMonth": 541,
+    "timeMonth": 545,
     "timeYear": 708,
     "dailyMinutesDown": {
       "2024-10-13": 17,
