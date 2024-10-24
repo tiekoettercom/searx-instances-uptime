@@ -1,7 +1,7 @@
 url: https://searx.mxchange.org/
-status: up
-code: 200
-responseTime: 990
-lastUpdated: 2024-10-23T22:00:56.544Z
+status: down
+code: 502
+responseTime: 778
+lastUpdated: 2024-10-24T00:01:50.448Z
 startTime: 2024-07-31T14:00:58.169Z
 generator: Upptime <https://github.com/upptime/upptime>
