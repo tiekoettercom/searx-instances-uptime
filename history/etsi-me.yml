@@ -1,7 +1,7 @@
 url: https://etsi.me/
-status: up
-code: 200
-responseTime: 372
-lastUpdated: 2024-10-27T23:11:41.742Z
+status: down
+code: 502
+responseTime: 4471
+lastUpdated: 2024-10-28T18:02:15.710Z
 startTime: 2022-04-16T07:00:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
