@@ -1,7 +1,7 @@
 url: https://northboot.xyz/
-status: up
-code: 200
-responseTime: 974
-lastUpdated: 2024-11-06T01:20:23.959Z
+status: down
+code: 502
+responseTime: 1158
+lastUpdated: 2024-11-06T02:10:50.934Z
 startTime: 2022-03-29T13:31:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
