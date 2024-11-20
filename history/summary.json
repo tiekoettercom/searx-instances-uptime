@@ -34,8 +34,7 @@
       "2024-02-21": 20,
       "2024-02-04": 10,
       "2024-01-27": 10,
-      "2023-12-01": 10,
-      "2023-11-21": 50
+      "2023-12-01": 10
     }
   },
   {
@@ -209,7 +208,7 @@
     "uptime": "93.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.54%",
-    "uptimeMonth": "85.40%",
+    "uptimeMonth": "85.44%",
     "uptimeYear": "82.54%",
     "time": 394,
     "timeDay": 294,
@@ -368,12 +367,12 @@
     "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.27%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "99.37%",
     "time": 973,
     "timeDay": 800,
     "timeWeek": 649,
-    "timeMonth": 1023,
+    "timeMonth": 1041,
     "timeYear": 973,
     "dailyMinutesDown": {
       "2024-10-31": 40,
@@ -419,19 +418,20 @@
     "url": "https://northboot.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/northboot.xyz.ico",
     "slug": "northboot-xyz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "98.03%",
-    "uptimeWeek": "96.51%",
-    "uptimeMonth": "95.96%",
+    "uptimeDay": "96.88%",
+    "uptimeWeek": "96.35%",
+    "uptimeMonth": "95.93%",
     "uptimeYear": "99.63%",
-    "time": 1840,
-    "timeDay": 4522,
-    "timeWeek": 8672,
-    "timeMonth": 3762,
-    "timeYear": 2152,
+    "time": 1846,
+    "timeDay": 4472,
+    "timeWeek": 8379,
+    "timeMonth": 3768,
+    "timeYear": 2158,
     "dailyMinutesDown": {
-      "2024-11-19": 29,
+      "2024-11-20": 0,
+      "2024-11-19": 45,
       "2024-11-17": 98,
       "2024-11-15": 80,
       "2024-11-14": 147,
@@ -1124,7 +1124,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.inetol.net.ico",
     "slug": "search-inetol-net",
     "status": "up",
-    "uptime": "77.82%",
+    "uptime": "77.83%",
     "uptimeDay": "97.86%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "98.81%",
@@ -1527,8 +1527,7 @@
       "2023-12-11": 28,
       "2023-12-10": 20,
       "2023-11-28": 50,
-      "2023-11-26": 20,
-      "2023-11-21": 20
+      "2023-11-26": 20
     }
   },
   {
@@ -1917,7 +1916,7 @@
     "uptime": "95.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.46%",
+    "uptimeMonth": "97.50%",
     "uptimeYear": "95.61%",
     "time": 1111,
     "timeDay": 763,
@@ -2453,8 +2452,7 @@
       "2023-12-23": 178,
       "2023-12-16": 10,
       "2023-12-09": 16,
-      "2023-11-30": 19,
-      "2023-11-21": 158
+      "2023-11-30": 19
     }
   },
   {
@@ -2701,8 +2699,7 @@
       "2023-11-25": 1440,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
-      "2023-11-22": 1440,
-      "2023-11-21": 1440
+      "2023-11-22": 1440
     }
   },
   {
@@ -2977,18 +2974,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/searxng.shreven.org.ico",
     "slug": "searxng-shreven-org",
     "status": "down",
-    "uptime": "96.86%",
+    "uptime": "96.85%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "48.59%",
-    "uptimeMonth": "87.67%",
-    "uptimeYear": "96.86%",
+    "uptimeWeek": "48.42%",
+    "uptimeMonth": "87.63%",
+    "uptimeYear": "96.85%",
     "time": 951,
     "timeDay": 0,
     "timeWeek": 3129,
     "timeMonth": 894,
     "timeYear": 951,
     "dailyMinutesDown": {
-      "2024-11-19": 1427,
+      "2024-11-20": 4,
+      "2024-11-19": 1440,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 856,
