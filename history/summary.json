@@ -529,8 +529,7 @@
       "2024-03-06": 279,
       "2023-12-23": 10,
       "2023-12-21": 35,
-      "2023-12-11": 30,
-      "2023-11-29": 30
+      "2023-12-11": 30
     }
   },
   {
@@ -560,7 +559,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/opnxng.com.ico",
     "slug": "opnxng-com",
     "status": "up",
-    "uptime": "86.46%",
+    "uptime": "86.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.79%",
@@ -691,8 +690,7 @@
       "2024-01-17": 10,
       "2024-01-11": 8,
       "2024-01-10": 81,
-      "2024-01-09": 409,
-      "2023-11-29": 10
+      "2024-01-09": 409
     }
   },
   {
@@ -732,8 +730,7 @@
       "2024-06-26": 56,
       "2024-02-25": 10,
       "2024-01-09": 10,
-      "2023-12-11": 119,
-      "2023-11-29": 40
+      "2023-12-11": 119
     }
   },
   {
@@ -1249,8 +1246,7 @@
       "2024-01-05": 10,
       "2023-12-22": 20,
       "2023-12-13": 9,
-      "2023-12-10": 40,
-      "2023-11-29": 10
+      "2023-12-10": 40
     }
   },
   {
@@ -1259,7 +1255,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.leptons.xyz.ico",
     "slug": "search-leptons-xyz",
     "status": "up",
-    "uptime": "61.45%",
+    "uptime": "61.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1631,19 +1627,20 @@
     "url": "https://search.tommy-tran.com/",
     "icon": "https://icons.duckduckgo.com/ip3/search.tommy-tran.com.ico",
     "slug": "search-tommy-tran-com",
-    "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.12%",
-    "uptimeYear": "99.70%",
-    "time": 1794,
-    "timeDay": 645,
-    "timeWeek": 1522,
-    "timeMonth": 878,
-    "timeYear": 1794,
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "95.15%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "98.97%",
+    "uptimeYear": "99.66%",
+    "time": 1791,
+    "timeDay": 942,
+    "timeWeek": 1500,
+    "timeMonth": 889,
+    "timeYear": 1791,
     "dailyMinutesDown": {
-      "2024-11-27": 3,
+      "2024-11-28": 51,
+      "2024-11-27": 18,
       "2024-11-25": 38,
       "2024-11-24": 26,
       "2024-11-23": 8,
@@ -1901,12 +1898,12 @@
     "slug": "searx-electroncash-de",
     "status": "up",
     "uptime": "95.45%",
-    "uptimeDay": "75.07%",
+    "uptimeDay": "76.44%",
     "uptimeWeek": "91.42%",
     "uptimeMonth": "97.93%",
     "uptimeYear": "95.45%",
     "time": 1181,
-    "timeDay": 1312,
+    "timeDay": 1356,
     "timeWeek": 1580,
     "timeMonth": 1325,
     "timeYear": 1181,
@@ -2073,11 +2070,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.mbuf.net.ico",
     "slug": "searx-mbuf-net",
     "status": "up",
-    "uptime": "98.15%",
+    "uptime": "98.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.05%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "98.15%",
+    "uptimeMonth": "98.16%",
+    "uptimeYear": "98.16%",
     "time": 1338,
     "timeDay": 536,
     "timeWeek": 1473,
@@ -2096,18 +2093,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.mv-software.de.ico",
     "slug": "searx-mv-software-de",
     "status": "down",
-    "uptime": "97.76%",
+    "uptime": "97.72%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "60.99%",
-    "uptimeMonth": "90.93%",
-    "uptimeYear": "97.76%",
+    "uptimeWeek": "60.30%",
+    "uptimeMonth": "90.78%",
+    "uptimeYear": "97.72%",
     "time": 1094,
     "timeDay": 0,
     "timeWeek": 1204,
     "timeMonth": 1036,
     "timeYear": 1094,
     "dailyMinutesDown": {
-      "2024-11-27": 1425,
+      "2024-11-28": 55,
+      "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1048,
       "2024-11-24": 10,
@@ -2320,18 +2318,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.ox2.fr.ico",
     "slug": "searx-ox2-fr",
     "status": "down",
-    "uptime": "99.01%",
+    "uptime": "99.00%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "36.28%",
-    "uptimeMonth": "85.27%",
-    "uptimeYear": "98.75%",
+    "uptimeWeek": "35.59%",
+    "uptimeMonth": "85.11%",
+    "uptimeYear": "98.74%",
     "time": 779,
     "timeDay": 581,
     "timeWeek": 739,
     "timeMonth": 1090,
     "timeYear": 797,
     "dailyMinutesDown": {
-      "2024-11-27": 1425,
+      "2024-11-28": 55,
+      "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
@@ -2368,8 +2367,7 @@
       "2024-08-22": 46,
       "2024-08-17": 9,
       "2024-08-15": 10,
-      "2024-01-08": 10,
-      "2023-11-29": 10
+      "2024-01-08": 10
     }
   },
   {
@@ -2711,8 +2709,7 @@
       "2023-12-03": 1440,
       "2023-12-02": 1440,
       "2023-12-01": 1440,
-      "2023-11-30": 1440,
-      "2023-11-29": 1440
+      "2023-11-30": 1440
     }
   },
   {
@@ -2800,8 +2797,7 @@
       "2023-12-04": 8,
       "2023-12-03": 10,
       "2023-12-01": 8,
-      "2023-11-30": 8,
-      "2023-11-29": 10
+      "2023-11-30": 8
     }
   },
   {
@@ -2973,18 +2969,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/searxng.linuxchad.win.ico",
     "slug": "searxng-linuxchad-win",
     "status": "down",
-    "uptime": "94.51%",
+    "uptime": "94.44%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "51.36%",
-    "uptimeMonth": "88.79%",
-    "uptimeYear": "94.51%",
+    "uptimeWeek": "50.67%",
+    "uptimeMonth": "88.63%",
+    "uptimeYear": "94.44%",
     "time": 1012,
     "timeDay": 0,
     "timeWeek": 2108,
     "timeMonth": 1470,
     "timeYear": 1012,
     "dailyMinutesDown": {
-      "2024-11-27": 1426,
+      "2024-11-28": 55,
+      "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 578,
@@ -3003,11 +3000,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searxng.shreven.org.ico",
     "slug": "searxng-shreven-org",
     "status": "up",
-    "uptime": "96.50%",
+    "uptime": "96.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "84.85%",
-    "uptimeYear": "96.50%",
+    "uptimeYear": "96.51%",
     "time": 928,
     "timeDay": 338,
     "timeWeek": 368,
@@ -3054,7 +3051,7 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.07%",
-    "uptimeMonth": "45.20%",
+    "uptimeMonth": "45.57%",
     "uptimeYear": "0.00%",
     "time": 927,
     "timeDay": 375,
