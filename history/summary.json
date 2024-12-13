@@ -68,8 +68,7 @@
       "2023-12-22": 91,
       "2023-12-21": 67,
       "2023-12-18": 54,
-      "2023-12-17": 38,
-      "2023-12-14": 63
+      "2023-12-17": 38
     }
   },
   {
@@ -122,8 +121,7 @@
       "2024-07-14": 172,
       "2024-07-03": 250,
       "2024-01-15": 10,
-      "2023-12-15": 30,
-      "2023-12-14": 11
+      "2023-12-15": 30
     }
   },
   {
@@ -826,12 +824,12 @@
     "status": "up",
     "uptime": "99.40%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.61%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.40%",
     "time": 619,
     "timeDay": 0,
-    "timeWeek": 671,
+    "timeWeek": 701,
     "timeMonth": 586,
     "timeYear": 619,
     "dailyMinutesDown": {
@@ -1061,7 +1059,7 @@
     "timeDay": 0,
     "timeWeek": 505,
     "timeMonth": 470,
-    "timeYear": 523,
+    "timeYear": 524,
     "dailyMinutesDown": {
       "2024-12-06": 10,
       "2024-11-19": 31,
@@ -1171,7 +1169,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.leptons.xyz.ico",
     "slug": "search-leptons-xyz",
     "status": "up",
-    "uptime": "62.25%",
+    "uptime": "62.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1764,12 +1762,12 @@
     "status": "up",
     "uptime": "99.82%",
     "uptimeDay": "99.32%",
-    "uptimeWeek": "99.81%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.82%",
     "time": 672,
     "timeDay": 509,
-    "timeWeek": 432,
+    "timeWeek": 421,
     "timeMonth": 1614,
     "timeYear": 672,
     "dailyMinutesDown": {
@@ -2001,11 +1999,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.mbuf.net.ico",
     "slug": "searx-mbuf-net",
     "status": "up",
-    "uptime": "98.88%",
+    "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.71%",
-    "uptimeYear": "98.88%",
+    "uptimeYear": "98.89%",
     "time": 1088,
     "timeDay": 0,
     "timeWeek": 712,
@@ -2419,18 +2417,19 @@
     "url": "https://searx.technicalvoid.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/searx.technicalvoid.dev.ico",
     "slug": "searx-technicalvoid-dev",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.66%",
-    "time": 556,
-    "timeDay": 0,
-    "timeWeek": 565,
-    "timeMonth": 550,
-    "timeYear": 556,
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.65%",
+    "time": 555,
+    "timeDay": 497,
+    "timeWeek": 555,
+    "timeMonth": 548,
+    "timeYear": 555,
     "dailyMinutesDown": {
+      "2024-12-13": 3,
       "2024-12-10": 29,
       "2024-11-21": 10,
       "2024-10-29": 208
@@ -2639,8 +2638,7 @@
       "2023-12-18": 1440,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
-      "2023-12-15": 1440,
-      "2023-12-14": 1440
+      "2023-12-15": 1440
     }
   },
   {
@@ -3165,8 +3163,7 @@
       "2024-06-15": 9,
       "2024-06-12": 788,
       "2024-03-05": 10,
-      "2024-03-03": 10,
-      "2023-12-14": 8
+      "2024-03-03": 10
     }
   }
 ]
