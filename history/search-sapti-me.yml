@@ -1,7 +1,7 @@
 url: https://search.sapti.me/
-status: up
-code: 200
-responseTime: 959
-lastUpdated: 2024-12-24T23:10:53.480Z
+status: down
+code: 502
+responseTime: 629
+lastUpdated: 2024-12-25T08:01:25.144Z
 startTime: 2022-06-11T01:01:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
