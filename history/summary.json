@@ -62,8 +62,7 @@
       "2024-09-10": 19,
       "2024-03-07": 300,
       "2024-01-07": 501,
-      "2024-01-06": 671,
-      "2024-01-05": 660
+      "2024-01-06": 671
     }
   },
   {
@@ -123,18 +122,19 @@
     "url": "https://baresearch.org/",
     "icon": "https://icons.duckduckgo.com/ip3/baresearch.org.ico",
     "slug": "baresearch-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 256,
-    "timeDay": 434,
-    "timeWeek": 338,
-    "timeMonth": 299,
+    "timeDay": 411,
+    "timeWeek": 336,
+    "timeMonth": 300,
     "timeYear": 265,
     "dailyMinutesDown": {
+      "2025-01-04": 3,
       "2025-01-03": 19,
       "2024-11-15": 10,
       "2024-11-03": 10,
@@ -575,7 +575,7 @@
     "time": 884,
     "timeDay": 785,
     "timeWeek": 988,
-    "timeMonth": 843,
+    "timeMonth": 844,
     "timeYear": 881,
     "dailyMinutesDown": {
       "2024-12-23": 20,
@@ -677,7 +677,7 @@
     "slug": "search-080609-xyz",
     "status": "up",
     "uptime": "97.59%",
-    "uptimeDay": "41.27%",
+    "uptimeDay": "42.63%",
     "uptimeWeek": "89.88%",
     "uptimeMonth": "97.59%",
     "uptimeYear": "97.59%",
@@ -948,7 +948,7 @@
     "status": "up",
     "uptime": "91.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "60.66%",
+    "uptimeWeek": "60.85%",
     "uptimeMonth": "75.51%",
     "uptimeYear": "91.15%",
     "time": 587,
@@ -1222,8 +1222,7 @@
       "2024-03-17": 687,
       "2024-02-19": 10,
       "2024-02-17": 10,
-      "2024-01-25": 10,
-      "2024-01-05": 10
+      "2024-01-25": 10
     }
   },
   {
@@ -1518,8 +1517,7 @@
       "2024-01-10": 117,
       "2024-01-09": 818,
       "2024-01-08": 549,
-      "2024-01-07": 9,
-      "2024-01-05": 30
+      "2024-01-07": 9
     }
   },
   {
@@ -2074,17 +2072,18 @@
     "slug": "searx-lunar-icu",
     "status": "down",
     "uptime": "98.47%",
-    "uptimeDay": "92.74%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "98.36%",
+    "uptimeDay": "91.40%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "98.17%",
+    "uptimeYear": "98.35%",
     "time": 805,
     "timeDay": 0,
     "timeWeek": 458,
     "timeMonth": 447,
-    "timeYear": 834,
+    "timeYear": 835,
     "dailyMinutesDown": {
-      "2025-01-03": 105,
+      "2025-01-04": 16,
+      "2025-01-03": 108,
       "2024-12-24": 10,
       "2024-12-22": 591,
       "2024-12-21": 59,
@@ -2301,8 +2300,8 @@
     "status": "down",
     "uptime": "98.66%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "57.10%",
-    "uptimeMonth": "88.85%",
+    "uptimeWeek": "56.91%",
+    "uptimeMonth": "88.81%",
     "uptimeYear": "98.67%",
     "time": 572,
     "timeDay": 0,
@@ -2310,7 +2309,8 @@
     "timeMonth": 576,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2025-01-03": 1437,
+      "2025-01-04": 16,
+      "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 8,
@@ -2561,18 +2561,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.technicalvoid.dev.ico",
     "slug": "searx-technicalvoid-dev",
     "status": "down",
-    "uptime": "81.37%",
+    "uptime": "81.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "56.35%",
-    "uptimeYear": "81.37%",
+    "uptimeMonth": "56.31%",
+    "uptimeYear": "81.35%",
     "time": 1210,
     "timeDay": 451,
     "timeWeek": 518,
     "timeMonth": 1608,
     "timeYear": 1210,
     "dailyMinutesDown": {
-      "2025-01-03": 1437,
+      "2025-01-04": 16,
+      "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
@@ -2778,8 +2779,7 @@
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
-      "2024-01-06": 1440,
-      "2024-01-05": 1440
+      "2024-01-06": 1440
     }
   },
   {
@@ -2853,8 +2853,7 @@
       "2024-01-18": 10,
       "2024-01-13": 8,
       "2024-01-07": 8,
-      "2024-01-06": 8,
-      "2024-01-05": 311
+      "2024-01-06": 8
     }
   },
   {
@@ -2967,8 +2966,8 @@
     "status": "down",
     "uptime": "98.62%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "45.28%",
-    "uptimeMonth": "87.39%",
+    "uptimeWeek": "45.09%",
+    "uptimeMonth": "87.34%",
     "uptimeYear": "98.04%",
     "time": 1100,
     "timeDay": 0,
@@ -2976,7 +2975,8 @@
     "timeMonth": 636,
     "timeYear": 1291,
     "dailyMinutesDown": {
-      "2025-01-03": 1437,
+      "2025-01-04": 17,
+      "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1198,
@@ -3035,12 +3035,12 @@
     "slug": "searxng-shreven-org",
     "status": "up",
     "uptime": "97.12%",
-    "uptimeDay": "99.62%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "97.12%",
     "time": 833,
-    "timeDay": 384,
+    "timeDay": 317,
     "timeWeek": 329,
     "timeMonth": 348,
     "timeYear": 833,
@@ -3086,11 +3086,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searxng.site.ico",
     "slug": "searxng-site",
     "status": "up",
-    "uptime": "38.09%",
+    "uptime": "38.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "38.10%",
+    "uptimeYear": "38.12%",
     "time": 939,
     "timeDay": 413,
     "timeWeek": 457,
@@ -3149,8 +3149,7 @@
       "2024-08-23": 1214,
       "2024-08-22": 1205,
       "2024-08-18": 95,
-      "2024-08-17": 64,
-      "2024-01-05": 29
+      "2024-08-17": 64
     }
   },
   {
@@ -3217,9 +3216,9 @@
     "slug": "skyrimhater-com",
     "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "98.36%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "98.31%",
     "uptimeYear": "99.22%",
     "time": 564,
     "timeDay": 181,
@@ -3227,7 +3226,8 @@
     "timeMonth": 1259,
     "timeYear": 564,
     "dailyMinutesDown": {
-      "2025-01-03": 4,
+      "2025-01-04": 17,
+      "2025-01-03": 6,
       "2024-12-27": 139,
       "2024-12-21": 19,
       "2024-12-20": 29,
