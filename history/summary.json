@@ -47,7 +47,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.54%",
+    "uptimeYear": "99.55%",
     "time": 1108,
     "timeDay": 530,
     "timeWeek": 758,
@@ -61,8 +61,7 @@
       "2024-10-24": 179,
       "2024-09-10": 19,
       "2024-03-07": 300,
-      "2024-01-07": 501,
-      "2024-01-06": 671
+      "2024-01-07": 501
     }
   },
   {
@@ -124,12 +123,12 @@
     "slug": "baresearch-org",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "96.45%",
+    "uptimeDay": "98.61%",
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 257,
-    "timeDay": 351,
+    "timeDay": 393,
     "timeWeek": 347,
     "timeMonth": 304,
     "timeYear": 266,
@@ -307,8 +306,7 @@
       "2024-01-15": 20,
       "2024-01-13": 10,
       "2024-01-11": 10,
-      "2024-01-10": 10,
-      "2024-01-06": 10
+      "2024-01-10": 10
     }
   },
   {
@@ -946,11 +944,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.getcobalt.org.ico",
     "slug": "search-getcobalt-org",
     "status": "up",
-    "uptime": "91.24%",
+    "uptime": "91.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "74.63%",
+    "uptimeWeek": "75.56%",
     "uptimeMonth": "75.51%",
-    "uptimeYear": "91.24%",
+    "uptimeYear": "91.25%",
     "time": 584,
     "timeDay": 291,
     "timeWeek": 387,
@@ -1039,8 +1037,7 @@
     "timeMonth": 481,
     "timeYear": 452,
     "dailyMinutesDown": {
-      "2024-11-07": 21,
-      "2024-01-06": 28
+      "2024-11-07": 21
     }
   },
   {
@@ -1653,7 +1650,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.ankha.ac.ico",
     "slug": "searx-ankha-ac",
     "status": "up",
-    "uptime": "81.43%",
+    "uptime": "81.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
@@ -1839,11 +1836,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.cespedes.fr.ico",
     "slug": "searx-cespedes-fr",
     "status": "up",
-    "uptime": "95.10%",
+    "uptime": "95.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.60%",
-    "uptimeMonth": "95.10%",
-    "uptimeYear": "95.10%",
+    "uptimeMonth": "95.11%",
+    "uptimeYear": "95.11%",
     "time": 637,
     "timeDay": 569,
     "timeWeek": 591,
@@ -2077,7 +2074,7 @@
     "slug": "searx-lunar-icu",
     "status": "up",
     "uptime": "98.45%",
-    "uptimeDay": "87.70%",
+    "uptimeDay": "94.20%",
     "uptimeWeek": "97.52%",
     "uptimeMonth": "97.88%",
     "uptimeYear": "98.33%",
@@ -2085,7 +2082,7 @@
     "timeDay": 623,
     "timeWeek": 492,
     "timeMonth": 460,
-    "timeYear": 834,
+    "timeYear": 835,
     "dailyMinutesDown": {
       "2025-01-04": 142,
       "2025-01-03": 108,
@@ -2293,8 +2290,7 @@
       "2024-08-10": 9,
       "2024-06-21": 10,
       "2024-06-16": 10,
-      "2024-03-16": 130,
-      "2024-01-06": 25
+      "2024-03-16": 130
     }
   },
   {
@@ -2303,18 +2299,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.nobulart.com.ico",
     "slug": "searx-nobulart-com",
     "status": "down",
-    "uptime": "98.44%",
+    "uptime": "98.42%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "43.13%",
-    "uptimeMonth": "85.64%",
-    "uptimeYear": "98.41%",
+    "uptimeWeek": "42.20%",
+    "uptimeMonth": "85.42%",
+    "uptimeYear": "98.39%",
     "time": 572,
     "timeDay": 0,
     "timeWeek": 522,
     "timeMonth": 581,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2025-01-04": 1405,
+      "2025-01-05": 58,
+      "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
@@ -2341,8 +2338,7 @@
       "2024-02-21": 9,
       "2024-01-19": 9,
       "2024-01-12": 39,
-      "2024-01-09": 70,
-      "2024-01-06": 10
+      "2024-01-09": 70
     }
   },
   {
@@ -2353,7 +2349,7 @@
     "status": "up",
     "uptime": "98.51%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.59%",
+    "uptimeWeek": "95.52%",
     "uptimeMonth": "92.00%",
     "uptimeYear": "98.27%",
     "time": 210,
@@ -2566,18 +2562,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.technicalvoid.dev.ico",
     "slug": "searx-technicalvoid-dev",
     "status": "down",
-    "uptime": "80.28%",
+    "uptime": "80.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.14%",
-    "uptimeYear": "80.28%",
+    "uptimeMonth": "52.92%",
+    "uptimeYear": "80.21%",
     "time": 1203,
     "timeDay": 449,
     "timeWeek": 493,
     "timeMonth": 1607,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2025-01-04": 1405,
+      "2025-01-05": 59,
+      "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
@@ -2613,7 +2610,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "0.18%",
+    "uptimeYear": "0.26%",
     "time": 916,
     "timeDay": 934,
     "timeWeek": 864,
@@ -2783,8 +2780,7 @@
       "2024-01-10": 1440,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
-      "2024-01-07": 1440,
-      "2024-01-06": 1440
+      "2024-01-07": 1440
     }
   },
   {
@@ -2857,8 +2853,7 @@
       "2024-01-19": 17,
       "2024-01-18": 10,
       "2024-01-13": 8,
-      "2024-01-07": 8,
-      "2024-01-06": 8
+      "2024-01-07": 8
     }
   },
   {
@@ -2969,18 +2964,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/searxng.ch.ico",
     "slug": "searxng-ch",
     "status": "down",
-    "uptime": "98.43%",
+    "uptime": "98.42%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "31.31%",
-    "uptimeMonth": "84.17%",
-    "uptimeYear": "97.77%",
+    "uptimeWeek": "30.38%",
+    "uptimeMonth": "83.96%",
+    "uptimeYear": "97.75%",
     "time": 1101,
     "timeDay": 0,
     "timeWeek": 750,
     "timeMonth": 647,
     "timeYear": 1293,
     "dailyMinutesDown": {
-      "2025-01-04": 1405,
+      "2025-01-05": 59,
+      "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
@@ -3092,11 +3088,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searxng.site.ico",
     "slug": "searxng-site",
     "status": "up",
-    "uptime": "39.13%",
+    "uptime": "39.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "39.14%",
+    "uptimeYear": "39.21%",
     "time": 937,
     "timeDay": 367,
     "timeWeek": 428,
@@ -3222,7 +3218,7 @@
     "slug": "skyrimhater-com",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "70.93%",
+    "uptimeDay": "75.48%",
     "uptimeWeek": "95.85%",
     "uptimeMonth": "97.41%",
     "uptimeYear": "99.09%",
@@ -3320,7 +3316,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gruble.de.ico",
     "slug": "www-gruble-de",
     "status": "up",
-    "uptime": "96.61%",
+    "uptime": "96.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
