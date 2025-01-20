@@ -494,15 +494,15 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: technewsheads.com
-    url: https://technewsheads.com/
+  - name: www.gruble.de
+    url: https://www.gruble.de/
     expectedStatusCodes:
       - 200
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: www.gruble.de
-    url: https://www.gruble.de/
+  - name: sexwebcams.watch
+    url: https://sexwebcams.watch/
     expectedStatusCodes:
       - 200
       - 429
