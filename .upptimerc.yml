@@ -123,6 +123,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.ballardini.de
+    url: https://search.ballardini.de/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.blitzw.in
     url: https://search.blitzw.in/
     expectedStatusCodes:
@@ -207,6 +214,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.ipv6s.net
+    url: https://search.ipv6s.net/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.leptons.xyz
     url: https://search.leptons.xyz/
     expectedStatusCodes:
@@ -284,8 +298,8 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.tommy-tran.com
-    url: https://search.tommy-tran.com/
+  - name: search.url4irl.com
+    url: https://search.url4irl.com/
     expectedStatusCodes:
       - 200
       - 429
@@ -314,6 +328,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.electroncash.de
     url: https://searx.electroncash.de/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: searx.foobar.vip
+    url: https://searx.foobar.vip/
     expectedStatusCodes:
       - 200
       - 429
@@ -480,8 +501,8 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: skyrimhater.com
-    url: https://skyrimhater.com/
+  - name: suche.dasnetzundich.de
+    url: https://suche.dasnetzundich.de/
     expectedStatusCodes:
       - 200
       - 429
@@ -496,13 +517,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: www.gruble.de
     url: https://www.gruble.de/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: sexwebcams.watch
-    url: https://sexwebcams.watch/
     expectedStatusCodes:
       - 200
       - 429
