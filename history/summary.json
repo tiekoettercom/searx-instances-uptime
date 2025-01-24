@@ -71,7 +71,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/paulgo.io.ico",
     "slug": "paulgo-io",
     "status": "up",
-    "uptime": "97.24%",
+    "uptime": "97.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -477,18 +477,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nyc1.sx.ggtyler.dev.ico",
     "slug": "nyc1-sx-ggtyler-dev",
     "status": "up",
-    "uptime": "95.17%",
+    "uptime": "95.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "42.11%",
-    "uptimeYear": "93.89%",
+    "uptimeMonth": "41.91%",
+    "uptimeYear": "93.87%",
     "time": 508,
     "timeDay": 239,
     "timeWeek": 219,
     "timeMonth": 322,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2025-01-23": 1403,
+      "2025-01-24": 50,
+      "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
@@ -758,18 +759,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.bus-hit.me.ico",
     "slug": "search-bus-hit-me",
     "status": "down",
-    "uptime": "99.72%",
+    "uptime": "99.71%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "74.39%",
-    "uptimeMonth": "92.92%",
-    "uptimeYear": "99.27%",
+    "uptimeWeek": "73.52%",
+    "uptimeMonth": "92.72%",
+    "uptimeYear": "99.25%",
     "time": 419,
     "timeDay": 0,
     "timeWeek": 437,
     "timeMonth": 453,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2025-01-23": 1403,
+      "2025-01-24": 51,
+      "2025-01-23": 1440,
       "2025-01-22": 1179,
       "2025-01-11": 519,
       "2024-10-24": 9,
@@ -1032,8 +1034,7 @@
       "2024-02-15": 20,
       "2024-02-08": 361,
       "2024-02-07": 51,
-      "2024-02-01": 12,
-      "2024-01-25": 341
+      "2024-02-01": 12
     }
   },
   {
@@ -1238,8 +1239,7 @@
       "2024-03-18": 1440,
       "2024-03-17": 687,
       "2024-02-19": 10,
-      "2024-02-17": 10,
-      "2024-01-25": 10
+      "2024-02-17": 10
     }
   },
   {
@@ -1830,11 +1830,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.cespedes.fr.ico",
     "slug": "searx-cespedes-fr",
     "status": "up",
-    "uptime": "92.79%",
+    "uptime": "92.80%",
     "uptimeDay": "99.32%",
     "uptimeWeek": "98.81%",
     "uptimeMonth": "91.14%",
-    "uptimeYear": "92.79%",
+    "uptimeYear": "92.80%",
     "time": 630,
     "timeDay": 564,
     "timeWeek": 602,
@@ -2028,7 +2028,7 @@
     "slug": "searx-juancord-xyz",
     "status": "up",
     "uptime": "94.07%",
-    "uptimeDay": "62.64%",
+    "uptimeDay": "68.75%",
     "uptimeWeek": "89.38%",
     "uptimeMonth": "97.56%",
     "uptimeYear": "98.17%",
@@ -2065,14 +2065,14 @@
     "status": "up",
     "uptime": "97.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "84.17%",
+    "uptimeWeek": "85.04%",
     "uptimeMonth": "89.40%",
     "uptimeYear": "97.64%",
     "time": 719,
     "timeDay": 455,
     "timeWeek": 360,
     "timeMonth": 464,
-    "timeYear": 580,
+    "timeYear": 552,
     "dailyMinutesDown": {
       "2025-01-21": 39,
       "2025-01-19": 60,
@@ -2113,8 +2113,7 @@
       "2024-01-31": 20,
       "2024-01-28": 12,
       "2024-01-27": 18,
-      "2024-01-26": 10,
-      "2024-01-25": 19
+      "2024-01-26": 10
     }
   },
   {
@@ -2344,8 +2343,7 @@
       "2024-02-05": 10,
       "2024-02-02": 69,
       "2024-01-27": 278,
-      "2024-01-26": 1011,
-      "2024-01-25": 38
+      "2024-01-26": 1011
     }
   },
   {
@@ -2516,7 +2514,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.70%",
+    "uptimeYear": "21.76%",
     "time": 936,
     "timeDay": 812,
     "timeWeek": 867,
@@ -2667,8 +2665,7 @@
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
-      "2024-01-26": 1440,
-      "2024-01-25": 1440
+      "2024-01-26": 1440
     }
   },
   {
@@ -2734,8 +2731,7 @@
       "2024-01-30": 28,
       "2024-01-28": 17,
       "2024-01-27": 8,
-      "2024-01-26": 8,
-      "2024-01-25": 9
+      "2024-01-26": 8
     }
   },
   {
@@ -2930,11 +2926,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searxng.site.ico",
     "slug": "searxng-site",
     "status": "up",
-    "uptime": "54.11%",
+    "uptime": "54.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "54.15%",
+    "uptimeYear": "54.19%",
     "time": 909,
     "timeDay": 412,
     "timeWeek": 432,
@@ -3061,9 +3057,9 @@
     "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "91.69%",
-    "uptimeWeek": "92.97%",
-    "uptimeMonth": "92.97%",
-    "uptimeYear": "92.97%",
+    "uptimeWeek": "93.32%",
+    "uptimeMonth": "93.32%",
+    "uptimeYear": "93.32%",
     "time": 870,
     "timeDay": 635,
     "timeWeek": 606,
