@@ -1,7 +1,7 @@
 url: https://searxng.hweeren.com/
-status: down
-code: 502
-responseTime: 779
-lastUpdated: 2025-01-30T23:11:57.809Z
+status: up
+code: 200
+responseTime: 648
+lastUpdated: 2025-01-31T04:41:54.593Z
 startTime: 2024-06-09T23:22:32.694Z
 generator: Upptime <https://github.com/upptime/upptime>
