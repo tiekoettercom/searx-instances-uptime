@@ -35,8 +35,7 @@
       "2024-07-31": 80,
       "2024-07-09": 10,
       "2024-03-09": 10,
-      "2024-02-21": 20,
-      "2024-02-04": 10
+      "2024-02-21": 20
     }
   },
   {
@@ -354,11 +353,11 @@
     "url": "https://kantan.cat/",
     "icon": "https://icons.duckduckgo.com/ip3/kantan.cat.ico",
     "slug": "kantan-cat",
-    "status": "up",
+    "status": "down",
     "uptime": "96.24%",
-    "uptimeDay": "9.20%",
-    "uptimeWeek": "69.97%",
-    "uptimeMonth": "93.09%",
+    "uptimeDay": "13.21%",
+    "uptimeWeek": "69.95%",
+    "uptimeMonth": "93.08%",
     "uptimeYear": "96.24%",
     "time": 1280,
     "timeDay": 606,
@@ -366,6 +365,7 @@
     "timeMonth": 1700,
     "timeYear": 1280,
     "dailyMinutesDown": {
+      "2025-02-03": 2,
       "2025-02-02": 1271,
       "2025-02-01": 1258,
       "2025-01-31": 228,
@@ -483,7 +483,7 @@
     "status": "up",
     "uptime": "93.51%",
     "uptimeDay": "97.26%",
-    "uptimeWeek": "19.58%",
+    "uptimeWeek": "20.18%",
     "uptimeMonth": "15.77%",
     "uptimeYear": "91.53%",
     "time": 510,
@@ -715,7 +715,7 @@
     "uptime": "98.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.95%",
+    "uptimeMonth": "98.09%",
     "uptimeYear": "98.78%",
     "time": 1062,
     "timeDay": 555,
@@ -735,18 +735,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.ballardini.de.ico",
     "slug": "search-ballardini-de",
     "status": "down",
-    "uptime": "90.63%",
+    "uptime": "90.29%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "85.13%",
-    "uptimeMonth": "90.63%",
-    "uptimeYear": "90.63%",
+    "uptimeWeek": "84.54%",
+    "uptimeMonth": "90.29%",
+    "uptimeYear": "90.29%",
     "time": 632,
     "timeDay": 0,
     "timeWeek": 637,
     "timeMonth": 632,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2025-02-02": 1404,
+      "2025-02-03": 24,
+      "2025-02-02": 1440,
       "2025-02-01": 58,
       "2025-01-28": 37,
       "2025-01-24": 10
@@ -1534,8 +1535,7 @@
       "2024-02-24": 20,
       "2024-02-20": 190,
       "2024-02-16": 10,
-      "2024-02-10": 10,
-      "2024-02-04": 19
+      "2024-02-10": 10
     }
   },
   {
@@ -1833,11 +1833,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.cespedes.fr.ico",
     "slug": "searx-cespedes-fr",
     "status": "up",
-    "uptime": "92.66%",
+    "uptime": "92.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.39%",
-    "uptimeYear": "92.66%",
+    "uptimeYear": "92.67%",
     "time": 627,
     "timeDay": 595,
     "timeWeek": 545,
@@ -2452,8 +2452,7 @@
       "2024-03-20": 9,
       "2024-03-12": 20,
       "2024-02-28": 100,
-      "2024-02-06": 10,
-      "2024-02-04": 9
+      "2024-02-06": 10
     }
   },
   {
@@ -2526,7 +2525,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.27%",
+    "uptimeYear": "31.31%",
     "time": 874,
     "timeDay": 612,
     "timeWeek": 1832,
@@ -2667,8 +2666,7 @@
       "2024-02-08": 1440,
       "2024-02-07": 1440,
       "2024-02-06": 1440,
-      "2024-02-05": 1440,
-      "2024-02-04": 1440
+      "2024-02-05": 1440
     }
   },
   {
@@ -2876,12 +2874,12 @@
     "uptime": "97.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "97.48%",
     "time": 776,
     "timeDay": 302,
     "timeWeek": 353,
-    "timeMonth": 337,
+    "timeMonth": 334,
     "timeYear": 776,
     "dailyMinutesDown": {
       "2025-01-17": 7,
@@ -2926,11 +2924,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searxng.site.ico",
     "slug": "searxng-site",
     "status": "up",
-    "uptime": "59.38%",
+    "uptime": "59.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "59.41%",
+    "uptimeYear": "59.43%",
     "time": 899,
     "timeDay": 388,
     "timeWeek": 470,
@@ -3055,7 +3053,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/suche.dasnetzundich.de.ico",
     "slug": "suche-dasnetzundich-de",
     "status": "up",
-    "uptime": "14.23%",
+    "uptime": "14.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "98.96%",
