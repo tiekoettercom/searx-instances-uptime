@@ -503,7 +503,7 @@
     "uptime": "93.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
-    "uptimeMonth": "55.11%",
+    "uptimeMonth": "55.25%",
     "uptimeYear": "91.51%",
     "time": 526,
     "timeDay": 779,
@@ -1095,8 +1095,7 @@
       "2024-03-25": 29,
       "2024-03-21": 210,
       "2024-03-20": 90,
-      "2024-03-08": 10,
-      "2024-02-20": 10
+      "2024-03-08": 10
     }
   },
   {
@@ -1382,18 +1381,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.nadeko.net.ico",
     "slug": "search-nadeko-net",
     "status": "down",
-    "uptime": "96.81%",
+    "uptime": "96.80%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "16.06%",
-    "uptimeMonth": "64.80%",
-    "uptimeYear": "96.59%",
+    "uptimeWeek": "15.46%",
+    "uptimeMonth": "64.66%",
+    "uptimeYear": "96.57%",
     "time": 541,
     "timeDay": 0,
     "timeWeek": 500,
     "timeMonth": 460,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2025-02-18": 1432,
+      "2025-02-19": 53,
+      "2025-02-18": 1440,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
@@ -1605,8 +1605,7 @@
       "2024-04-01": 10,
       "2024-03-30": 9,
       "2024-03-27": 9,
-      "2024-02-24": 20,
-      "2024-02-20": 190
+      "2024-02-24": 20
     }
   },
   {
@@ -1672,7 +1671,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.sapti.me.ico",
     "slug": "search-sapti-me",
     "status": "up",
-    "uptime": "98.90%",
+    "uptime": "98.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1904,11 +1903,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.cespedes.fr.ico",
     "slug": "searx-cespedes-fr",
     "status": "up",
-    "uptime": "94.44%",
+    "uptime": "94.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.15%",
-    "uptimeYear": "94.44%",
+    "uptimeYear": "94.45%",
     "time": 649,
     "timeDay": 733,
     "timeWeek": 681,
@@ -2188,8 +2187,7 @@
       "2024-03-21": 448,
       "2024-03-06": 10,
       "2024-03-02": 400,
-      "2024-02-29": 220,
-      "2024-02-20": 9
+      "2024-02-29": 220
     }
   },
   {
@@ -2610,7 +2608,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "44.55%",
+    "uptimeYear": "44.58%",
     "time": 889,
     "timeDay": 957,
     "timeWeek": 907,
@@ -2737,8 +2735,7 @@
       "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
-      "2024-02-21": 1440,
-      "2024-02-20": 1440
+      "2024-02-21": 1440
     }
   },
   {
@@ -2996,11 +2993,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searxng.site.ico",
     "slug": "searxng-site",
     "status": "up",
-    "uptime": "65.68%",
+    "uptime": "65.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.71%",
+    "uptimeYear": "65.72%",
     "time": 886,
     "timeDay": 715,
     "timeWeek": 488,
@@ -3125,11 +3122,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/suche.dasnetzundich.de.ico",
     "slug": "suche-dasnetzundich-de",
     "status": "up",
-    "uptime": "59.97%",
+    "uptime": "60.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.80%",
-    "uptimeYear": "94.80%",
+    "uptimeMonth": "94.81%",
+    "uptimeYear": "94.81%",
     "time": 847,
     "timeDay": 865,
     "timeWeek": 739,
