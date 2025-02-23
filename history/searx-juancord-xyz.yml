@@ -1,7 +1,7 @@
 url: https://searx.juancord.xyz/
-status: up
-code: 200
-responseTime: 441
-lastUpdated: 2025-02-22T23:11:06.656Z
+status: down
+code: 502
+responseTime: 536
+lastUpdated: 2025-02-23T02:12:39.291Z
 startTime: 2022-10-16T06:01:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
