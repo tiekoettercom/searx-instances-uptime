@@ -1,7 +1,7 @@
 url: https://search.nordh.tech/
-status: up
-code: 200
-responseTime: 615
-lastUpdated: 2025-03-05T23:12:08.158Z
+status: down
+code: 500
+responseTime: 550
+lastUpdated: 2025-03-06T06:51:09.138Z
 startTime: 2024-09-05T14:00:47.050Z
 generator: Upptime <https://github.com/upptime/upptime>
