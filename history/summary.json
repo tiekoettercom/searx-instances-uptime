@@ -502,19 +502,19 @@
     "url": "https://nyc1.sx.ggtyler.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/nyc1.sx.ggtyler.dev.ico",
     "slug": "nyc1-sx-ggtyler-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "94.14%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
     "uptimeMonth": "98.27%",
     "uptimeYear": "91.54%",
-    "time": 716,
+    "time": 717,
     "timeDay": 598,
     "timeWeek": 392,
     "timeMonth": 1848,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2025-03-12": 10,
+      "2025-03-12": 11,
       "2025-03-03": 59,
       "2025-03-02": 10,
       "2025-02-27": 19,
@@ -586,8 +586,7 @@
       "2024-09-08": 10,
       "2024-09-02": 30,
       "2024-08-28": 20,
-      "2024-08-26": 69,
-      "2024-08-25": 8
+      "2024-08-26": 69
     }
   },
   {
