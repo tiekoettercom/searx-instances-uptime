@@ -505,8 +505,8 @@
     "icon": "https://icons.duckduckgo.com/ip3/nyc1.sx.ggtyler.dev.ico",
     "slug": "nyc1-sx-ggtyler-dev",
     "status": "up",
-    "uptime": "94.23%",
-    "uptimeDay": "98.73%",
+    "uptime": "94.24%",
+    "uptimeDay": "98.80%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "97.93%",
     "uptimeYear": "91.53%",
@@ -773,10 +773,10 @@
     "url": "https://search.080609.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/search.080609.xyz.ico",
     "slug": "search-080609-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "98.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.79%",
     "time": 1159,
@@ -785,6 +785,7 @@
     "timeMonth": 1121,
     "timeYear": 1159,
     "dailyMinutesDown": {
+      "2025-03-22": 2,
       "2025-03-03": 20,
       "2025-02-11": 500,
       "2025-02-07": 10,
@@ -1212,7 +1213,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "77.84%",
+    "uptimeYear": "77.85%",
     "time": 519,
     "timeDay": 0,
     "timeWeek": 506,
@@ -1313,8 +1314,7 @@
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
-      "2024-03-23": 1440,
-      "2024-03-22": 1440
+      "2024-03-23": 1440
     }
   },
   {
@@ -2079,7 +2079,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.91%",
-    "uptimeYear": "97.27%",
+    "uptimeYear": "97.28%",
     "time": 653,
     "timeDay": 0,
     "timeWeek": 449,
@@ -2116,8 +2116,7 @@
       "2024-08-16": 30,
       "2024-07-17": 10,
       "2024-07-02": 140,
-      "2024-06-21": 360,
-      "2024-03-22": 231
+      "2024-06-21": 360
     }
   },
   {
@@ -2551,7 +2550,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.61%",
+    "uptimeYear": "65.63%",
     "time": 912,
     "timeDay": 0,
     "timeWeek": 906,
@@ -2647,8 +2646,7 @@
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
-      "2024-03-23": 1440,
-      "2024-03-22": 1440
+      "2024-03-23": 1440
     }
   },
   {
@@ -2851,12 +2849,12 @@
     "uptime": "99.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.18%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "99.52%",
     "time": 706,
     "timeDay": 0,
     "timeWeek": 722,
-    "timeMonth": 721,
+    "timeMonth": 722,
     "timeYear": 706,
     "dailyMinutesDown": {
       "2025-03-17": 10,
@@ -3098,7 +3096,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/suche.dasnetzundich.de.ico",
     "slug": "suche-dasnetzundich-de",
     "status": "up",
-    "uptime": "80.56%",
+    "uptime": "80.57%",
     "uptimeDay": "99.35%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "98.61%",
