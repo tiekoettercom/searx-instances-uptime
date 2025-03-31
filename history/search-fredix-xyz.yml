@@ -1,7 +1,7 @@
 url: https://search.fredix.xyz/
-status: up
-code: 200
-responseTime: 538
-lastUpdated: 2025-03-31T11:51:05.224Z
+status: down
+code: 502
+responseTime: 1005
+lastUpdated: 2025-03-31T12:31:13.303Z
 startTime: 2024-09-05T14:00:38.833Z
 generator: Upptime <https://github.com/upptime/upptime>
