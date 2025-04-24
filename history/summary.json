@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.90%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.77%",
     "time": 751,
     "timeDay": 608,
-    "timeWeek": 696,
+    "timeWeek": 697,
     "timeMonth": 735,
     "timeYear": 766,
     "dailyMinutesDown": {
@@ -953,7 +953,7 @@
     "status": "up",
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
+    "uptimeWeek": "99.53%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.88%",
     "time": 516,
@@ -1351,8 +1351,7 @@
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
-      "2024-04-25": 1440,
-      "2024-04-24": 1440
+      "2024-04-25": 1440
     }
   },
   {
@@ -1780,7 +1779,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "86.22%",
+    "uptimeYear": "86.23%",
     "time": 660,
     "timeDay": 344,
     "timeWeek": 495,
@@ -1913,8 +1912,7 @@
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
-      "2024-04-25": 1440,
-      "2024-04-24": 1440
+      "2024-04-25": 1440
     }
   },
   {
@@ -2174,7 +2172,7 @@
     "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.64%",
-    "uptimeMonth": "97.40%",
+    "uptimeMonth": "97.41%",
     "uptimeYear": "99.25%",
     "time": 765,
     "timeDay": 743,
@@ -2204,7 +2202,7 @@
     "uptime": "95.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "73.90%",
+    "uptimeMonth": "73.83%",
     "uptimeYear": "95.71%",
     "time": 1076,
     "timeDay": 1293,
@@ -2212,7 +2210,8 @@
     "timeMonth": 1042,
     "timeYear": 1076,
     "dailyMinutesDown": {
-      "2025-04-23": 1424,
+      "2025-04-24": 15,
+      "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
@@ -2565,7 +2564,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.26%",
+    "uptimeYear": "82.27%",
     "time": 930,
     "timeDay": 1012,
     "timeWeek": 974,
@@ -2628,8 +2627,7 @@
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
-      "2024-04-25": 1440,
-      "2024-04-24": 1440
+      "2024-04-25": 1440
     }
   },
   {
@@ -2995,7 +2993,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/searxng.site.ico",
     "slug": "searxng-site",
     "status": "up",
-    "uptime": "78.32%",
+    "uptime": "78.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.47%",
@@ -3138,18 +3136,19 @@
     "url": "https://suche.dasnetzundich.de/",
     "icon": "https://icons.duckduckgo.com/ip3/suche.dasnetzundich.de.ico",
     "slug": "suche-dasnetzundich-de",
-    "status": "up",
+    "status": "down",
     "uptime": "85.75%",
-    "uptimeDay": "93.07%",
-    "uptimeWeek": "94.85%",
-    "uptimeMonth": "94.81%",
+    "uptimeDay": "93.12%",
+    "uptimeWeek": "94.81%",
+    "uptimeMonth": "94.80%",
     "uptimeYear": "96.14%",
-    "time": 798,
+    "time": 799,
     "timeDay": 808,
     "timeWeek": 658,
     "timeMonth": 709,
     "timeYear": 698,
     "dailyMinutesDown": {
+      "2025-04-24": 4,
       "2025-04-23": 100,
       "2025-04-22": 11,
       "2025-04-21": 400,
