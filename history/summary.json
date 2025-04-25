@@ -360,11 +360,11 @@
     "url": "https://kantan.cat/",
     "icon": "https://icons.duckduckgo.com/ip3/kantan.cat.ico",
     "slug": "kantan-cat",
-    "status": "up",
+    "status": "down",
     "uptime": "97.59%",
-    "uptimeDay": "93.31%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "98.97%",
+    "uptimeDay": "93.20%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "98.96%",
     "uptimeYear": "97.59%",
     "time": 1280,
     "timeDay": 3189,
@@ -372,7 +372,7 @@
     "timeMonth": 1339,
     "timeYear": 1280,
     "dailyMinutesDown": {
-      "2025-04-25": 98,
+      "2025-04-25": 100,
       "2025-04-13": 10,
       "2025-04-12": 19,
       "2025-04-10": 10,
@@ -404,8 +404,7 @@
       "2024-12-20": 20,
       "2024-12-19": 208,
       "2024-12-18": 1423,
-      "2024-12-17": 229,
-      "2024-12-13": 10
+      "2024-12-17": 229
     }
   },
   {
@@ -2203,7 +2202,7 @@
     "uptime": "95.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.47%",
+    "uptimeMonth": "68.44%",
     "uptimeYear": "95.14%",
     "time": 1076,
     "timeDay": 1082,
@@ -2211,7 +2210,7 @@
     "timeMonth": 1043,
     "timeYear": 1076,
     "dailyMinutesDown": {
-      "2025-04-25": 924,
+      "2025-04-25": 935,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
