@@ -2203,7 +2203,7 @@
     "uptime": "94.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "59.49%",
+    "uptimeMonth": "59.47%",
     "uptimeYear": "94.21%",
     "time": 1076,
     "timeDay": 1054,
@@ -2211,7 +2211,7 @@
     "timeMonth": 1031,
     "timeYear": 1076,
     "dailyMinutesDown": {
-      "2025-04-28": 535,
+      "2025-04-28": 547,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -2258,11 +2258,11 @@
     "url": "https://searx.mxchange.org/",
     "icon": "https://icons.duckduckgo.com/ip3/searx.mxchange.org.ico",
     "slug": "searx-mxchange-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "91.95%",
-    "uptimeWeek": "92.52%",
-    "uptimeMonth": "97.25%",
+    "uptimeDay": "91.67%",
+    "uptimeWeek": "92.48%",
+    "uptimeMonth": "97.26%",
     "uptimeYear": "99.69%",
     "time": 1015,
     "timeDay": 1544,
@@ -2270,7 +2270,7 @@
     "timeMonth": 1049,
     "timeYear": 1085,
     "dailyMinutesDown": {
-      "2025-04-28": 48,
+      "2025-04-28": 52,
       "2025-04-27": 77,
       "2025-04-26": 195,
       "2025-04-25": 97,
@@ -2282,7 +2282,7 @@
       "2025-04-19": 97,
       "2025-04-18": 39,
       "2025-04-17": 133,
-      "2025-04-16": 37
+      "2025-04-16": 28
     }
   },
   {
