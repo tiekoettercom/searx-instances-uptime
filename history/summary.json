@@ -433,19 +433,19 @@
     "url": "https://northboot.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/northboot.xyz.ico",
     "slug": "northboot-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "93.37%",
-    "uptimeWeek": "99.05%",
+    "uptimeDay": "93.29%",
+    "uptimeWeek": "99.04%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.40%",
-    "time": 2481,
+    "time": 2483,
     "timeDay": 24753,
     "timeWeek": 12666,
     "timeMonth": 6164,
     "timeYear": 2657,
     "dailyMinutesDown": {
-      "2025-05-05": 95,
+      "2025-05-05": 96,
       "2025-04-28": 12,
       "2025-04-25": 9,
       "2025-04-22": 56,
@@ -483,7 +483,7 @@
       "2024-11-06": 278,
       "2024-11-05": 353,
       "2024-10-30": 87,
-      "2024-10-29": 38
+      "2024-10-29": 17
     }
   },
   {
@@ -2200,8 +2200,8 @@
     "status": "down",
     "uptime": "98.61%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "66.27%",
-    "uptimeMonth": "92.11%",
+    "uptimeWeek": "66.17%",
+    "uptimeMonth": "92.08%",
     "uptimeYear": "97.68%",
     "time": 215,
     "timeDay": 350,
@@ -2209,7 +2209,7 @@
     "timeMonth": 216,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-05-05": 1145,
+      "2025-05-05": 1156,
       "2025-05-04": 1197,
       "2025-05-02": 1029,
       "2025-05-01": 29,
