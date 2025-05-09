@@ -1,7 +1,7 @@
 url: https://searxng.shreven.org/
-status: down
-code: 500
-responseTime: 379
-lastUpdated: 2025-05-09T13:43:08.795Z
+status: up
+code: 200
+responseTime: 450
+lastUpdated: 2025-05-09T13:52:36.571Z
 startTime: 2024-06-09T23:22:34.003Z
 generator: Upptime <https://github.com/upptime/upptime>
