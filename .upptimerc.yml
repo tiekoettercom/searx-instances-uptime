@@ -25,13 +25,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.be
-    url: https://searx.be/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: baresearch.org
     url: https://baresearch.org/
     expectedStatusCodes:
@@ -440,6 +433,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.sev.monster
     url: https://searx.sev.monster/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: searx.stream
+    url: https://searx.stream/
     expectedStatusCodes:
       - 200
       - 429
