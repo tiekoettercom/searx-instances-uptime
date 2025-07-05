@@ -1,7 +1,7 @@
 url: https://searxng.f24o.zip/
-status: down
-code: 502
-responseTime: 4922
-lastUpdated: 2025-07-05T17:41:38.788Z
+status: up
+code: 200
+responseTime: 928
+lastUpdated: 2025-07-05T17:51:24.764Z
 startTime: 2025-03-01T19:01:02.357Z
 generator: Upptime <https://github.com/upptime/upptime>
