@@ -1,7 +1,7 @@
 url: https://search.goober.cloud/
-status: up
-code: 200
-responseTime: 137
-lastUpdated: 2025-08-04T17:21:11.193Z
+status: down
+code: 500
+responseTime: 379
+lastUpdated: 2025-08-04T17:41:08.110Z
 startTime: 2025-07-10T22:02:22.254Z
 generator: Upptime <https://github.com/upptime/upptime>
