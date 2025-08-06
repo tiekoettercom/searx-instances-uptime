@@ -144,6 +144,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.charliewhiskey.net
+    url: https://search.charliewhiskey.net/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.citw.lgbt
     url: https://search.citw.lgbt/
     expectedStatusCodes:
@@ -195,6 +202,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.inetol.net
     url: https://search.inetol.net/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.ipv6s.net
+    url: https://search.ipv6s.net/
     expectedStatusCodes:
       - 200
       - 429
