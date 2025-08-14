@@ -179,13 +179,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.federicociro.com
-    url: https://search.federicociro.com/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.goober.cloud
     url: https://search.goober.cloud/
     expectedStatusCodes:
