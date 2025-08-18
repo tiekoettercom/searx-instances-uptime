@@ -445,13 +445,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.thefloatinglab.world
-    url: https://searx.thefloatinglab.world/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.tuxcloud.net
     url: https://searx.tuxcloud.net/
     expectedStatusCodes:
@@ -517,13 +510,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: seek.fyi
     url: https://seek.fyi/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: suche.dasnetzundich.de
-    url: https://suche.dasnetzundich.de/
     expectedStatusCodes:
       - 200
       - 429
