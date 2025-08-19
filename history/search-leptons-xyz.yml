@@ -1,7 +1,7 @@
 url: https://search.leptons.xyz/
-status: up
-code: 200
-responseTime: 426
-lastUpdated: 2025-08-18T23:13:49.251Z
+status: down
+code: 502
+responseTime: 510
+lastUpdated: 2025-08-19T14:50:53.704Z
 startTime: 2022-12-20T23:01:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
