@@ -1,7 +1,7 @@
 url: https://searx.zhenyapav.com/
-status: up
-code: 200
-responseTime: 1107
-lastUpdated: 2025-08-22T06:01:06.715Z
+status: down
+code: 502
+responseTime: 805
+lastUpdated: 2025-08-22T11:51:14.334Z
 startTime: 2023-08-14T10:02:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
