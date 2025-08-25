@@ -1,7 +1,7 @@
 url: https://metacat.online/
-status: up
-code: 200
-responseTime: 572
-lastUpdated: 2025-08-24T23:11:44.098Z
+status: down
+code: 502
+responseTime: 548
+lastUpdated: 2025-08-25T16:10:50.784Z
 startTime: 2025-02-05T07:00:38.858Z
 generator: Upptime <https://github.com/upptime/upptime>
