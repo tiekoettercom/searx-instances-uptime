@@ -1,7 +1,7 @@
 url: https://search.bladerunn.in/
-status: up
-code: 200
-responseTime: 506
-lastUpdated: 2025-09-13T23:10:44.611Z
+status: down
+code: 502
+responseTime: 809
+lastUpdated: 2025-09-14T10:30:49.143Z
 startTime: 2025-09-02T14:02:04.808Z
 generator: Upptime <https://github.com/upptime/upptime>
