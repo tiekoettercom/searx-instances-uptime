@@ -211,7 +211,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "89.15%",
+    "uptimeYear": "89.16%",
     "time": 368,
     "timeDay": 0,
     "timeWeek": 272,
@@ -270,8 +270,7 @@
       "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
-      "2024-09-16": 1440,
-      "2024-09-15": 1440
+      "2024-09-16": 1440
     }
   },
   {
@@ -746,18 +745,19 @@
     "url": "https://s.mble.dk/",
     "icon": "https://icons.duckduckgo.com/ip3/s.mble.dk.ico",
     "slug": "s-mble-dk",
-    "status": "up",
-    "uptime": "97.13%",
-    "uptimeDay": "97.85%",
-    "uptimeWeek": "88.77%",
+    "status": "down",
+    "uptime": "97.14%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "88.75%",
     "uptimeMonth": "95.45%",
-    "uptimeYear": "94.76%",
-    "time": 2296,
+    "uptimeYear": "94.77%",
+    "time": 2299,
     "timeDay": 393,
     "timeWeek": 485,
     "timeMonth": 477,
     "timeYear": 2849,
     "dailyMinutesDown": {
+      "2025-09-15": 2,
       "2025-09-14": 31,
       "2025-09-13": 1031,
       "2025-09-12": 11,
@@ -816,7 +816,7 @@
       "2024-11-27": 10,
       "2024-11-25": 458,
       "2024-11-24": 434,
-      "2024-11-23": 179
+      "2024-11-23": 109
     }
   },
   {
@@ -827,8 +827,8 @@
     "status": "down",
     "uptime": "97.33%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "25.60%",
-    "uptimeMonth": "81.86%",
+    "uptimeWeek": "25.39%",
+    "uptimeMonth": "81.81%",
     "uptimeYear": "97.33%",
     "time": 1196,
     "timeDay": 0,
@@ -836,7 +836,8 @@
     "timeMonth": 950,
     "timeYear": 1196,
     "dailyMinutesDown": {
-      "2025-09-14": 1422,
+      "2025-09-15": 3,
+      "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
@@ -960,18 +961,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.buddyverse.net.ico",
     "slug": "search-buddyverse-net",
     "status": "down",
-    "uptime": "99.22%",
-    "uptimeDay": "75.58%",
-    "uptimeWeek": "96.51%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "99.22%",
+    "uptime": "99.17%",
+    "uptimeDay": "74.15%",
+    "uptimeWeek": "96.31%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.17%",
     "time": 467,
     "timeDay": 143,
     "timeWeek": 424,
     "timeMonth": 469,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2025-09-14": 352
+      "2025-09-15": 3,
+      "2025-09-14": 369
     }
   },
   {
@@ -1662,11 +1664,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.perditum.com.ico",
     "slug": "search-perditum-com",
     "status": "up",
-    "uptime": "89.98%",
+    "uptime": "90.00%",
     "uptimeDay": "98.59%",
     "uptimeWeek": "88.95%",
-    "uptimeMonth": "89.98%",
-    "uptimeYear": "89.98%",
+    "uptimeMonth": "90.00%",
+    "uptimeYear": "90.00%",
     "time": 1714,
     "timeDay": 595,
     "timeWeek": 2014,
@@ -1745,7 +1747,7 @@
     "slug": "search-projectsegfau-lt",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "78.13%",
+    "uptimeDay": "79.58%",
     "uptimeWeek": "93.78%",
     "uptimeMonth": "89.27%",
     "uptimeYear": "99.11%",
@@ -1944,7 +1946,7 @@
     "status": "up",
     "uptime": "94.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "84.33%",
+    "uptimeWeek": "84.54%",
     "uptimeMonth": "82.17%",
     "uptimeYear": "91.50%",
     "time": 644,
@@ -2018,8 +2020,7 @@
       "2024-10-08": 10,
       "2024-10-01": 10,
       "2024-09-24": 10,
-      "2024-09-19": 48,
-      "2024-09-15": 10
+      "2024-09-19": 48
     }
   },
   {
@@ -2053,7 +2054,7 @@
     "status": "up",
     "uptime": "98.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.45%",
+    "uptimeWeek": "95.66%",
     "uptimeMonth": "95.69%",
     "uptimeYear": "98.98%",
     "time": 702,
@@ -2130,8 +2131,7 @@
       "2024-11-24": 878,
       "2024-10-03": 9,
       "2024-10-02": 10,
-      "2024-09-21": 10,
-      "2024-09-15": 419
+      "2024-09-21": 10
     }
   },
   {
@@ -3086,7 +3086,7 @@
     "status": "up",
     "uptime": "84.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.68%",
+    "uptimeWeek": "76.90%",
     "uptimeMonth": "85.19%",
     "uptimeYear": "84.64%",
     "time": 819,
@@ -3283,8 +3283,7 @@
       "2025-06-12": 181,
       "2025-06-11": 126,
       "2025-06-10": 68,
-      "2025-06-09": 30,
-      "2024-09-15": 10
+      "2025-06-09": 30
     }
   },
   {
