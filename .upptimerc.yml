@@ -81,13 +81,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: nyc1.sx.ggtyler.dev
-    url: https://nyc1.sx.ggtyler.dev/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: o5.gg
     url: https://o5.gg/
     expectedStatusCodes:
@@ -559,6 +552,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: www.gruble.de
     url: https://www.gruble.de/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: www.ggtyler.dev/other/frontends
+    url: https://www.ggtyler.dev/other/frontends/
     expectedStatusCodes:
       - 200
       - 429
