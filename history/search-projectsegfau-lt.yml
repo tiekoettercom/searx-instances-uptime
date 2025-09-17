@@ -1,7 +1,7 @@
 url: https://search.projectsegfau.lt/
-status: up
-code: 200
-responseTime: 543
-lastUpdated: 2025-09-17T06:50:44.061Z
+status: down
+code: 502
+responseTime: 647
+lastUpdated: 2025-09-17T09:20:49.844Z
 startTime: 2023-04-13T18:01:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
