@@ -1,7 +1,7 @@
 url: https://search.iguru.gr/
-status: up
-code: 200
-responseTime: 404
-lastUpdated: 2025-09-19T05:13:43.004Z
+status: down
+code: 500
+responseTime: 692
+lastUpdated: 2025-09-19T06:13:44.907Z
 startTime: 2025-09-10T18:01:00.689Z
 generator: Upptime <https://github.com/upptime/upptime>
