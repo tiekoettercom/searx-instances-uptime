@@ -263,8 +263,7 @@
       "2024-09-25": 1440,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
-      "2024-09-22": 1440,
-      "2024-09-21": 1440
+      "2024-09-22": 1440
     }
   },
   {
@@ -841,11 +840,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.buddyverse.net.ico",
     "slug": "search-buddyverse-net",
     "status": "up",
-    "uptime": "89.45%",
+    "uptime": "89.46%",
     "uptimeDay": "96.14%",
     "uptimeWeek": "43.89%",
     "uptimeMonth": "87.09%",
-    "uptimeYear": "89.45%",
+    "uptimeYear": "89.46%",
     "time": 497,
     "timeDay": 699,
     "timeWeek": 539,
@@ -948,8 +947,8 @@
     "status": "down",
     "uptime": "97.78%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "58.81%",
-    "uptimeMonth": "90.46%",
+    "uptimeWeek": "58.71%",
+    "uptimeMonth": "90.43%",
     "uptimeYear": "97.78%",
     "time": 886,
     "timeDay": 0,
@@ -957,7 +956,8 @@
     "timeMonth": 702,
     "timeYear": 886,
     "dailyMinutesDown": {
-      "2025-09-20": 1434,
+      "2025-09-21": 5,
+      "2025-09-20": 1440,
       "2025-09-19": 1440,
       "2025-09-18": 1277,
       "2025-09-04": 10,
@@ -996,8 +996,7 @@
     "timeMonth": 676,
     "timeYear": 728,
     "dailyMinutesDown": {
-      "2025-09-08": 10,
-      "2024-09-21": 8
+      "2025-09-08": 10
     }
   },
   {
@@ -1138,19 +1137,20 @@
     "url": "https://search.iguru.gr/",
     "icon": "https://icons.duckduckgo.com/ip3/search.iguru.gr.ico",
     "slug": "search-iguru-gr",
-    "status": "down",
-    "uptime": "93.35%",
-    "uptimeDay": "73.00%",
-    "uptimeWeek": "90.27%",
-    "uptimeMonth": "93.35%",
-    "uptimeYear": "93.35%",
+    "status": "up",
+    "uptime": "93.30%",
+    "uptimeDay": "72.41%",
+    "uptimeWeek": "90.18%",
+    "uptimeMonth": "93.30%",
+    "uptimeYear": "93.30%",
     "time": 431,
-    "timeDay": 429,
-    "timeWeek": 430,
+    "timeDay": 430,
+    "timeWeek": 431,
     "timeMonth": 431,
     "timeYear": 431,
     "dailyMinutesDown": {
-      "2025-09-20": 389,
+      "2025-09-21": 3,
+      "2025-09-20": 394,
       "2025-09-19": 382,
       "2025-09-18": 210
     }
@@ -1295,18 +1295,19 @@
     "url": "https://search.internetsucks.net/",
     "icon": "https://icons.duckduckgo.com/ip3/search.internetsucks.net.ico",
     "slug": "search-internetsucks-net",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 835,
-    "timeDay": 1103,
-    "timeWeek": 945,
-    "timeMonth": 835,
-    "timeYear": 835,
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 834,
+    "timeDay": 1023,
+    "timeWeek": 933,
+    "timeMonth": 834,
+    "timeYear": 834,
     "dailyMinutesDown": {
+      "2025-09-21": 2,
       "2025-09-20": 10,
       "2025-09-16": 10,
       "2025-09-07": 10,
@@ -1380,7 +1381,7 @@
     "uptime": "72.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.72%",
+    "uptimeMonth": "96.74%",
     "uptimeYear": "98.63%",
     "time": 405,
     "timeDay": 485,
@@ -1572,11 +1573,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.perditum.com.ico",
     "slug": "search-perditum-com",
     "status": "up",
-    "uptime": "90.32%",
+    "uptime": "90.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.90%",
-    "uptimeMonth": "90.32%",
-    "uptimeYear": "90.32%",
+    "uptimeMonth": "90.33%",
+    "uptimeYear": "90.33%",
     "time": 1480,
     "timeDay": 770,
     "timeWeek": 770,
@@ -1659,9 +1660,9 @@
     "slug": "search-projectsegfau-lt",
     "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "22.12%",
+    "uptimeDay": "21.39%",
     "uptimeWeek": "47.96%",
-    "uptimeMonth": "87.81%",
+    "uptimeMonth": "87.79%",
     "uptimeYear": "98.98%",
     "time": 1209,
     "timeDay": 706,
@@ -1669,7 +1670,8 @@
     "timeMonth": 801,
     "timeYear": 1257,
     "dailyMinutesDown": {
-      "2025-09-20": 1122,
+      "2025-09-21": 5,
+      "2025-09-20": 1127,
       "2025-09-19": 1205,
       "2025-09-18": 1320,
       "2025-09-17": 879,
@@ -2040,8 +2042,7 @@
       "2024-11-25": 1440,
       "2024-11-24": 878,
       "2024-10-03": 9,
-      "2024-10-02": 10,
-      "2024-09-21": 10
+      "2024-10-02": 10
     }
   },
   {
@@ -3003,8 +3004,7 @@
       "2024-10-17": 10,
       "2024-10-10": 10,
       "2024-10-08": 79,
-      "2024-09-28": 400,
-      "2024-09-21": 230
+      "2024-09-28": 400
     }
   },
   {
