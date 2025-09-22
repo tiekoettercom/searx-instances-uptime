@@ -249,6 +249,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.mycotrip.tech
+    url: https://search.mycotrip.tech/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.nerdvpn.de
     url: https://search.nerdvpn.de/
     expectedStatusCodes:
