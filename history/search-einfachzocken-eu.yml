@@ -1,7 +1,7 @@
 url: https://search.einfachzocken.eu/
-status: up
-code: 200
-responseTime: 565
-lastUpdated: 2025-09-23T10:10:34.974Z
+status: down
+code: 502
+responseTime: 1045
+lastUpdated: 2025-09-23T22:00:34.933Z
 startTime: 2024-03-28T23:00:41.105Z
 generator: Upptime <https://github.com/upptime/upptime>
