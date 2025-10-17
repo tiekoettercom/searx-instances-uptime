@@ -6,7 +6,7 @@
     "slug": "searx-tiekoetter-com",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "93.11%",
+    "uptimeDay": "93.31%",
     "uptimeWeek": "98.44%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.76%",
@@ -229,7 +229,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.92%",
+    "uptimeYear": "97.93%",
     "time": 351,
     "timeDay": 338,
     "timeWeek": 375,
@@ -256,8 +256,7 @@
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
-      "2024-10-18": 1440,
-      "2024-10-17": 1440
+      "2024-10-18": 1440
     }
   },
   {
@@ -293,8 +292,7 @@
       "2024-10-24": 9,
       "2024-10-21": 10,
       "2024-10-20": 60,
-      "2024-10-18": 170,
-      "2024-10-17": 10
+      "2024-10-18": 170
     }
   },
   {
@@ -716,18 +714,19 @@
     "url": "https://s.mble.dk/",
     "icon": "https://icons.duckduckgo.com/ip3/s.mble.dk.ico",
     "slug": "s-mble-dk",
-    "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "86.33%",
-    "uptimeWeek": "91.65%",
+    "status": "down",
+    "uptime": "99.22%",
+    "uptimeDay": "86.25%",
+    "uptimeWeek": "91.61%",
     "uptimeMonth": "84.54%",
     "uptimeYear": "98.50%",
-    "time": 2440,
+    "time": 2443,
     "timeDay": 3053,
     "timeWeek": 2920,
     "timeMonth": 1886,
     "timeYear": 2749,
     "dailyMinutesDown": {
+      "2025-10-17": 5,
       "2025-10-16": 199,
       "2025-10-15": 250,
       "2025-10-14": 59,
@@ -759,7 +758,7 @@
       "2025-09-13": 1031,
       "2025-09-12": 11,
       "2025-09-11": 9,
-      "2025-09-10": 31
+      "2025-09-10": 21
     }
   },
   {
@@ -857,7 +856,7 @@
     "uptime": "91.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.04%",
-    "uptimeMonth": "90.34%",
+    "uptimeMonth": "90.39%",
     "uptimeYear": "91.80%",
     "time": 773,
     "timeDay": 841,
@@ -1215,8 +1214,7 @@
       "2024-11-15": 20,
       "2024-11-13": 10,
       "2024-11-11": 9,
-      "2024-10-30": 10,
-      "2024-10-17": 19
+      "2024-10-30": 10
     }
   },
   {
@@ -1304,11 +1302,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.ipsys.bf.ico",
     "slug": "search-ipsys-bf",
     "status": "up",
-    "uptime": "70.55%",
+    "uptime": "70.71%",
     "uptimeDay": "60.61%",
-    "uptimeWeek": "75.74%",
-    "uptimeMonth": "73.10%",
-    "uptimeYear": "70.55%",
+    "uptimeWeek": "75.87%",
+    "uptimeMonth": "73.25%",
+    "uptimeYear": "70.71%",
     "time": 2822,
     "timeDay": 3068,
     "timeWeek": 6313,
@@ -1432,18 +1430,19 @@
     "url": "https://search.mycotrip.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/search.mycotrip.tech.ico",
     "slug": "search-mycotrip-tech",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 227,
     "timeDay": 100,
     "timeWeek": 204,
     "timeMonth": 227,
     "timeYear": 227,
     "dailyMinutesDown": {
+      "2025-10-17": 5,
       "2025-10-16": 10,
       "2025-10-14": 21,
       "2025-10-06": 9,
@@ -1591,11 +1590,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.perditum.com.ico",
     "slug": "search-perditum-com",
     "status": "up",
-    "uptime": "93.94%",
+    "uptime": "93.95%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.27%",
+    "uptimeWeek": "97.49%",
     "uptimeMonth": "94.72%",
-    "uptimeYear": "93.94%",
+    "uptimeYear": "93.95%",
     "time": 1359,
     "timeDay": 739,
     "timeWeek": 714,
@@ -1632,11 +1631,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.pollorebozado.com.ico",
     "slug": "search-pollorebozado-com",
     "status": "up",
-    "uptime": "93.96%",
+    "uptime": "93.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.53%",
-    "uptimeMonth": "93.96%",
-    "uptimeYear": "93.96%",
+    "uptimeMonth": "93.97%",
+    "uptimeYear": "93.97%",
     "time": 510,
     "timeDay": 421,
     "timeWeek": 513,
@@ -2467,7 +2466,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "90.23%",
+    "uptimeYear": "90.24%",
     "time": 718,
     "timeDay": 242,
     "timeWeek": 532,
@@ -2745,8 +2744,7 @@
       "2024-11-04": 20,
       "2024-10-24": 5,
       "2024-10-20": 20,
-      "2024-10-19": 370,
-      "2024-10-17": 19
+      "2024-10-19": 370
     }
   },
   {
@@ -2756,9 +2754,9 @@
     "slug": "searxng-biz",
     "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "75.78%",
-    "uptimeMonth": "94.37%",
+    "uptimeDay": "96.73%",
+    "uptimeWeek": "75.55%",
+    "uptimeMonth": "94.31%",
     "uptimeYear": "98.92%",
     "time": 903,
     "timeDay": 735,
@@ -2766,7 +2764,8 @@
     "timeMonth": 1473,
     "timeYear": 903,
     "dailyMinutesDown": {
-      "2025-10-16": 24,
+      "2025-10-17": 10,
+      "2025-10-16": 37,
       "2025-10-12": 410,
       "2025-10-11": 1440,
       "2025-10-10": 567,
@@ -3090,8 +3089,7 @@
       "2024-11-16": 856,
       "2024-11-15": 9,
       "2024-11-14": 9,
-      "2024-11-05": 220,
-      "2024-10-17": 10
+      "2024-11-05": 220
     }
   },
   {
@@ -3182,8 +3180,7 @@
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
-      "2024-10-18": 1440,
-      "2024-10-17": 1440
+      "2024-10-18": 1440
     }
   },
   {
@@ -3194,8 +3191,8 @@
     "status": "down",
     "uptime": "94.61%",
     "uptimeDay": "40.99%",
-    "uptimeWeek": "66.29%",
-    "uptimeMonth": "92.24%",
+    "uptimeWeek": "66.06%",
+    "uptimeMonth": "92.19%",
     "uptimeYear": "94.61%",
     "time": 578,
     "timeDay": 459,
@@ -3203,7 +3200,8 @@
     "timeMonth": 569,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2025-10-16": 837,
+      "2025-10-17": 11,
+      "2025-10-16": 849,
       "2025-10-15": 911,
       "2025-10-14": 702,
       "2025-10-13": 809,
@@ -3299,18 +3297,19 @@
     "url": "https://www.gruble.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gruble.de.ico",
     "slug": "www-gruble-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "87.52%",
-    "uptimeWeek": "95.59%",
-    "uptimeMonth": "96.89%",
-    "uptimeYear": "99.65%",
+    "uptimeDay": "87.10%",
+    "uptimeWeek": "95.53%",
+    "uptimeMonth": "96.87%",
+    "uptimeYear": "99.66%",
     "time": 937,
-    "timeDay": 676,
-    "timeWeek": 1293,
-    "timeMonth": 1252,
+    "timeDay": 682,
+    "timeWeek": 1284,
+    "timeMonth": 1249,
     "timeYear": 977,
     "dailyMinutesDown": {
+      "2025-10-17": 6,
       "2025-10-16": 179,
       "2025-10-15": 97,
       "2025-10-14": 10,
@@ -3344,8 +3343,7 @@
       "2025-08-11": 40,
       "2025-08-10": 19,
       "2025-08-09": 10,
-      "2025-08-08": 20,
-      "2025-08-05": 7
+      "2025-08-08": 20
     }
   }
 ]
