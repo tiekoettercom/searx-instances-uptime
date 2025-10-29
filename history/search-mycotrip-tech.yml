@@ -1,7 +1,7 @@
 url: https://search.mycotrip.tech/
-status: up
-code: 200
-responseTime: 206
-lastUpdated: 2025-10-29T01:04:58.606Z
+status: down
+code: 502
+responseTime: 3400
+lastUpdated: 2025-10-29T02:51:18.846Z
 startTime: 2025-09-22T18:01:35.485Z
 generator: Upptime <https://github.com/upptime/upptime>
