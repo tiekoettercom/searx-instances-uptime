@@ -1,7 +1,7 @@
 url: https://search.notsparkable.org/
-status: up
-code: 200
-responseTime: 207
-lastUpdated: 2025-11-01T02:21:50.263Z
+status: down
+code: 502
+responseTime: 133
+lastUpdated: 2025-11-04T21:54:00.588Z
 startTime: 2025-10-28T15:03:29.742Z
 generator: Upptime <https://github.com/upptime/upptime>
