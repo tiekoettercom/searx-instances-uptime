@@ -1,7 +1,7 @@
 url: https://search.ipv6s.net/
-status: up
-code: 200
-responseTime: 498
-lastUpdated: 2025-11-09T23:12:44.002Z
+status: down
+code: 502
+responseTime: 547
+lastUpdated: 2025-11-10T10:41:21.641Z
 startTime: 2025-08-06T14:02:49.802Z
 generator: Upptime <https://github.com/upptime/upptime>
