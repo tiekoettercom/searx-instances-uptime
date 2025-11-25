@@ -1,7 +1,7 @@
 url: https://s.mble.dk/
-status: up
-code: 200
-responseTime: 21814
-lastUpdated: 2025-11-25T00:10:49.231Z
+status: down
+code: 502
+responseTime: 20170
+lastUpdated: 2025-11-25T06:01:05.264Z
 startTime: 2023-11-17T19:21:05.805Z
 generator: Upptime <https://github.com/upptime/upptime>
