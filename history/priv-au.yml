@@ -1,7 +1,7 @@
 url: https://priv.au/
-status: up
-code: 200
-responseTime: 1027
-lastUpdated: 2025-12-02T07:00:26.021Z
+status: down
+code: 502
+responseTime: 883
+lastUpdated: 2025-12-02T10:50:47.625Z
 startTime: 2022-07-19T10:00:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
