@@ -1,7 +1,7 @@
 url: https://search.buddyverse.net/
-status: up
-code: 200
-responseTime: 818
-lastUpdated: 2025-12-03T15:11:14.077Z
+status: down
+code: 401
+responseTime: 786
+lastUpdated: 2025-12-03T15:21:11.702Z
 startTime: 2025-08-14T18:01:08.511Z
 generator: Upptime <https://github.com/upptime/upptime>
