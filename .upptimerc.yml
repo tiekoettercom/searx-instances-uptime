@@ -95,13 +95,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.a14r.be
-    url: https://search.a14r.be/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.abohiccups.com
     url: https://search.abohiccups.com/
     expectedStatusCodes:
@@ -284,13 +277,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.rowie.at
-    url: https://search.rowie.at/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.sapti.me
     url: https://search.sapti.me/
     expectedStatusCodes:
@@ -328,13 +314,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.dresden.network
     url: https://searx.dresden.network/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.juancord.xyz
-    url: https://searx.juancord.xyz/
     expectedStatusCodes:
       - 200
       - 429
@@ -445,6 +424,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: searxng.blockblitz.dev
+    url: https://searxng.blockblitz.dev/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searxng.canine.tools
     url: https://searxng.canine.tools/
     expectedStatusCodes:
@@ -503,13 +489,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: www.gruble.de
     url: https://www.gruble.de/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: id.fairkom.net/auth/realms/fairlogin/protocol/openid-connect/auth?approval_prompt=force_INSTANCES_client_id=fairlogin-proxy_INSTANCES_redirect_uri=https%3A%2F%2Ffairsuch.net%2Foauth2%2Fcallback_INSTANCES_response_type=code_INSTANCES_scope=openid+email+profile_INSTANCES_state=IFx76e08K2uxBDExpB4loN4Rrfwjk7VZ89ryRRSUdKM%3A%2F
-    url: https://id.fairkom.net/auth/realms/fairlogin/protocol/openid-connect/auth?approval_prompt=force_INSTANCES_client_id=fairlogin-proxy_INSTANCES_redirect_uri=https%3A%2F%2Ffairsuch.net%2Foauth2%2Fcallback_INSTANCES_response_type=code_INSTANCES_scope=openid+email+profile_INSTANCES_state=IFx76e08K2uxBDExpB4loN4Rrfwjk7VZ89ryRRSUdKM%3A%2F/
     expectedStatusCodes:
       - 200
       - 429
