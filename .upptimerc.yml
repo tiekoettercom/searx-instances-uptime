@@ -508,8 +508,8 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: id.fairkom.net/auth/realms/fairlogin/protocol/openid-connect/auth?approval_prompt=force_INSTANCES_client_id=fairlogin-proxy_INSTANCES_redirect_uri=https%3A%2F%2Ffairsuch.net%2Foauth2%2Fcallback_INSTANCES_response_type=code_INSTANCES_scope=openid+email+profile_INSTANCES_state=GsAfBJQjrZ9BqpkhEU5qyf9wreaYWslWhltPp4t3ZNQ%3A%2F
-    url: https://id.fairkom.net/auth/realms/fairlogin/protocol/openid-connect/auth?approval_prompt=force_INSTANCES_client_id=fairlogin-proxy_INSTANCES_redirect_uri=https%3A%2F%2Ffairsuch.net%2Foauth2%2Fcallback_INSTANCES_response_type=code_INSTANCES_scope=openid+email+profile_INSTANCES_state=GsAfBJQjrZ9BqpkhEU5qyf9wreaYWslWhltPp4t3ZNQ%3A%2F/
+  - name: id.fairkom.net/auth/realms/fairlogin/protocol/openid-connect/auth?approval_prompt=force_INSTANCES_client_id=fairlogin-proxy_INSTANCES_redirect_uri=https%3A%2F%2Ffairsuch.net%2Foauth2%2Fcallback_INSTANCES_response_type=code_INSTANCES_scope=openid+email+profile_INSTANCES_state=IFx76e08K2uxBDExpB4loN4Rrfwjk7VZ89ryRRSUdKM%3A%2F
+    url: https://id.fairkom.net/auth/realms/fairlogin/protocol/openid-connect/auth?approval_prompt=force_INSTANCES_client_id=fairlogin-proxy_INSTANCES_redirect_uri=https%3A%2F%2Ffairsuch.net%2Foauth2%2Fcallback_INSTANCES_response_type=code_INSTANCES_scope=openid+email+profile_INSTANCES_state=IFx76e08K2uxBDExpB4loN4Rrfwjk7VZ89ryRRSUdKM%3A%2F/
     expectedStatusCodes:
       - 200
       - 429
