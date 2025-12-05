@@ -1,7 +1,7 @@
 url: https://search.unredacted.org/
-status: up
-code: 200
-responseTime: 339
-lastUpdated: 2025-12-05T03:01:25.989Z
+status: down
+code: 502
+responseTime: 8850
+lastUpdated: 2025-12-05T05:42:29.239Z
 startTime: 2025-11-04T11:01:12.433Z
 generator: Upptime <https://github.com/upptime/upptime>
