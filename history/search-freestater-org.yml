@@ -1,7 +1,7 @@
 url: https://search.freestater.org/
-status: up
-code: 200
-responseTime: 329
-lastUpdated: 2026-01-11T23:13:19.438Z
+status: down
+code: 502
+responseTime: 452
+lastUpdated: 2026-01-12T14:00:55.629Z
 startTime: 2025-12-01T15:01:31.059Z
 generator: Upptime <https://github.com/upptime/upptime>
