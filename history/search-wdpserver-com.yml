@@ -1,7 +1,7 @@
 url: https://search.wdpserver.com/
-status: up
-code: 200
-responseTime: 493
-lastUpdated: 2026-01-15T21:41:51.763Z
+status: down
+code: 502
+responseTime: 388
+lastUpdated: 2026-01-15T22:11:48.227Z
 startTime: 2025-12-25T23:01:14.688Z
 generator: Upptime <https://github.com/upptime/upptime>
