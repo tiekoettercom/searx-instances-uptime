@@ -1,7 +1,7 @@
 url: https://search.darkness.services/
-status: up
-code: 200
-responseTime: 509
-lastUpdated: 2026-01-15T23:14:04.759Z
+status: down
+code: 502
+responseTime: 3186
+lastUpdated: 2026-01-16T23:01:10.045Z
 startTime: 2025-10-28T15:02:18.813Z
 generator: Upptime <https://github.com/upptime/upptime>
