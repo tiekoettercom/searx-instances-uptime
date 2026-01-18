@@ -1,7 +1,7 @@
 url: https://paulgo.io/
-status: up
-code: 200
-responseTime: 3443
-lastUpdated: 2026-01-17T23:13:01.129Z
+status: down
+code: 502
+responseTime: 3262
+lastUpdated: 2026-01-18T16:50:58.308Z
 startTime: 2022-03-29T13:31:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
