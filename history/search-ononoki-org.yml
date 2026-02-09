@@ -1,7 +1,7 @@
 url: https://search.ononoki.org/
-status: up
-code: 200
-responseTime: 149
-lastUpdated: 2026-02-08T23:22:41.277Z
+status: down
+code: 502
+responseTime: 318
+lastUpdated: 2026-02-09T18:01:16.485Z
 startTime: 2022-05-11T13:01:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
