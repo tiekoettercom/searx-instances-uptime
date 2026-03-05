@@ -1,7 +1,7 @@
 url: https://searxng.canine.tools/
-status: up
-code: 200
-responseTime: 170
-lastUpdated: 2026-03-05T11:11:45.923Z
+status: down
+code: 502
+responseTime: 214
+lastUpdated: 2026-03-05T17:23:23.957Z
 startTime: 2025-10-13T18:02:18.055Z
 generator: Upptime <https://github.com/upptime/upptime>
