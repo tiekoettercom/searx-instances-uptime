@@ -1,7 +1,7 @@
 url: https://search.rowie.at/
-status: up
-code: 200
-responseTime: 645
-lastUpdated: 2026-03-12T23:20:19.818Z
+status: down
+code: 502
+responseTime: 1185
+lastUpdated: 2026-03-13T03:01:15.617Z
 startTime: 2025-12-20T19:01:45.028Z
 generator: Upptime <https://github.com/upptime/upptime>
