@@ -513,8 +513,7 @@
       "2025-03-31": 60,
       "2025-03-30": 10,
       "2025-03-29": 10,
-      "2025-03-28": 10,
-      "2025-03-21": 20
+      "2025-03-28": 10
     }
   },
   {
@@ -1030,19 +1029,20 @@
     "url": "https://search.datenkrake.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/search.datenkrake.ch.ico",
     "slug": "search-datenkrake-ch",
-    "status": "down",
-    "uptime": "99.33%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.33%",
-    "time": 439,
-    "timeDay": 439,
-    "timeWeek": 439,
-    "timeMonth": 439,
-    "timeYear": 439,
+    "status": "up",
+    "uptime": "96.72%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "96.72%",
+    "uptimeYear": "96.72%",
+    "time": 441,
+    "timeDay": 441,
+    "timeWeek": 441,
+    "timeMonth": 441,
+    "timeYear": 441,
     "dailyMinutesDown": {
-      "2026-03-20": 2
+      "2026-03-21": 1,
+      "2026-03-20": 9
     }
   },
   {
@@ -1668,8 +1668,7 @@
       "2025-06-17": 10,
       "2025-06-15": 19,
       "2025-06-14": 10,
-      "2025-04-13": 10,
-      "2025-03-21": 10
+      "2025-04-13": 10
     }
   },
   {
@@ -1742,7 +1741,7 @@
     "status": "up",
     "uptime": "98.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "33.96%",
+    "uptimeWeek": "34.05%",
     "uptimeMonth": "81.21%",
     "uptimeYear": "97.73%",
     "time": 674,
@@ -1819,7 +1818,7 @@
     "uptime": "97.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "34.35%",
+    "uptimeMonth": "34.38%",
     "uptimeYear": "93.22%",
     "time": 526,
     "timeDay": 364,
@@ -2035,7 +2034,7 @@
     "uptime": "87.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.93%",
+    "uptimeMonth": "97.95%",
     "uptimeYear": "87.59%",
     "time": 683,
     "timeDay": 429,
@@ -2123,11 +2122,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.url4irl.com.ico",
     "slug": "search-url4irl-com",
     "status": "up",
-    "uptime": "69.12%",
+    "uptime": "69.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.17%",
+    "uptimeYear": "69.19%",
     "time": 510,
     "timeDay": 476,
     "timeWeek": 459,
@@ -2923,11 +2922,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searxng.deggo.fyi.ico",
     "slug": "searxng-deggo-fyi",
     "status": "up",
-    "uptime": "72.03%",
+    "uptime": "72.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.79%",
-    "uptimeMonth": "72.03%",
-    "uptimeYear": "72.03%",
+    "uptimeWeek": "82.88%",
+    "uptimeMonth": "72.04%",
+    "uptimeYear": "72.04%",
     "time": 963,
     "timeDay": 695,
     "timeWeek": 713,
@@ -3063,8 +3062,7 @@
       "2025-04-28": 10,
       "2025-04-05": 272,
       "2025-04-04": 827,
-      "2025-03-30": 10,
-      "2025-03-21": 10
+      "2025-03-30": 10
     }
   },
   {
@@ -3075,8 +3073,8 @@
     "status": "down",
     "uptime": "94.89%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "65.04%",
-    "uptimeMonth": "91.95%",
+    "uptimeWeek": "64.94%",
+    "uptimeMonth": "91.93%",
     "uptimeYear": "93.90%",
     "time": 564,
     "timeDay": 0,
@@ -3084,7 +3082,8 @@
     "timeMonth": 486,
     "timeYear": 572,
     "dailyMinutesDown": {
-      "2026-03-20": 1436,
+      "2026-03-21": 6,
+      "2026-03-20": 1440,
       "2026-03-19": 1440,
       "2026-03-18": 648,
       "2025-12-31": 321,
