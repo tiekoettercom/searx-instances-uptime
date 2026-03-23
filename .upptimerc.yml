@@ -410,6 +410,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: searx.tsmdt.de
+    url: https://searx.tsmdt.de/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.tuxcloud.net
     url: https://searx.tuxcloud.net/
     expectedStatusCodes:
