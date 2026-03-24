@@ -1,7 +1,7 @@
 url: https://find.xenorio.xyz/
-status: up
-code: 200
-responseTime: 448
-lastUpdated: 2026-03-23T23:24:48.015Z
+status: down
+code: 502
+responseTime: 493
+lastUpdated: 2026-03-24T23:00:20.079Z
 startTime: 2025-06-14T10:00:21.037Z
 generator: Upptime <https://github.com/upptime/upptime>
