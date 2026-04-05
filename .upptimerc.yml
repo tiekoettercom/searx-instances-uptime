@@ -487,13 +487,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: anubis.darkness.services/.within.website/?redir=https%3A%2F%2Fsearch.darkness.services%2F
-    url: https://anubis.darkness.services/.within.website/?redir=https%3A%2F%2Fsearch.darkness.services%2F/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
