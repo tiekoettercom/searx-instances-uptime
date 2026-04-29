@@ -1,7 +1,7 @@
 url: https://searxng.cups.moe/
-status: down
-code: 504
-responseTime: 583
-lastUpdated: 2026-04-29T05:01:38.256Z
+status: up
+code: 200
+responseTime: 1077
+lastUpdated: 2026-04-29T05:11:31.264Z
 startTime: 2025-11-20T19:02:41.250Z
 generator: Upptime <https://github.com/upptime/upptime>
