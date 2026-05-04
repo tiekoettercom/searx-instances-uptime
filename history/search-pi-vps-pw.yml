@@ -1,7 +1,7 @@
 url: https://search.pi.vps.pw/
-status: up
-code: 200
+status: down
+code: 403
 responseTime: 445
-lastUpdated: 2026-05-04T00:50:37.489Z
+lastUpdated: 2026-05-04T01:10:39.291Z
 startTime: 2026-02-05T15:01:30.968Z
 generator: Upptime <https://github.com/upptime/upptime>
