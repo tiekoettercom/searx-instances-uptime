@@ -123,13 +123,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.charliewhiskey.net
-    url: https://search.charliewhiskey.net/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.chocolatemoo53.com
     url: https://search.chocolatemoo53.com/
     expectedStatusCodes:
