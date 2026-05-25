@@ -1,7 +1,7 @@
 url: https://searx.ox2.fr/
-status: up
-code: 200
-responseTime: 609
-lastUpdated: 2026-05-25T04:06:29.142Z
+status: down
+code: 403
+responseTime: 460
+lastUpdated: 2026-05-25T10:21:28.659Z
 startTime: 2023-06-20T14:02:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
