@@ -1,7 +1,7 @@
 url: https://search.im-in.space/
-status: up
-code: 200
-responseTime: 462
-lastUpdated: 2026-05-30T00:07:44.906Z
+status: down
+code: 502
+responseTime: 481
+lastUpdated: 2026-06-03T16:26:42.458Z
 startTime: 2023-05-30T14:00:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
