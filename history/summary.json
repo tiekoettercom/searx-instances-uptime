@@ -110,7 +110,7 @@
     "status": "up",
     "uptime": "96.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "41.59%",
+    "uptimeWeek": "41.77%",
     "uptimeMonth": "49.50%",
     "uptimeYear": "90.80%",
     "time": 864,
@@ -212,7 +212,7 @@
     "uptime": "95.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.25%",
+    "uptimeMonth": "94.30%",
     "uptimeYear": "97.63%",
     "time": 332,
     "timeDay": 671,
@@ -606,7 +606,7 @@
     "uptime": "97.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.72%",
+    "uptimeMonth": "76.76%",
     "uptimeYear": "91.37%",
     "time": 997,
     "timeDay": 1015,
@@ -708,7 +708,7 @@
     "uptime": "90.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "37.57%",
+    "uptimeMonth": "37.61%",
     "uptimeYear": "90.64%",
     "time": 187,
     "timeDay": 185,
@@ -786,7 +786,7 @@
       "2026-05-01": 140,
       "2026-05-02": 62,
       "2026-05-04": 50,
-      "2026-06-15": 1085,
+      "2026-06-15": 1103,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -1012,11 +1012,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.chocolatemoo53.com.ico",
     "slug": "search-chocolatemoo53-com",
     "status": "down",
-    "uptime": "95.37%",
-    "uptimeDay": "65.88%",
-    "uptimeWeek": "83.49%",
-    "uptimeMonth": "91.94%",
-    "uptimeYear": "95.37%",
+    "uptime": "95.34%",
+    "uptimeDay": "64.62%",
+    "uptimeWeek": "83.31%",
+    "uptimeMonth": "91.90%",
+    "uptimeYear": "95.34%",
     "time": 197,
     "timeDay": 167,
     "timeWeek": 195,
@@ -1034,7 +1034,7 @@
       "2026-06-10": 23,
       "2026-06-11": 810,
       "2026-06-13": 340,
-      "2026-06-15": 491
+      "2026-06-15": 509
     }
   },
   {
@@ -1046,7 +1046,7 @@
     "uptime": "97.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.22%",
+    "uptimeMonth": "97.27%",
     "uptimeYear": "97.45%",
     "time": 546,
     "timeDay": 479,
@@ -1525,11 +1525,11 @@
     "url": "https://search.minus27315.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/search.minus27315.dev.ico",
     "slug": "search-minus27315-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "85.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "42.84%",
-    "uptimeMonth": "27.37%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "42.97%",
+    "uptimeMonth": "27.36%",
     "uptimeYear": "85.24%",
     "time": 713,
     "timeDay": 508,
@@ -1575,7 +1575,8 @@
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 489,
-      "2026-06-14": 17
+      "2026-06-14": 17,
+      "2026-06-15": 5
     }
   },
   {
@@ -1677,7 +1678,7 @@
       "2026-05-13": 1440,
       "2026-05-12": 1440,
       "2026-05-11": 484,
-      "2026-06-15": 1086,
+      "2026-06-15": 1104,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -1720,7 +1721,7 @@
     "uptime": "85.18%",
     "uptimeDay": "99.01%",
     "uptimeWeek": "99.06%",
-    "uptimeMonth": "77.97%",
+    "uptimeMonth": "78.01%",
     "uptimeYear": "85.18%",
     "time": 588,
     "timeDay": 471,
@@ -1783,14 +1784,14 @@
     "url": "https://search.pi.vps.pw/",
     "icon": "https://icons.duckduckgo.com/ip3/search.pi.vps.pw.ico",
     "slug": "search-pi-vps-pw",
-    "status": "down",
+    "status": "up",
     "uptime": "93.96%",
-    "uptimeDay": "8.48%",
-    "uptimeWeek": "9.34%",
-    "uptimeMonth": "74.18%",
+    "uptimeDay": "8.06%",
+    "uptimeWeek": "9.36%",
+    "uptimeMonth": "74.15%",
     "uptimeYear": "93.96%",
     "time": 723,
-    "timeDay": 458,
+    "timeDay": 453,
     "timeWeek": 435,
     "timeMonth": 447,
     "timeYear": 723,
@@ -1803,7 +1804,7 @@
       "2026-06-12": 1323,
       "2026-06-13": 1351,
       "2026-06-14": 1294,
-      "2026-06-15": 996
+      "2026-06-15": 1009
     }
   },
   {
@@ -2043,7 +2044,7 @@
     "uptime": "97.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "11.34%",
+    "uptimeMonth": "11.30%",
     "uptimeYear": "92.17%",
     "time": 784,
     "timeDay": 486,
@@ -2072,7 +2073,7 @@
       "2026-03-30": 10,
       "2026-04-02": 70,
       "2026-04-23": 380,
-      "2026-06-15": 1086,
+      "2026-06-15": 1104,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -2108,11 +2109,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.seddens.net.ico",
     "slug": "search-seddens-net",
     "status": "down",
-    "uptime": "99.31%",
-    "uptimeDay": "83.86%",
-    "uptimeWeek": "97.69%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.31%",
+    "uptime": "99.30%",
+    "uptimeDay": "82.60%",
+    "uptimeWeek": "97.51%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.30%",
     "time": 802,
     "timeDay": 693,
     "timeWeek": 1079,
@@ -2127,7 +2128,7 @@
       "2026-04-29": 10,
       "2026-05-14": 20,
       "2026-06-07": 11,
-      "2026-06-15": 232
+      "2026-06-15": 251
     }
   },
   {
@@ -2136,11 +2137,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.serpensin.com.ico",
     "slug": "search-serpensin-com",
     "status": "down",
-    "uptime": "98.39%",
-    "uptimeDay": "65.91%",
-    "uptimeWeek": "95.13%",
-    "uptimeMonth": "97.92%",
-    "uptimeYear": "98.39%",
+    "uptime": "98.38%",
+    "uptimeDay": "64.65%",
+    "uptimeWeek": "94.95%",
+    "uptimeMonth": "97.88%",
+    "uptimeYear": "98.38%",
     "time": 572,
     "timeDay": 372,
     "timeWeek": 403,
@@ -2154,7 +2155,7 @@
       "2026-03-22": 259,
       "2026-04-23": 9,
       "2026-05-30": 422,
-      "2026-06-15": 491
+      "2026-06-15": 509
     }
   },
   {
@@ -2303,11 +2304,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.wdpserver.com.ico",
     "slug": "search-wdpserver-com",
     "status": "down",
-    "uptime": "95.52%",
-    "uptimeDay": "62.69%",
-    "uptimeWeek": "94.67%",
-    "uptimeMonth": "98.32%",
-    "uptimeYear": "95.52%",
+    "uptime": "95.51%",
+    "uptimeDay": "61.43%",
+    "uptimeWeek": "94.49%",
+    "uptimeMonth": "98.28%",
+    "uptimeYear": "95.51%",
     "time": 596,
     "timeDay": 539,
     "timeWeek": 542,
@@ -2337,7 +2338,7 @@
       "2026-04-21": 438,
       "2026-05-22": 20,
       "2026-05-30": 179,
-      "2026-06-15": 537
+      "2026-06-15": 555
     }
   },
   {
@@ -2346,11 +2347,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.zina.dev.ico",
     "slug": "search-zina-dev",
     "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "63.55%",
-    "uptimeWeek": "94.79%",
-    "uptimeMonth": "98.01%",
-    "uptimeYear": "99.53%",
+    "uptime": "99.52%",
+    "uptimeDay": "62.29%",
+    "uptimeWeek": "94.61%",
+    "uptimeMonth": "97.97%",
+    "uptimeYear": "99.52%",
     "time": 502,
     "timeDay": 374,
     "timeWeek": 446,
@@ -2363,7 +2364,7 @@
       "2026-03-04": 10,
       "2026-05-15": 9,
       "2026-05-30": 346,
-      "2026-06-15": 525
+      "2026-06-15": 543
     }
   },
   {
@@ -2374,9 +2375,9 @@
     "status": "down",
     "uptime": "95.13%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.18%",
-    "uptimeMonth": "89.41%",
-    "uptimeYear": "94.04%",
+    "uptimeWeek": "54.00%",
+    "uptimeMonth": "89.37%",
+    "uptimeYear": "94.03%",
     "time": 853,
     "timeDay": 283,
     "timeWeek": 429,
@@ -2437,7 +2438,7 @@
       "2026-04-26": 1440,
       "2026-05-07": 29,
       "2026-05-22": 20,
-      "2026-06-15": 1087,
+      "2026-06-15": 1105,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 652
@@ -2752,9 +2753,9 @@
     "slug": "searx-perennialte-ch",
     "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "64.40%",
-    "uptimeWeek": "94.91%",
-    "uptimeMonth": "97.50%",
+    "uptimeDay": "63.14%",
+    "uptimeWeek": "94.73%",
+    "uptimeMonth": "97.46%",
     "uptimeYear": "99.17%",
     "time": 689,
     "timeDay": 2155,
@@ -2780,7 +2781,7 @@
       "2026-05-01": 29,
       "2026-05-31": 63,
       "2026-05-30": 519,
-      "2026-06-15": 513
+      "2026-06-15": 531
     }
   },
   {
@@ -2999,10 +3000,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.tuxcloud.net.ico",
     "slug": "searx-tuxcloud-net",
     "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "67.00%",
-    "uptimeWeek": "95.29%",
-    "uptimeMonth": "98.92%",
+    "uptime": "99.78%",
+    "uptimeDay": "65.74%",
+    "uptimeWeek": "95.11%",
+    "uptimeMonth": "98.87%",
     "uptimeYear": "99.78%",
     "time": 678,
     "timeDay": 426,
@@ -3031,7 +3032,7 @@
       "2026-02-22": 20,
       "2026-03-06": 40,
       "2026-04-30": 39,
-      "2026-06-15": 475
+      "2026-06-15": 493
     }
   },
   {
@@ -3041,9 +3042,9 @@
     "slug": "searxng-canine-tools",
     "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "62.66%",
-    "uptimeWeek": "94.67%",
-    "uptimeMonth": "97.83%",
+    "uptimeDay": "61.40%",
+    "uptimeWeek": "94.49%",
+    "uptimeMonth": "97.79%",
     "uptimeYear": "99.39%",
     "time": 289,
     "timeDay": 237,
@@ -3085,7 +3086,7 @@
       "2026-05-25": 30,
       "2026-05-30": 370,
       "2026-06-03": 11,
-      "2026-06-15": 538
+      "2026-06-15": 556
     }
   },
   {
@@ -3093,17 +3094,17 @@
     "url": "https://searxng.cups.moe/",
     "icon": "https://icons.duckduckgo.com/ip3/searxng.cups.moe.ico",
     "slug": "searxng-cups-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "96.87%",
-    "uptimeDay": "70.76%",
-    "uptimeWeek": "95.82%",
-    "uptimeMonth": "90.73%",
+    "uptimeDay": "70.49%",
+    "uptimeWeek": "95.78%",
+    "uptimeMonth": "90.72%",
     "uptimeYear": "96.87%",
-    "time": 749,
-    "timeDay": 577,
-    "timeWeek": 956,
-    "timeMonth": 1022,
-    "timeYear": 749,
+    "time": 747,
+    "timeDay": 567,
+    "timeWeek": 932,
+    "timeMonth": 1016,
+    "timeYear": 747,
     "dailyMinutesDown": {
       "2025-12-25": 10,
       "2026-03-20": 10,
@@ -3121,7 +3122,7 @@
       "2026-06-01": 1135,
       "2026-06-02": 645,
       "2026-06-08": 17,
-      "2026-06-15": 421
+      "2026-06-15": 425
     }
   },
   {
