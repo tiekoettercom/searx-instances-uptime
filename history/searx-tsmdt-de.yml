@@ -1,7 +1,7 @@
 url: https://searx.tsmdt.de/
-status: up
-code: 200
-responseTime: 858
-lastUpdated: 2026-06-15T00:13:26.764Z
+status: down
+code: 502
+responseTime: 343
+lastUpdated: 2026-06-16T00:08:18.185Z
 startTime: 2026-03-23T15:01:27.472Z
 generator: Upptime <https://github.com/upptime/upptime>
