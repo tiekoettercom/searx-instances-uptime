@@ -1,7 +1,7 @@
 url: https://searx.thefloatinglab.world/
-status: up
-code: 200
-responseTime: 766
-lastUpdated: 2026-07-01T14:22:36.458Z
+status: down
+code: 502
+responseTime: 675
+lastUpdated: 2026-07-02T00:02:19.800Z
 startTime: 2026-07-01T14:22:35.691Z
 generator: Upptime <https://github.com/upptime/upptime>
