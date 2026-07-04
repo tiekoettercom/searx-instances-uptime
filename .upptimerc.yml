@@ -263,6 +263,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.seddens.net
+    url: https://search.seddens.net/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.serpensin.com
     url: https://search.serpensin.com/
     expectedStatusCodes:
@@ -531,13 +538,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: xka.cz
     url: https://xka.cz/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: auth.seddens.net/?rd=https:%2F%2Fsearch.seddens.net%2F
-    url: https://auth.seddens.net/?rd=https:%2F%2Fsearch.seddens.net%2F/
     expectedStatusCodes:
       - 200
       - 429
