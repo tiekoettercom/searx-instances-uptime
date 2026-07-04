@@ -1,7 +1,7 @@
 url: https://search.inetol.net/
-status: up
-code: 200
-responseTime: 510
-lastUpdated: 2026-07-04T10:00:45.368Z
+status: down
+code: 502
+responseTime: 1783
+lastUpdated: 2026-07-04T19:45:44.403Z
 startTime: 2023-11-01T23:00:48.084Z
 generator: Upptime <https://github.com/upptime/upptime>
