@@ -137,6 +137,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.drayko.xyz
+    url: https://search.drayko.xyz/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.einfachzocken.eu
     url: https://search.einfachzocken.eu/
     expectedStatusCodes:
@@ -188,6 +195,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.internetsucks.net
     url: https://search.internetsucks.net/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.jns.net.ar
+    url: https://search.jns.net.ar/
     expectedStatusCodes:
       - 200
       - 429
@@ -307,6 +321,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.wdpserver.com
     url: https://search.wdpserver.com/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.yuri.llc
+    url: https://search.yuri.llc/
     expectedStatusCodes:
       - 200
       - 429
@@ -482,6 +503,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searxng.moonshadow.dev
     url: https://searxng.moonshadow.dev/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: searxng.paralaxitaentomology.org
+    url: https://searxng.paralaxitaentomology.org/
     expectedStatusCodes:
       - 200
       - 429
