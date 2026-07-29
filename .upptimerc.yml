@@ -137,13 +137,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.drayko.xyz
-    url: https://search.drayko.xyz/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.einfachzocken.eu
     url: https://search.einfachzocken.eu/
     expectedStatusCodes:
@@ -347,6 +340,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: searx.drayko.xyz
+    url: https://searx.drayko.xyz/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.dresden.network
     url: https://searx.dresden.network/
     expectedStatusCodes:
@@ -405,13 +405,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.perennialte.ch
     url: https://searx.perennialte.ch/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.rajimayur.me
-    url: https://searx.rajimayur.me/
     expectedStatusCodes:
       - 200
       - 429
