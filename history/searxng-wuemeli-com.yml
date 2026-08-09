@@ -1,7 +1,7 @@
 url: https://searxng.wuemeli.com/
-status: down
-code: 504
-responseTime: 10467
-lastUpdated: 2026-08-09T20:09:17.388Z
+status: up
+code: 200
+responseTime: 423
+lastUpdated: 2026-08-09T20:53:25.176Z
 startTime: 2026-06-01T14:12:53.044Z
 generator: Upptime <https://github.com/upptime/upptime>
