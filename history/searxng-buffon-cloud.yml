@@ -1,7 +1,7 @@
 url: https://searxng.buffon.cloud/
-status: up
-code: 200
-responseTime: 650
-lastUpdated: 2026-09-04T00:44:28.479Z
+status: down
+code: 403
+responseTime: 764
+lastUpdated: 2026-09-04T11:41:56.268Z
 startTime: 2026-08-15T14:07:29.386Z
 generator: Upptime <https://github.com/upptime/upptime>
