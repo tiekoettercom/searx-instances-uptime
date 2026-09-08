@@ -557,15 +557,15 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: privacyredirect.com
-    url: https://privacyredirect.com/
+  - name: auth.seddens.net/?rd=https://search.seddens.net
+    url: https://auth.seddens.net/?rd=https://search.seddens.net/
     expectedStatusCodes:
       - 200
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: auth.seddens.net/?rd=https://search.seddens.net
-    url: https://auth.seddens.net/?rd=https://search.seddens.net/
+  - name: privacyredirect.com
+    url: https://privacyredirect.com/
     expectedStatusCodes:
       - 200
       - 429
