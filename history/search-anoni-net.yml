@@ -1,7 +1,7 @@
 url: https://search.anoni.net/
-status: up
-code: 200
-responseTime: 668
-lastUpdated: 2026-09-17T01:05:08.110Z
+status: down
+code: 502
+responseTime: 415
+lastUpdated: 2026-09-18T06:50:27.709Z
 startTime: 2025-09-11T22:00:58.624Z
 generator: Upptime <https://github.com/upptime/upptime>
