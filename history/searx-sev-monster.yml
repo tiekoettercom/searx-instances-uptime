@@ -1,7 +1,7 @@
 url: https://searx.sev.monster/
-status: up
-code: 200
-responseTime: 201
-lastUpdated: 2026-09-23T11:05:45.511Z
+status: down
+code: 418
+responseTime: 385
+lastUpdated: 2026-09-23T19:55:02.161Z
 startTime: 2022-05-14T16:01:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
