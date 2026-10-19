@@ -1,7 +1,7 @@
 url: https://search.ethibox.fr/
-status: up
-code: 200
-responseTime: 517
-lastUpdated: 2026-10-17T00:57:55.203Z
+status: down
+code: 403
+responseTime: 484
+lastUpdated: 2026-10-19T02:04:58.109Z
 startTime: 2025-09-08T14:02:09.019Z
 generator: Upptime <https://github.com/upptime/upptime>
