@@ -1,7 +1,7 @@
 url: https://search.lumy.live/
-status: up
-code: 200
-responseTime: 404
-lastUpdated: 2026-10-24T16:40:59.256Z
+status: down
+code: 500
+responseTime: 300
+lastUpdated: 2026-10-24T16:57:19.422Z
 startTime: 2026-07-19T22:05:34.736Z
 generator: Upptime <https://github.com/upptime/upptime>
