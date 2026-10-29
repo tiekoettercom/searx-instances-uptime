@@ -1,7 +1,7 @@
 url: https://searxng.jaydenha.uk/
-status: up
-code: 200
-responseTime: 667
-lastUpdated: 2026-10-28T02:09:41.091Z
+status: down
+code: 502
+responseTime: 916
+lastUpdated: 2026-10-29T15:20:39.544Z
 startTime: 2026-10-26T07:19:20.421Z
 generator: Upptime <https://github.com/upptime/upptime>
