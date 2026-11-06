@@ -529,6 +529,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: shrt.win
+    url: https://shrt.win/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud/
     expectedStatusCodes:
