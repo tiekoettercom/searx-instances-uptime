@@ -1,7 +1,7 @@
 url: https://searxng.eshnetwork.space/
-status: up
-code: 200
-responseTime: 153
-lastUpdated: 2026-11-11T02:36:21.482Z
+status: down
+code: 500
+responseTime: 39
+lastUpdated: 2026-11-12T14:30:08.521Z
 startTime: 2026-08-01T18:23:00.618Z
 generator: Upptime <https://github.com/upptime/upptime>
