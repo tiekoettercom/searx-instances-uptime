@@ -1,7 +1,7 @@
 url: https://searx.rhscz.eu/
-status: up
-code: 200
-responseTime: 581
-lastUpdated: 2026-11-17T05:00:44.676Z
+status: down
+code: 503
+responseTime: 288
+lastUpdated: 2026-11-20T08:03:27.129Z
 startTime: 2024-01-15T19:01:02.295Z
 generator: Upptime <https://github.com/upptime/upptime>
