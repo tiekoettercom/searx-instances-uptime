@@ -32,13 +32,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: etsi.me
-    url: https://etsi.me/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: failsearx.culturanerd.it
     url: https://failsearx.culturanerd.it/
     expectedStatusCodes:
@@ -144,6 +137,13 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.dnslister.com
+    url: https://search.dnslister.com/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.einfachzocken.eu
     url: https://search.einfachzocken.eu/
     expectedStatusCodes:
@@ -209,13 +209,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.mdosch.de
     url: https://search.mdosch.de/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.mectov.my.id
-    url: https://search.mectov.my.id/
     expectedStatusCodes:
       - 200
       - 429
@@ -382,13 +375,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searx.perennialte.ch
-    url: https://searx.perennialte.ch/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searx.redgarden.cv
     url: https://searx.redgarden.cv/
     expectedStatusCodes:
@@ -468,13 +454,6 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: searxng.gdebest.net
     url: https://searxng.gdebest.net/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: searxng.gr
-    url: https://searxng.gr/
     expectedStatusCodes:
       - 200
       - 429
