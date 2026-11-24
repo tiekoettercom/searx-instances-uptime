@@ -1,7 +1,7 @@
 url: https://searx.ononoki.org/
-status: up
-code: 200
-responseTime: 409
-lastUpdated: 2026-11-22T03:01:39.250Z
+status: down
+code: 502
+responseTime: 265
+lastUpdated: 2026-11-24T19:38:19.695Z
 startTime: 2026-06-19T14:11:10.888Z
 generator: Upptime <https://github.com/upptime/upptime>
