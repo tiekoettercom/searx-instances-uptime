@@ -109,13 +109,6 @@ sites:
       - 429
     headers:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
-  - name: search.bladerunn.in
-    url: https://search.bladerunn.in/
-    expectedStatusCodes:
-      - 200
-      - 429
-    headers:
-      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.catboy.house
     url: https://search.catboy.house/
     expectedStatusCodes:
@@ -174,6 +167,13 @@ sites:
       - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
   - name: search.im-in.space
     url: https://search.im-in.space/
+    expectedStatusCodes:
+      - 200
+      - 429
+    headers:
+      - 'User-Agent: SearX and SearXNG instances uptime checker @ github.com/tiekoettercom/searx-instances-uptime'
+  - name: search.incyberia.net
+    url: https://search.incyberia.net/
     expectedStatusCodes:
       - 200
       - 429
